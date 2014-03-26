@@ -1,5 +1,6 @@
-# Current fields in MySQL database
+[project info](README.md)
 
+# Current fields in MySQL database
 
 Field Name | Used? | Additional Info
 --- | --- | ---
