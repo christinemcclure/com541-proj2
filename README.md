@@ -1,7 +1,7 @@
 com541-proj2
 ============
 
-#Structural Design of Information
+#Project Description
 
 **Due March 24**
 
@@ -11,7 +11,7 @@ A central concern of this project will be granularity: you will need a structura
 
 You will also need to come up with some sort of metadata scheme to categorize and/or tag the records that make up your set. This may come in the form of XML attributes, special XML tags, or specific JSON properties and language features (especially arrays).
 
-###Deliverables & Milestones
+##Deliverables & Milestones
   * A proposal memo (about a paragraph or two) emailed to the instructor by 9am on Monday, March 3
   * A shared Dropbox link to all deliverables
   * An HTML or PDF document that shows your in-progress work and briefly discusses your design process and thinking over the course of the project
@@ -19,13 +19,13 @@ You will also need to come up with some sort of metadata scheme to categorize an
   * A self-critique memo that evaluates your project and your progress in the class to this point (2-3 paragraphs; submit via email with Dropbox share link)
   * A brief (5-8 minutes) presentation of your work on March 24
 
-###Requirements
+##Requirements
 
-####Your dataset must:
+###Your dataset must:
   * Be openly/freely available from some governmental, educational, or private source; it can also be a dataset of your own creation
   * Be chosen/created with regard to the next project, which involves an interactive information display (hint: think about the importance of density from Project 1)
 
-####Your structural XML or JSON designs must:
+###Your structural XML or JSON designs must:
   * Be versioned across the life of your project to showcase the progress of your thinking and design work (HTML or PDF deliverable; extra credit for using Git/GitHub)
   * Use UTF-8 encoded text files as their foundations (*not* word-processor documents)
   * Be both valid (technically correct for parsing) and structurally semantic (using XML tags or JSON property names that describe the structure and content of your data)
