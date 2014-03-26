@@ -1,4 +1,6 @@
-[project info](README.md)
+___
+[project info](README.md) |  [formats](formats.md)
+___
 
 ###Current fields in MySQL database###
 
