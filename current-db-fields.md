@@ -5,7 +5,7 @@
 ####e_resources table####
 
 Field Name | Used? | Boolean? | Additional Info
---- | --- | ---
+--- | --- | --- | ---
 `db_id` | x | |
 `db_title` | x | |
 `db_alt_title` | x | |
