@@ -1,5 +1,5 @@
 ___
-[current-db-fields](current-db-fields.md)  |   [formats](formats.md) | [subjects](subjects.md)
+[current-db-fields](current-db-fields.md)  |   [formats](formats.md) | [subjects](subjects.md) | [example](example.md)
 ___
 
 #README.md
