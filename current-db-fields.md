@@ -14,38 +14,17 @@ Markdown | Less | Pretty
 
 
 
-`db_id`
+###carol-s.json
 
-`db_title`
+` \{
+"relationship": "Mom",
 
-`db_alt_title`
+    "name": "Carol S.",
 
-`db_url`
+    "uri": "carol-s.json",
 
-`db_type` (ai, digital, ebook, ejournal, reference)
+    "spouse": "lynn-s.json",
 
-`db_display`
+    "hobbies": ["crocheting", "cooking", "iPad games"]
 
-`db_most_used`
-
-`db_provider`
-
-`db_iit_only`
-
-`db_access_note`
-
-`db_openurl`
-
-`db_indexes`
-
-`db_indexed_by`
-
-`db_desc_short`
-
-`db_desc`
-
-`db_tutorial_url`
-
-`db_update_freq`
-
-
+\}
