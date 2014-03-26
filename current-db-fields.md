@@ -26,6 +26,22 @@ Field Name | Used? | Boolean? | Additional Info
 `db_tutorial_url` | | |
 `db_update_freq` | | |
 
+_____
 
+### Add to current db list:
+
+* Archives
+
+* Digital collections
+
+* Contrails
+
+* IIT Digital Repository
+
+* Tech News Collection
+
+* Voices of the Holocaust
+
+* World's Columbian Exposition of 1893
 
 
