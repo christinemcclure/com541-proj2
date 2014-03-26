@@ -6,6 +6,8 @@ ___
 
 [github link](https://github.com/karlstolley/isr/tree/project-2)
 
+[relational db to Mongo db tutorial](http://code.tutsplus.com/articles/mapping-relational-databases-and-sql-to-mongodb--net-35650)
+
 ### carol-s.json
 
 
