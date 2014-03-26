@@ -1,8 +1,8 @@
 ___
-[current-db-fields](current-db-fields.md)  |   [formats](formats.md)
+[current-db-fields](current-db-fields.md)  |   [formats](formats.md) | [subjects](subjects.md)
 ___
 
-#com541-proj2
+#README.md
 
 ##Project Description
 

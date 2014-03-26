@@ -1,6 +1,8 @@
 ___
-[project info](README.md) |  [formats](formats.md)
+[project info](README.md) |  [formats](formats.md) | [subjects](subjects.md)
 ___
+
+# current-db-fields.md
 
 ###Current fields in MySQL database###
 
