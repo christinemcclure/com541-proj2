@@ -1,51 +1,26 @@
 # Current fields in MySQL database
 
 
-First Header  | Second Header
-------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
-
-
-Markdown | Less | Pretty
+Field Name | Used? | Additional Info
 --- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
+`db_id` | x |
+`db_title` | x |
+`db_alt_title` | x |
+`db_url` | x |
+`db_type` | | (ai, digital, ebook, ejournal, reference)
+`db_display` | x | 
+`db_most_used` | x | 
+`db_provider` | |
+`db_iit_only` | x |
+`db_access_note` | x | used rarely
+`db_openurl` | |
+`db_indexes` | |
+`db_indexed_by` | |
+`db_desc_short` | x | shows in list
+`db_desc` | x | shows in full record only
+`db_tutorial_url` | |
+`db_update_freq` | |
 
 
-
-`db_id`
-
-`db_title`
-
-`db_alt_title`
-
-`db_url`
-
-`db_type` (ai, digital, ebook, ejournal, reference)
-
-`db_display`
-
-`db_most_used`
-
-`db_provider`
-
-`db_iit_only`
-
-`db_access_note`
-
-`db_openurl`
-
-`db_indexes`
-
-`db_indexed_by`
-
-`db_desc_short`
-
-`db_desc`
-
-`db_tutorial_url`
-
-`db_update_freq`
 
 
