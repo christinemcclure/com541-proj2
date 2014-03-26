@@ -1,6 +1,8 @@
 [project info](README.md)
 
-# Current fields in MySQL database
+###Current fields in MySQL database###
+
+####e_resources table####
 
 Field Name | Used? | Additional Info
 --- | --- | ---
