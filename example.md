@@ -8,6 +8,8 @@ ___
 
 [relational db to Mongo db tutorial](http://code.tutsplus.com/articles/mapping-relational-databases-and-sql-to-mongodb--net-35650)
 
+[export Google spreadsheet as JSON](http://blog.pamelafox.org/2013/06/exporting-google-spreadsheet-as-json.html)
+
 ### carol-s.json
 
 
