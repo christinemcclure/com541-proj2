@@ -1,68 +1,266 @@
-{
-  "AAH": "Art and Architectural History",
-  "ANTH": "Anthropology",
-  "ARCH": "Architecture",
-  "AS": "Air Force Aerospace Studies",
-  "AURB": "Architecture and Urbanism",
-  "BIOL": "Biology",
-  "BME": "Biomedical Engineering",
-  "BUS": "Business",
-  "CAE": "Civil and Architectural Engineering",
-  "CHE": "Chemical Engineering",
-  "CHEM": "Chemistry",
-  "COM": "Communications",
-  "COOP": "Cooperative Education",
-  "CS": "Computer Science",
-  "CSP": "Computer Science Prof Master",
-  "ECE": "Electrical and Computer Engineering",
-  "ECON": "Economics",
-  "EG": "Engineering Graphics",
-  "EMGT": "Engineering Management",
-  "EMS": "Environmental Management and Sustainability",
-  "ENGR": "General Engineering",
-  "ENVE": "Environmental Engineering",
-  "EXCH": "Exchange Student",
-  "FPE": "Food Process Engineering",
-  "FST": "Food Safety and Technology",
-  "GCS": "Graduate Continuation Studies",
-  "GEN": "General Studies",
-  "HIST": "History",
-  "HUM": "Humanities",
-  "IDN": "Institute of Design",
-  "IDX": "Institute of Design",
-  "INTM": "Industrial Tech and Mgmt",
-  "INTR": "Internship",
-  "IPMM": "Intellectual Prop Management and Markets",
-  "IPRO": "Interprofessional Project",
-  "ITM": "Information Technology and Management",
-  "ITMD": "ITM Development",
-  "ITMM": "ITM Management",
-  "ITMO": "ITM Operations",
-  "ITMS": "ITM Security",
-  "ITMT": "ITM Theory and Technology",
-  "LA": "Landscape Architecture",
-  "LAW": "Law",
-  "LCHS": "Lewis Collge of Human Sciences",
-  "LCS": "Law Continuation Studies",
-  "LIT": "Literature",
-  "MAC": "Marketing Analytics and Comms",
-  "MATH": "Mathematics",
-  "MBA": "MBA Business",
-  "MILS": "Military Science",
-  "MMAE": "Mechanical, Materials and Aerospcace Engineering",
-  "MS": "Materials Science",
-  "MSC": "Management Science",
-  "MSED": "Mathematics and Science Education",
-  "MSF": "Master of Science in Finance",
-  "NS": "Naval Science",
-  "PA": "Public Administration",
-  "PCA": "Prof Communication Advancement",
-  "PESL": "Proficiency of English as a Second Language",
-  "PHIL": "Philosophy",
-  "PHYS": "Physics",
-  "PS": "Political Science",
-  "PSYC": "Psychology",
-  "SCI": "Science",
-  "SOC": "Sociology",
-  "SSB": "Stuart School of Business"
-}
+[
+  {
+    "prefix": "AAH",
+    "subject": "Art and Architectural History"
+  },
+  {
+    "prefix": "ANTH",
+    "subject": "Anthropology"
+  },
+  {
+    "prefix": "ARCH",
+    "subject": "Architecture"
+  },
+  {
+    "prefix": "AS",
+    "subject": "Air Force Aerospace Studies"
+  },
+  {
+    "prefix": "AURB",
+    "subject": "Architecture and Urbanism"
+  },
+  {
+    "prefix": "BIOL",
+    "subject": "Biology"
+  },
+  {
+    "prefix": "BME",
+    "subject": "Biomedical Engineering"
+  },
+  {
+    "prefix": "BUS",
+    "subject": "Business"
+  },
+  {
+    "prefix": "CAE",
+    "subject": "Civil and Architectural Engineering"
+  },
+  {
+    "prefix": "CHE",
+    "subject": "Chemical Engineering"
+  },
+  {
+    "prefix": "CHEM",
+    "subject": "Chemistry"
+  },
+  {
+    "prefix": "COM",
+    "subject": "Communications"
+  },
+  {
+    "prefix": "COOP",
+    "subject": "Cooperative Education"
+  },
+  {
+    "prefix": "CS",
+    "subject": "Computer Science"
+  },
+  {
+    "prefix": "CSP",
+    "subject": "Computer Science Prof Master"
+  },
+  {
+    "prefix": "ECE",
+    "subject": "Electrical and Computer Engineering"
+  },
+  {
+    "prefix": "ECON",
+    "subject": "Economics"
+  },
+  {
+    "prefix": "EG",
+    "subject": "Engineering Graphics"
+  },
+  {
+    "prefix": "EMGT",
+    "subject": "Engineering Management"
+  },
+  {
+    "prefix": "EMS",
+    "subject": "Environmental Management and Sustainability"
+  },
+  {
+    "prefix": "ENGR",
+    "subject": "General Engineering"
+  },
+  {
+    "prefix": "ENVE",
+    "subject": "Environmental Engineering"
+  },
+  {
+    "prefix": "EXCH",
+    "subject": "Exchange Student"
+  },
+  {
+    "prefix": "FPE",
+    "subject": "Food Process Engineering"
+  },
+  {
+    "prefix": "FST",
+    "subject": "Food Safety and Technology"
+  },
+  {
+    "prefix": "GCS",
+    "subject": "Graduate Continuation Studies"
+  },
+  {
+    "prefix": "GEN",
+    "subject": "General Studies"
+  },
+  {
+    "prefix": "HIST",
+    "subject": "History"
+  },
+  {
+    "prefix": "HUM",
+    "subject": "Humanities"
+  },
+  {
+    "prefix": "IDN",
+    "subject": "Institute of Design"
+  },
+  {
+    "prefix": "IDX",
+    "subject": "Institute of Design"
+  },
+  {
+    "prefix": "INTM",
+    "subject": "Industrial Tech and Mgmt"
+  },
+  {
+    "prefix": "INTR",
+    "subject": "Internship"
+  },
+  {
+    "prefix": "IPMM",
+    "subject": "Intellectual Prop Management and Markets"
+  },
+  {
+    "prefix": "IPRO",
+    "subject": "Interprofessional Project"
+  },
+  {
+    "prefix": "ITM",
+    "subject": "Information Technology and Management"
+  },
+  {
+    "prefix": "ITMD",
+    "subject": "ITM Development"
+  },
+  {
+    "prefix": "ITMM",
+    "subject": "ITM Management"
+  },
+  {
+    "prefix": "ITMO",
+    "subject": "ITM Operations"
+  },
+  {
+    "prefix": "ITMS",
+    "subject": "ITM Security"
+  },
+  {
+    "prefix": "ITMT",
+    "subject": "ITM Theory and Technology"
+  },
+  {
+    "prefix": "LA",
+    "subject": "Landscape Architecture"
+  },
+  {
+    "prefix": "LAW",
+    "subject": "Law"
+  },
+  {
+    "prefix": "LCHS",
+    "subject": "Lewis Collge of Human Sciences"
+  },
+  {
+    "prefix": "LCS",
+    "subject": "Law Continuation Studies"
+  },
+  {
+    "prefix": "LIT",
+    "subject": "Literature"
+  },
+  {
+    "prefix": "MAC",
+    "subject": "Marketing Analytics and Comms"
+  },
+  {
+    "prefix": "MATH",
+    "subject": "Mathematics"
+  },
+  {
+    "prefix": "MBA",
+    "subject": "MBA Business"
+  },
+  {
+    "prefix": "MILS",
+    "subject": "Military Science"
+  },
+  {
+    "prefix": "MMAE",
+    "subject": "Mechanical, Materials and Aerospcace Engineering"
+  },
+  {
+    "prefix": "MS",
+    "subject": "Materials Science"
+  },
+  {
+    "prefix": "MSC",
+    "subject": "Management Science"
+  },
+  {
+    "prefix": "MSED",
+    "subject": "Mathematics and Science Education"
+  },
+  {
+    "prefix": "MSF",
+    "subject": "Master of Science in Finance"
+  },
+  {
+    "prefix": "NS",
+    "subject": "Naval Science"
+  },
+  {
+    "prefix": "PA",
+    "subject": "Public Administration"
+  },
+  {
+    "prefix": "PCA",
+    "subject": "Prof Communication Advancement"
+  },
+  {
+    "prefix": "PESL",
+    "subject": "Proficiency of English as a Second Language"
+  },
+  {
+    "prefix": "PHIL",
+    "subject": "Philosophy"
+  },
+  {
+    "prefix": "PHYS",
+    "subject": "Physics"
+  },
+  {
+    "prefix": "PS",
+    "subject": "Political Science"
+  },
+  {
+    "prefix": "PSYC",
+    "subject": "Psychology"
+  },
+  {
+    "prefix": "SCI",
+    "subject": "Science"
+  },
+  {
+    "prefix": "SOC",
+    "subject": "Sociology"
+  },
+  {
+    "prefix": "SSB",
+    "subject": "Stuart School of Business"
+  }
+]
