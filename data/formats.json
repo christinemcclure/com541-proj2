@@ -1,15 +1,54 @@
 [
-  "Dissertations & Theses",
-  "E-books",
-  "Government Documents",
-  "Images",
-  "Language Resources",
-  "Magazines",
-  "Maps & GIS Data",
-  "Newspapers",
-  "Patents",
-  "Reference Sources",
-  "Standards",
-  "Technical Reports",
-  "Videos"
+  {
+    "id": "DIS",
+    "format": "Dissertations & Theses"
+  },
+  {
+    "id": "EBK",
+    "format": "E-books"
+  },
+  {
+    "id": "GOV",
+    "format": "Government Documents"
+  },
+  {
+    "id": "IMG",
+    "format": "Images"
+  },
+  {
+    "id": "LAN",
+    "format": "Language Resources"
+  },
+  {
+    "id": "MAG",
+    "format": "Magazines"
+  },
+  {
+    "id": "MAP",
+    "format": "Maps & GIS Data"
+  },
+  {
+    "id": "NWS",
+    "format": "Newspapers"
+  },
+  {
+    "id": "PAT",
+    "format": "Patents"
+  },
+  {
+    "id": "REF",
+    "format": "Reference Sources"
+  },
+  {
+    "id": "STN",
+    "format": "Standards"
+  },
+  {
+    "id": "TEC",
+    "format": "Technical Reports"
+  },
+  {
+    "id": "VID",
+    "format": "Videos"
+  }
 ]
