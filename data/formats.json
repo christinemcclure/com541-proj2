@@ -4,6 +4,9 @@
     "format": "Audio"
   },
   {
+    "id": "BOK",
+    "format": "Books"
+  },  {
     "id": "DIS",
     "format": "Dissertations & Theses"
   },
