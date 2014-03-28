@@ -6,7 +6,12 @@
   {
     "id": "BOK",
     "format": "Books"
-  },  {
+  },  
+  {
+    "id": "DIG",
+    "format": "Digital Collections"
+  },
+  {
     "id": "DIS",
     "format": "Dissertations & Theses"
   },
