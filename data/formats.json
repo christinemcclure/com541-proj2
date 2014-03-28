@@ -30,16 +30,12 @@
     "format": "Language Resources"
   },
   {
-    "id": "MAG",
-    "format": "Magazines"
-  },
-  {
     "id": "MAP",
     "format": "Maps & GIS Data"
   },
   {
     "id": "NWS",
-    "format": "Newspapers"
+    "format": "Newspapers & Magazines"
   },
   {
     "id": "PAT",
