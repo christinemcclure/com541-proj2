@@ -1,5 +1,9 @@
 [
   {
+    "id": "AUD",
+    "format": "Audio"
+  },
+  {
     "id": "DIS",
     "format": "Dissertations & Theses"
   },
@@ -16,6 +20,9 @@
     "format": "Images"
   },
   {
+    "id": "JRN",
+    "format": "Journal Articles"
+  },  {
     "id": "LAN",
     "format": "Language Resources"
   },
