@@ -2,7 +2,7 @@
     {
         "id": 142,
         "title": "IOP",
-        "alttitle": "Institute of Physics Journals",
+        "altTitle": "Institute of Physics Journals",
         "url": "http://iopscience.iop.org",
         "isactive": "true",
         "isrestricted": "true",

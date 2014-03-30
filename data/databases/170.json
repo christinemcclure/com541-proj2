@@ -2,7 +2,7 @@
     {
         "id": 170,
         "title": "NBER",
-        "alttitle": "National Bureau of Economic Research Working Papers",
+        "altTitle": "National Bureau of Economic Research Working Papers",
         "url": "http://papers.nber.org/",
         "isactive": "true",
         "isrestricted": "true",

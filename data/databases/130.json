@@ -2,7 +2,7 @@
     {
         "id": 130,
         "title": "IEEE Xplore",
-        "alttitle": "Institute of Electrical and Electronics Engineers",
+        "altTitle": "Institute of Electrical and Electronics Engineers",
         "url": "http://ieeexplore.ieee.org/",
         "isactive": "true",
         "isrestricted": "true",

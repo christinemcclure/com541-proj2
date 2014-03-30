@@ -1,7 +1,7 @@
     {
         "id": 43,
         "title": "CAMIO",
-        "alttitle": "Catalog of Art Museum Images Online",
+        "altTitle": "Catalog of Art Museum Images Online",
         "url": "http://camio.oclc.org/",
         "isactive": "true",
         "isrestricted": "true",

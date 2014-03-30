@@ -2,7 +2,7 @@
     {
         "id": 129,
         "title": "IEEE Standards",
-        "alttitle": "Institute of Electrical and Electronics Engineers",
+        "altTitle": "Institute of Electrical and Electronics Engineers",
         "url": "http://ieeexplore.ieee.org/xpl/standards.jsp",
         "isactive": "true",
         "isrestricted": "true",

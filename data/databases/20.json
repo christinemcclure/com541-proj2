@@ -1,7 +1,7 @@
     {
         "id": 20,
         "title": "ASCE Database",
-        "alttitle": "American Society of Civil Engineers",
+        "altTitle": "American Society of Civil Engineers",
         "url": "http://ascelibrary.org",
         "isactive": "true",
         "isrestricted": "true",

@@ -2,7 +2,7 @@
     {
         "id": 243,
         "title": "TRIS - NTL Integrated Search",
-        "alttitle": "Transportation Research Information Services",
+        "altTitle": "Transportation Research Information Services",
         "url": "http://ntlsearch.bts.gov/tris/index.do",
         "isactive": "true",
         "isrestricted": "false",

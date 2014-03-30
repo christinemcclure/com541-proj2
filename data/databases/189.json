@@ -2,7 +2,7 @@
     {
         "id": 189,
         "title": "PLoS",
-        "alttitle": "Public Library of Science",
+        "altTitle": "Public Library of Science",
         "url": "http://www.plos.org/",
         "isactive": "true",
         "isrestricted": "false",

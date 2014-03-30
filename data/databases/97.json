@@ -2,7 +2,7 @@
     {
         "id": 97,
         "title": "ERIC",
-        "alttitle": "Education Resources Information Center",
+        "altTitle": "Education Resources Information Center",
         "url": "http://search.EBSCOhost.com/login.asp?profile=web&defaultdb=eric",
         "isactive": "true",
         "isrestricted": "true",

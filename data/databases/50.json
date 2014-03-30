@@ -1,7 +1,7 @@
     {
         "id": 50,
         "title": "CIAO",
-        "alttitle": "Columbia International Affairs Online",
+        "altTitle": "Columbia International Affairs Online",
         "url": "http://www.ciaonet.org/",
         "isactive": "true",
         "isrestricted": "true",

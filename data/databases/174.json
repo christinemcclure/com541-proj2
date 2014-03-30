@@ -2,7 +2,7 @@
     {
         "id": 174,
         "title": "NTIS",
-        "alttitle": "National Technical Information Service",
+        "altTitle": "National Technical Information Service",
         "url": "http://www.ntis.gov/search/index.aspx",
         "isactive": "true",
         "isrestricted": "false",

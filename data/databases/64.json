@@ -2,7 +2,7 @@
     {
         "id": 64,
         "title": "CSA",
-        "alttitle": "Cambridge Scientific Abstracts",
+        "altTitle": "Cambridge Scientific Abstracts",
         "url": "http://www.csa.com/htbin/dbrng.cgi?username=paulg&access=paulg20&cat=default&adv=1",
         "isactive": "false",
         "isrestricted": "true",

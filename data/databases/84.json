@@ -2,7 +2,7 @@
     {
         "id": 84,
         "title": "EIS",
-        "alttitle": "Digests of Environmental Impact Statements",
+        "altTitle": "Digests of Environmental Impact Statements",
         "url": "http://www.csa.com/htbin/dbrng.cgi?username=paulg&access=paulg20&db=eis-set-c",
         "isactive": "false",
         "isrestricted": "true",

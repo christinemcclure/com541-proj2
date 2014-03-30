@@ -1,7 +1,7 @@
     {
         "id": 6,
         "title": "ADAMS",
-        "alttitle": "Agencywide Documents Access and Management System",
+        "altTitle": "Agencywide Documents Access and Management System",
         "url": "http://www.nrc.gov/reading-rm/adams/web-based.html",
         "isactive": "true",
         "isrestricted": "false",

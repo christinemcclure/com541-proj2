@@ -1,7 +1,7 @@
     {
         "id": 1,
         "title": "AAPT",
-        "alttitle": "American Association of Physics Teachers",
+        "altTitle": "American Association of Physics Teachers",
         "url": "http://ojps.aip.org/vsearch/servlet/VerityServlet?KEY=ALL",
         "isactive": "true",
         "isrestricted": "true",

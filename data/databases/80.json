@@ -2,7 +2,7 @@
     {
         "id": 80,
         "title": "ECO",
-        "alttitle": "Electronic Collections Online",
+        "altTitle": "Electronic Collections Online",
         "url": "http://newfirstsearch.oclc.org/dbname=ECO;FSIP",
         "isactive": "true",
         "isrestricted": "true",

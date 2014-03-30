@@ -1,7 +1,7 @@
     {
         "id": 3,
         "title": "ACM Digital Library",
-        "alttitle": "Association for Computing Machinery",
+        "altTitle": "Association for Computing Machinery",
         "url": "http://portal.acm.org/dl.cfm",
         "isactive": "true",
         "isrestricted": "true",

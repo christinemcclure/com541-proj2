@@ -2,7 +2,7 @@
     {
         "id": 223,
         "title": "SPIRES-HEP",
-        "alttitle": "High-Energy Physics Literature Database",
+        "altTitle": "High-Energy Physics Literature Database",
         "url": "http://www.slac.stanford.edu/spires/hep/",
         "isactive": "true",
         "isrestricted": "false",

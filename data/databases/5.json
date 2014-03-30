@@ -1,7 +1,7 @@
     {
         "id": 5,
         "title": "ACS",
-        "alttitle": "American Chemical Society",
+        "altTitle": "American Chemical Society",
         "url": "http://pubs.acs.org/wls/journals/query/subscriberSearch.html",
         "isactive": "true",
         "isrestricted": "true",

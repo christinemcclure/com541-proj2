@@ -2,7 +2,7 @@
     {
         "id": 166,
         "title": "NASA Technical Reports Server",
-        "alttitle": "NTRS",
+        "altTitle": "NTRS",
         "url": "http://ntrs.nasa.gov/search.jsp",
         "isactive": "true",
         "isrestricted": "false",

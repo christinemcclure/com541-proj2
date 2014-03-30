@@ -1,7 +1,7 @@
     {
         "id": 60,
         "title": "CoRR",
-        "alttitle": "Computing Research Repsoitory",
+        "altTitle": "Computing Research Repsoitory",
         "url": "http://arxiv.org/corr/home",
         "isactive": "true",
         "isrestricted": "false",

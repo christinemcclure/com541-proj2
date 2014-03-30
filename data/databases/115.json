@@ -2,7 +2,7 @@
     {
         "id": 115,
         "title": "GPO",
-        "alttitle": "U.S. Government Printing Office",
+        "altTitle": "U.S. Government Printing Office",
         "url": "http://newfirstsearch.oclc.org/dbname=GPO;FSIP",
         "isactive": "true",
         "isrestricted": "true",
