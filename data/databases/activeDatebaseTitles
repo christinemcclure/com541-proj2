@@ -24,24 +24,12 @@
         "title": "ADAMS"
     },
     {
-        "id": 7,
-        "title": "Advanced Polymers Abstracts"
-    },
-    {
         "id": 8,
-        "title": "Aerospace &amp; High Technology Database"
+        "title": "Aerospace & High Technology Database"
     },
     {
         "id": 9,
         "title": "AISC freePubs"
-    },
-    {
-        "id": 10,
-        "title": "Algology Mycology and Protozoology Abstracts (Microbiology C)"
-    },
-    {
-        "id": 11,
-        "title": "Aluminium Industry Abstracts"
     },
     {
         "id": 12,
@@ -50,14 +38,6 @@
     {
         "id": 13,
         "title": "American Physical Society"
-    },
-    {
-        "id": 14,
-        "title": "Animal Behavior Abstracts"
-    },
-    {
-        "id": 15,
-        "title": "ANTE"
     },
     {
         "id": 16,
@@ -80,40 +60,12 @@
         "title": "ASCE Database"
     },
     {
-        "id": 21,
-        "title": "ASFA 1: Biological Sciences and Living Resources"
-    },
-    {
-        "id": 22,
-        "title": "ASFA 3: Aquatic Pollution and Environmental Quality"
-    },
-    {
-        "id": 23,
-        "title": "ASFA Aquaculture Abstracts"
-    },
-    {
-        "id": 24,
-        "title": "ASFA Marine Biotechnology Abstracts"
-    },
-    {
-        "id": 25,
-        "title": "ASM Materials Information - Alloy Center"
-    },
-    {
-        "id": 26,
-        "title": "ASM Materials Information - Handbooks"
-    },
-    {
         "id": 27,
         "title": "ASME"
     },
     {
         "id": 28,
         "title": "Avery Index to Architectural Periodicals"
-    },
-    {
-        "id": 29,
-        "title": "Bacteriology Abstracts (Microbiology B)"
     },
     {
         "id": 30,
@@ -128,40 +80,16 @@
         "title": "Biological Sciences"
     },
     {
-        "id": 33,
-        "title": "Biology Digest"
-    },
-    {
-        "id": 34,
-        "title": "Biotechnology Research Abstracts"
-    },
-    {
         "id": 35,
         "title": "Bizminer"
-    },
-    {
-        "id": 36,
-        "title": "Blackwell Synergy"
     },
     {
         "id": 37,
         "title": "Books 24x7"
     },
     {
-        "id": 38,
-        "title": "Business and Company Resource Center"
-    },
-    {
-        "id": 39,
-        "title": "Business Insights"
-    },
-    {
         "id": 40,
         "title": "Business Source Premier"
-    },
-    {
-        "id": 41,
-        "title": "Calcium and Calcified Tissue Abstracts"
     },
     {
         "id": 42,
@@ -176,16 +104,8 @@
         "title": "CARLI Digital Collections"
     },
     {
-        "id": 45,
-        "title": "Ceramic Abstracts/World Ceramics Abstracts"
-    },
-    {
         "id": 46,
         "title": "CERN Document Server"
-    },
-    {
-        "id": 47,
-        "title": "Chemoreception Abstracts"
     },
     {
         "id": 48,
@@ -212,18 +132,6 @@
         "title": "Communication and Mass Media Complete"
     },
     {
-        "id": 54,
-        "title": "Compendex"
-    },
-    {
-        "id": 55,
-        "title": "Composites Industry Abstracts"
-    },
-    {
-        "id": 56,
-        "title": "Computer and Information Systems Abstracts"
-    },
-    {
         "id": 57,
         "title": "Conference Papers Index"
     },
@@ -232,48 +140,12 @@
         "title": "Contrails"
     },
     {
-        "id": 59,
-        "title": "Copper Data Center Database"
-    },
-    {
         "id": 60,
         "title": "CoRR"
     },
     {
-        "id": 61,
-        "title": "Corrosion Abstracts"
-    },
-    {
-        "id": 62,
-        "title": "COS Funding Opportunities"
-    },
-    {
         "id": 63,
         "title": "Country Studies"
-    },
-    {
-        "id": 64,
-        "title": "CSA"
-    },
-    {
-        "id": 65,
-        "title": "CSA / ASCE Civil Engineering Abstracts"
-    },
-    {
-        "id": 66,
-        "title": "CSA Engineering Research Database"
-    },
-    {
-        "id": 67,
-        "title": "CSA High Technology Research Database with Aerospace"
-    },
-    {
-        "id": 68,
-        "title": "CSA Materials Research Database with METADEX"
-    },
-    {
-        "id": 69,
-        "title": "CSA Neurosciences Abstracts"
     },
     {
         "id": 70,
@@ -304,10 +176,6 @@
         "title": "DTIC Online: Public Technical Reports"
     },
     {
-        "id": 77,
-        "title": "Earthquake Engineering Abstracts"
-    },
-    {
         "id": 78,
         "title": "Earthquake Engineering Online Archive"
     },
@@ -320,10 +188,6 @@
         "title": "ECO"
     },
     {
-        "id": 81,
-        "title": "Ecology Abstracts"
-    },
-    {
         "id": 82,
         "title": "EconLit"
     },
@@ -332,44 +196,8 @@
         "title": "Eighteenth Century Collections Online"
     },
     {
-        "id": 84,
-        "title": "EIS"
-    },
-    {
-        "id": 85,
-        "title": "Electronics and Communications Abstracts"
-    },
-    {
-        "id": 86,
-        "title": "Emporis"
-    },
-    {
-        "id": 87,
-        "title": "Endocrinology Abstracts"
-    },
-    {
         "id": 88,
         "title": "Energy Citations Database"
-    },
-    {
-        "id": 89,
-        "title": "Engineered Materials Abstracts"
-    },
-    {
-        "id": 90,
-        "title": "Engineered Materials Abstracts, Ceramics"
-    },
-    {
-        "id": 91,
-        "title": "Engineering Sciences and Pollution Management"
-    },
-    {
-        "id": 92,
-        "title": "Entomology Abstracts"
-    },
-    {
-        "id": 93,
-        "title": "Environmental Engineering Abstracts"
     },
     {
         "id": 94,
@@ -396,12 +224,8 @@
         "title": "Fermilab Technical Publications"
     },
     {
-        "id": 100,
-        "title": "FSTA - Food Science and Technology Abstracts"
-    },
-    {
         "id": 101,
-        "title": "Funk &amp; Wagnalls New World Encyclopedia"
+        "title": "Funk & Wagnalls New World Encyclopedia"
     },
     {
         "id": 102,
@@ -416,12 +240,8 @@
         "title": "GenBank"
     },
     {
-        "id": 105,
-        "title": "Genetics Abstracts"
-    },
-    {
         "id": 106,
-        "title": "Getty Art &amp; Architecture Thesaurus"
+        "title": "Getty Art & Architecture Thesaurus"
     },
     {
         "id": 107,
@@ -452,10 +272,6 @@
         "title": "Government Documents Online Map Directory"
     },
     {
-        "id": 114,
-        "title": "Government Sites from Bernan"
-    },
-    {
         "id": 115,
         "title": "GPO"
     },
@@ -480,10 +296,6 @@
         "title": "Harper's Weekly"
     },
     {
-        "id": 121,
-        "title": "Health and Safety Science Abstracts"
-    },
-    {
         "id": 122,
         "title": "Health Source - Consumer Edition"
     },
@@ -498,14 +310,6 @@
     {
         "id": 125,
         "title": "History of Science, Technology, and Medicine"
-    },
-    {
-        "id": 126,
-        "title": "Human Genome Abstracts"
-    },
-    {
-        "id": 127,
-        "title": "Human Population & Natural Resource Management"
     },
     {
         "id": 128,
@@ -532,14 +336,6 @@
         "title": "Illinois Natural Resources Geospatial Data Clearinghouse"
     },
     {
-        "id": 134,
-        "title": "Immunology Abstracts"
-    },
-    {
-        "id": 135,
-        "title": "Industrial and Applied Microbiology Abstracts (Microbiology A)"
-    },
-    {
         "id": 136,
         "title": "Information Bridge"
     },
@@ -548,20 +344,12 @@
         "title": "Information Please Almanac"
     },
     {
-        "id": 138,
-        "title": "Infotrac"
-    },
-    {
         "id": 139,
         "title": "Inspec"
     },
     {
         "id": 140,
         "title": "Internet Public Library Online"
-    },
-    {
-        "id": 141,
-        "title": "Investext"
     },
     {
         "id": 142,
@@ -608,20 +396,8 @@
         "title": "MarketResearch.com Academic"
     },
     {
-        "id": 153,
-        "title": "Materials Business File"
-    },
-    {
         "id": 154,
         "title": "MathSciNet"
-    },
-    {
-        "id": 155,
-        "title": "Mechanical &amp; Transportation Engineering Abstracts"
-    },
-    {
-        "id": 156,
-        "title": "Medical and Pharmaceutical Biotechnology Abstracts"
     },
     {
         "id": 157,
@@ -636,24 +412,12 @@
         "title": "Mental Measurements Yearbook / Tests in Print"
     },
     {
-        "id": 160,
-        "title": "Mergent Online"
-    },
-    {
         "id": 161,
         "title": "Merriam-Webster OnLine"
     },
     {
-        "id": 162,
-        "title": "METADEX"
-    },
-    {
-        "id": 163,
-        "title": "MicroPatent Materials Patents"
-    },
-    {
         "id": 164,
-        "title": "Military &amp; Government Collection"
+        "title": "Military & Government Collection"
     },
     {
         "id": 165,
@@ -680,10 +444,6 @@
         "title": "NBER"
     },
     {
-        "id": 171,
-        "title": "NewsBank - America's Newspapers"
-    },
-    {
         "id": 172,
         "title": "Newspaper Source"
     },
@@ -696,20 +456,12 @@
         "title": "NTIS"
     },
     {
-        "id": 175,
-        "title": "Nucleic Acids Abstracts"
-    },
-    {
         "id": 176,
         "title": "NYPL Digital Gallery"
     },
     {
         "id": 177,
         "title": "OAIster"
-    },
-    {
-        "id": 178,
-        "title": "Oncogenes and Growth Factors Abstracts"
     },
     {
         "id": 179,
@@ -724,40 +476,16 @@
         "title": "Oxford English Dictionary"
     },
     {
-        "id": 182,
-        "title": "Oxford Islamic Studies Online"
-    },
-    {
-        "id": 183,
-        "title": "Palgrave Dictionary of Economics"
-    },
-    {
         "id": 184,
         "title": "Papers First"
-    },
-    {
-        "id": 185,
-        "title": "PerAbs"
     },
     {
         "id": 186,
         "title": "Philosopher's Index"
     },
     {
-        "id": 187,
-        "title": "PILOTS Database"
-    },
-    {
-        "id": 188,
-        "title": "Plant Science"
-    },
-    {
         "id": 189,
         "title": "PLoS"
-    },
-    {
-        "id": 190,
-        "title": "Pollution Abstracts"
     },
     {
         "id": 191,
@@ -778,10 +506,6 @@
     {
         "id": 195,
         "title": "Project Muse"
-    },
-    {
-        "id": 196,
-        "title": "PROMT"
     },
     {
         "id": 197,
@@ -806,10 +530,6 @@
     {
         "id": 202,
         "title": "Regional Business News"
-    },
-    {
-        "id": 203,
-        "title": "Risk Abstracts"
     },
     {
         "id": 204,
@@ -868,24 +588,8 @@
         "title": "SIAM Locus"
     },
     {
-        "id": 218,
-        "title": "Simmons Choices"
-    },
-    {
         "id": 219,
         "title": "Smithsonian Photography Initiative"
-    },
-    {
-        "id": 220,
-        "title": "Social Services Abstracts"
-    },
-    {
-        "id": 221,
-        "title": "Sociological Abstracts"
-    },
-    {
-        "id": 222,
-        "title": "Solid State and Superconductivity Abstracts"
     },
     {
         "id": 223,
@@ -908,20 +612,8 @@
         "title": "SSRN - Social Science Research Network"
     },
     {
-        "id": 228,
-        "title": "Standard &amp; Poor's NetAdvantage"
-    },
-    {
         "id": 229,
         "title": "State and County QuickFacts"
-    },
-    {
-        "id": 230,
-        "title": "Stat-USA"
-    },
-    {
-        "id": 231,
-        "title": "Sustainability Science Abstracts"
     },
     {
         "id": 232,
@@ -934,10 +626,6 @@
     {
         "id": 234,
         "title": "Tech News Collection"
-    },
-    {
-        "id": 235,
-        "title": "Tests in Print"
     },
     {
         "id": 236,
@@ -954,14 +642,6 @@
     {
         "id": 239,
         "title": "ThomasNet"
-    },
-    {
-        "id": 240,
-        "title": "Toxicology Abstracts"
-    },
-    {
-        "id": 241,
-        "title": "TOXLINE"
     },
     {
         "id": 242,
@@ -988,10 +668,6 @@
         "title": "USPTO"
     },
     {
-        "id": 248,
-        "title": "Virology and AIDS Abstracts"
-    },
-    {
         "id": 249,
         "title": "Voices of the Holocaust"
     },
@@ -1000,24 +676,12 @@
         "title": "Wall Street Journal"
     },
     {
-        "id": 251,
-        "title": "Water Resources Abstracts"
-    },
-    {
         "id": 252,
         "title": "Web of Science"
     },
     {
-        "id": 253,
-        "title": "WELDASEARCH"
-    },
-    {
         "id": 254,
         "title": "Wiley InterScience"
-    },
-    {
-        "id": 255,
-        "title": "WilsonSelect"
     },
     {
         "id": 256,
