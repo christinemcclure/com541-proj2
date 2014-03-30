@@ -1,0 +1,11 @@
+ 
+    {
+        "id": 96,
+        "title": "E-print Network",
+        "url": "http://eprints.osti.gov/",
+        "isactive": "true",
+        "isrestricted": "false",
+        "description": "E-Print Network provides a deep web distributed search across dozens of online document collections, including institutional repositories of top research universities and pre-print servers such as arXiv, CERN, and HEP. All academic subjects are covered, with a focus on physics, renewable energy, mathematics, computer technologies &amp; information sciences, biology, environmental sciences, and ecology.",
+        "subjects": ["PHYS","CS","BIOL","SCI"],
+        "formats": ["JRN"]
+    }          

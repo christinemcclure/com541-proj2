@@ -1,0 +1,10 @@
+
+    {
+        "id": 92,
+        "title": "Entomology Abstracts",
+        "url": "http://www.csa.com/htbin/dbrng.cgi?username=paulg&access=paulg20&db=entomology-set-c",
+        "isactive": "false",
+        "isrestricted": "true",
+        "description": "Entomology Abstracts covers recent research reports on entomology, with coverage including insects, arachnids, myriapods, onychophorans, and terrestrial isopods.",
+        "formats": ["JRN"]
+    }          

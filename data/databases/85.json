@@ -1,0 +1,10 @@
+
+    {
+        "id": 85,
+        "title": "Electronics and Communications Abstracts",
+        "url": "http://www.csa.com/htbin/dbrng.cgi?username=paulg&access=paulg20&db=electronics-set-c",
+        "isactive": "false",
+        "isrestricted": "true",
+        "description": "Database of literature related to electronics and communications. Major areas of coverage include circuits, photonics, control and systems, telecommunications equipment and instrumentation, power systems, electronics and communications milieux. This database provides international coverage as well as coverage of numerous non-serial publications. Sources covered include over 3,000 periodicals, conference proceedings, technical reports, trade journal/newsletter items, patents, books, and press releases.",
+        "formats": ["JRN"]
+    }          

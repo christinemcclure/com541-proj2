@@ -1,0 +1,11 @@
+
+    {
+        "id": 83,
+        "title": "Eighteenth Century Collections Online",
+        "url": "http://find.galegroup.com/menu/start?userGroupName=chic40381&prod=ECCO",
+        "isactive": "true",
+        "isrestricted": "false",
+        "description": "Online collection of 150,000 books published during the 18th century, covering the fields of history, literature, religion, law, fine arts, science and more.",
+        "subjects": ["HIST","LCHS","LIT"],
+        "formats": ["JRN"]
+    }          

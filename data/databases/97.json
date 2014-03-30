@@ -1,0 +1,12 @@
+
+    {
+        "id": 97,
+        "title": "ERIC",
+        "alttitle": "Education Resources Information Center",
+        "url": "http://search.EBSCOhost.com/login.asp?profile=web&defaultdb=eric",
+        "isactive": "true",
+        "isrestricted": "true",
+        "description": "ERIC is the authoritative resource for any educator looking for information. ERIC provides access to bibliographic records of journal and non-journal literature in the educational field from 1966 to the present. ERIC has over 115,000 full-text materials available. These materials used to be difficult to obtain, such as conference papers and reports, but are now easily accessible. Most materials published 2004 and forward include links to other sources, including publishers' Web sites. Even though ERIC is also available through eric.ed.gov, you must access ERIC via IIT Libraries if you want to be connected to the full-text of many of the journal articles indexed in the database.",
+        "subjects": ["MSED"],
+        "formats": ["JRN"]
+    }          

@@ -1,0 +1,11 @@
+
+    {
+        "id": 88,
+        "title": "Energy Citations Database",
+        "url": "http://www.osti.gov/energycitations/basicsearch.jsp",
+        "isactive": "true",
+        "isrestricted": "false",
+        "description": "The Energy Citations Database (ECD) contains over 2.3 million bibliographic citations for energy and energy related STI from the Department of Energy (DOE) and its predecessor agencies, the Energy Research &amp; Development Administration (ERDA) and the Atomic Energy Commission (AEC). The Database provides access to over 179,000 electronic documents, primarily from 1943 forward, with continued growth through regular updates.",
+        "subjects": ["CAE","ECE","MMAE"],
+        "formats": ["JRN"]
+    }          
