@@ -1,0 +1,11 @@
+    {
+        "id": 30,
+        "title": "Barron's",
+        "alttitle": "NULL",
+        "url": "http://online.barrons.com/",
+        "isactive": "true",
+        "isrestricted": "false",
+        "description": "Barron's publishes business and financial market news. It is published weekly and includes a summary of the previous week's market-affecting items. ",
+        "subjects": ["BUS","IDN","IDX","SSB"],
+        "formats": ["JRN"]
+    }      

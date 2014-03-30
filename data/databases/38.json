@@ -1,0 +1,10 @@
+    {
+        "id": 38,
+        "title": "Business and Company Resource Center",
+        "alttitle": "NULL",
+        "url": "http://infotrac.galegroup.com/itweb/chic40381?db=BCRC",
+        "isactive": "false",
+        "isrestricted": "true",
+        "description": "A great database for starting business research. Find detailed public company profiles (including parent/sibling relationships), industry rankings, investment reports, industry statistics, and financial ratios. Find thousands of articles covering current and historical business news. Search by company name, ticker symbol, industry, or keyword. Information about private and international companies is also available. Use the BCRC for career research.",
+        "formats": ["JRN"]
+    }  

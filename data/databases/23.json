@@ -1,0 +1,9 @@
+    {
+        "id": 23,
+        "title": "ASFA Aquaculture Abstracts",
+        "url": "http://www.csa.com/htbin/dbrng.cgi?username=paulg&access=paulg20&db=aquaculture-set-c",
+        "isactive": "false",
+        "isrestricted": "true",
+        "description": "This specialized database of research on marine and freshwater aquaculture specifically selects its widely dispersed aquaculture-related information. Focusing on studies related to improving and augmenting aquatic yields, the records included provide comprehensive information on cultivating marine, freshwater, and brackishwater species. All types of source documents are surveyed to provide international perspectives on the science, practice, management, and economics of aquaculture. References from related disciplines - such as water pollution, ecology, diseases, nutrition, oceanography, and limnology - are also scanned for relevant material directly applicable to aquacultural situations. Information on instruments, technological developments, culturing techniques, and new methods of husbandry are significant features.",
+        "formats": ["JRN"]
+    }    

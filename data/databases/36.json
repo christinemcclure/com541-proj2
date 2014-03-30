@@ -1,0 +1,9 @@
+    {
+        "id": 36,
+        "title": "Blackwell Synergy",
+        "url": "http://www.blackwell-synergy.com",
+        "isactive": "false",
+        "isrestricted": "true",
+        "description": "Journals published by Blackwell Synergy.",
+        "formats": ["JRN"]
+    }        

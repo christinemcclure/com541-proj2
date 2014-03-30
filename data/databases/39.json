@@ -1,0 +1,9 @@
+    {
+        "id": 39,
+        "title": "Business Insights",
+        "url": "http://www.globalbusinessinsights.com/autologin.asp",
+        "isactive": "false",
+        "isrestricted": "true",
+        "description": "Business Insights works in association with leading industry experts, to produce a range of market reports across a wide range of industry sectors. Some of the companies associated with Business Insights include: Reuters Health, IMS Healthcare, TNS, ComputerWire IT Industry intelligence.",
+        "formats": ["JRN"]
+    }

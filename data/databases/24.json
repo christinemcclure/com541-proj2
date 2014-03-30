@@ -1,0 +1,9 @@
+    {
+        "id": 24,
+        "title": "ASFA Marine Biotechnology Abstracts",
+        "url": "http://www.csa.com/htbin/dbrng.cgi?username=paulg&access=paulg20&db=marine-set-c",
+        "isactive": "false",
+        "isrestricted": "true",
+        "description": "Database of research on marine biotechnology, molecular biology and molecular genetics are applied specifically to marine and aquatic organisms. ASFA Marine Biotechnology Abstracts assembles research and findings on such topics as increased production of seafood, development of new therapeutic drugs, and engineering of microbes that digest and remove environmental and marine pollutants. The database also features coverage of United States patents.",
+        "formats": ["JRN"]
+    }        
