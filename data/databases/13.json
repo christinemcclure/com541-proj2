@@ -1,0 +1,10 @@
+    {
+        "id": 13,
+        "title": "American Physical Society",
+        "url": "http://publish.aps.org/",
+        "isactive": "true",
+        "isrestricted": "true",
+        "description": "Journals published by the American Physical Society, including Physical Review and Physical Review Letters.",
+        "subjects": ["PSYC"],
+        "formats": ["JRN"]
+    } 

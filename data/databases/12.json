@@ -1,0 +1,10 @@
+    {
+        "id": 12,
+        "title": "American Institute of Physics",
+        "url": "http://ojps.aip.org/vsearch/servlet/VerityServlet?KEY=ALL",
+        "isactive": "true",
+        "isrestricted": "true",
+        "description": "Journals published by the American Institute of Physics. A pioneer in digital publishing, AIP is also one of the world's largest publishers of physics journals and produces the publications of more than 25 scientific and engineering societies.",
+        "subjects": ["PHYS"],
+        "formats": ["JRN"]
+    }     

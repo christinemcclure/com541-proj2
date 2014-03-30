@@ -1,0 +1,9 @@
+    {
+        "id": 14,
+        "title": "Animal Behavior Abstracts",
+        "url": "http://www.csa.com/htbin/dbrng.cgi?username=paulg&access=paulg20&db=animal-behavior-set-c",
+        "isactive": "false",
+        "isrestricted": "true",
+        "description": "Under the editorial guidance of one of the world's leading ethologists, Animal Behavior Abstracts is an indispensable resource for scientists in behavioral and related studies. Significant papers relevant to animal behavior, with subjects ranging from neurophysiology to behavioral ecology, from genetics to applied ethology, are covered. Animal Behavior Abstracts surveys all of the important journals dealing with the biology of particular taxonomic groups. And researchers will find both field and laboratory inquiries summarized.",
+        "formats": ["JRN"]
+    }          

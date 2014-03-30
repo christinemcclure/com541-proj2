@@ -1,0 +1,11 @@
+    {
+        "id": 18,
+        "title": "ARTstor",
+        "alttitle": "NULL",
+        "url": "http://library.artstor.org/",
+        "isactive": "true",
+        "isrestricted": "true",
+        "description": "ARTstor is a digital library of more than one million images in the arts, architecture, humanities, and social sciences with a suite of software tools to view, present, and manage images for research and pedagogical purposes. Features include: keyword search; advanced search; browse by collection, classification, or geography; sort search results by date, creator, or title; view images and image data; zoom in on and pan images; print and save images and related data to other hardware; create, save, and share images, image details, and image groups; organize image groups into folders; download images to PowerPoint, KeyNote, and ARTstor's Offline Image Viewer (OIV); save, email, and print citations for images or image groups; export citations for images or image groups.",
+        "subjects": ["ARCH","IDN","IDX","HIST","LIT"],
+        "formats": ["JRN"]
+    } 

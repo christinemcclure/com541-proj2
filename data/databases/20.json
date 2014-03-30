@@ -1,0 +1,11 @@
+    {
+        "id": 20,
+        "title": "ASCE Database",
+        "alttitle": "American Society of Civil Engineers",
+        "url": "http://ascelibrary.org",
+        "isactive": "true",
+        "isrestricted": "true",
+        "description": "Search for journal articles published by the ASCE from 1990 through the present.",
+        "subjects": ["CAE","EMGT"],
+        "formats": ["JRN"]
+    }  
