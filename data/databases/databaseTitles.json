@@ -1,0 +1,1038 @@
+[
+    {
+        "id": 1,
+        "title": "AAPT"
+    },
+    {
+        "id": 2,
+        "title": "Academic Search Premier"
+    },
+    {
+        "id": 3,
+        "title": "ACM Digital Library"
+    },
+    {
+        "id": 4,
+        "title": "Acronym Finder"
+    },
+    {
+        "id": 5,
+        "title": "ACS"
+    },
+    {
+        "id": 6,
+        "title": "ADAMS"
+    },
+    {
+        "id": 7,
+        "title": "Advanced Polymers Abstracts"
+    },
+    {
+        "id": 8,
+        "title": "Aerospace &amp; High Technology Database"
+    },
+    {
+        "id": 9,
+        "title": "AISC freePubs"
+    },
+    {
+        "id": 10,
+        "title": "Algology Mycology and Protozoology Abstracts (Microbiology C)"
+    },
+    {
+        "id": 11,
+        "title": "Aluminium Industry Abstracts"
+    },
+    {
+        "id": 12,
+        "title": "American Institute of Physics"
+    },
+    {
+        "id": 13,
+        "title": "American Physical Society"
+    },
+    {
+        "id": 14,
+        "title": "Animal Behavior Abstracts"
+    },
+    {
+        "id": 15,
+        "title": "ANTE"
+    },
+    {
+        "id": 16,
+        "title": "ArchiveGrid"
+    },
+    {
+        "id": 17,
+        "title": "Article First"
+    },
+    {
+        "id": 18,
+        "title": "ARTstor"
+    },
+    {
+        "id": 19,
+        "title": "arXiv.org"
+    },
+    {
+        "id": 20,
+        "title": "ASCE Database"
+    },
+    {
+        "id": 21,
+        "title": "ASFA 1: Biological Sciences and Living Resources"
+    },
+    {
+        "id": 22,
+        "title": "ASFA 3: Aquatic Pollution and Environmental Quality"
+    },
+    {
+        "id": 23,
+        "title": "ASFA Aquaculture Abstracts"
+    },
+    {
+        "id": 24,
+        "title": "ASFA Marine Biotechnology Abstracts"
+    },
+    {
+        "id": 25,
+        "title": "ASM Materials Information - Alloy Center"
+    },
+    {
+        "id": 26,
+        "title": "ASM Materials Information - Handbooks"
+    },
+    {
+        "id": 27,
+        "title": "ASME"
+    },
+    {
+        "id": 28,
+        "title": "Avery Index to Architectural Periodicals"
+    },
+    {
+        "id": 29,
+        "title": "Bacteriology Abstracts (Microbiology B)"
+    },
+    {
+        "id": 30,
+        "title": "Barron's"
+    },
+    {
+        "id": 31,
+        "title": "Biological Abstracts"
+    },
+    {
+        "id": 32,
+        "title": "Biological Sciences"
+    },
+    {
+        "id": 33,
+        "title": "Biology Digest"
+    },
+    {
+        "id": 34,
+        "title": "Biotechnology Research Abstracts"
+    },
+    {
+        "id": 35,
+        "title": "Bizminer"
+    },
+    {
+        "id": 36,
+        "title": "Blackwell Synergy"
+    },
+    {
+        "id": 37,
+        "title": "Books 24x7"
+    },
+    {
+        "id": 38,
+        "title": "Business and Company Resource Center"
+    },
+    {
+        "id": 39,
+        "title": "Business Insights"
+    },
+    {
+        "id": 40,
+        "title": "Business Source Premier"
+    },
+    {
+        "id": 41,
+        "title": "Calcium and Calcified Tissue Abstracts"
+    },
+    {
+        "id": 42,
+        "title": "Cambridge Journals Online"
+    },
+    {
+        "id": 43,
+        "title": "CAMIO"
+    },
+    {
+        "id": 44,
+        "title": "CARLI Digital Collections"
+    },
+    {
+        "id": 45,
+        "title": "Ceramic Abstracts/World Ceramics Abstracts"
+    },
+    {
+        "id": 46,
+        "title": "CERN Document Server"
+    },
+    {
+        "id": 47,
+        "title": "Chemoreception Abstracts"
+    },
+    {
+        "id": 48,
+        "title": "Chicago Building Code"
+    },
+    {
+        "id": 49,
+        "title": "CIA World Factbook"
+    },
+    {
+        "id": 50,
+        "title": "CIAO"
+    },
+    {
+        "id": 51,
+        "title": "CiteSeer"
+    },
+    {
+        "id": 52,
+        "title": "ClasePeriodica"
+    },
+    {
+        "id": 53,
+        "title": "Communication and Mass Media Complete"
+    },
+    {
+        "id": 54,
+        "title": "Compendex"
+    },
+    {
+        "id": 55,
+        "title": "Composites Industry Abstracts"
+    },
+    {
+        "id": 56,
+        "title": "Computer and Information Systems Abstracts"
+    },
+    {
+        "id": 57,
+        "title": "Conference Papers Index"
+    },
+    {
+        "id": 58,
+        "title": "Contrails"
+    },
+    {
+        "id": 59,
+        "title": "Copper Data Center Database"
+    },
+    {
+        "id": 60,
+        "title": "CoRR"
+    },
+    {
+        "id": 61,
+        "title": "Corrosion Abstracts"
+    },
+    {
+        "id": 62,
+        "title": "COS Funding Opportunities"
+    },
+    {
+        "id": 63,
+        "title": "Country Studies"
+    },
+    {
+        "id": 64,
+        "title": "CSA"
+    },
+    {
+        "id": 65,
+        "title": "CSA / ASCE Civil Engineering Abstracts"
+    },
+    {
+        "id": 66,
+        "title": "CSA Engineering Research Database"
+    },
+    {
+        "id": 67,
+        "title": "CSA High Technology Research Database with Aerospace"
+    },
+    {
+        "id": 68,
+        "title": "CSA Materials Research Database with METADEX"
+    },
+    {
+        "id": 69,
+        "title": "CSA Neurosciences Abstracts"
+    },
+    {
+        "id": 70,
+        "title": "CSA Technology Research Database"
+    },
+    {
+        "id": 71,
+        "title": "CumInCAD"
+    },
+    {
+        "id": 72,
+        "title": "DARTS"
+    },
+    {
+        "id": 73,
+        "title": "David Rumsey Historical Map Collection"
+    },
+    {
+        "id": 74,
+        "title": "Dissertations and Theses"
+    },
+    {
+        "id": 75,
+        "title": "Dissertations and Theses at IIT"
+    },
+    {
+        "id": 76,
+        "title": "DTIC Online: Public Technical Reports"
+    },
+    {
+        "id": 77,
+        "title": "Earthquake Engineering Abstracts"
+    },
+    {
+        "id": 78,
+        "title": "Earthquake Engineering Online Archive"
+    },
+    {
+        "id": 79,
+        "title": "eBook Collection (EBSCOhost)"
+    },
+    {
+        "id": 80,
+        "title": "ECO"
+    },
+    {
+        "id": 81,
+        "title": "Ecology Abstracts"
+    },
+    {
+        "id": 82,
+        "title": "EconLit"
+    },
+    {
+        "id": 83,
+        "title": "Eighteenth Century Collections Online"
+    },
+    {
+        "id": 84,
+        "title": "EIS"
+    },
+    {
+        "id": 85,
+        "title": "Electronics and Communications Abstracts"
+    },
+    {
+        "id": 86,
+        "title": "Emporis"
+    },
+    {
+        "id": 87,
+        "title": "Endocrinology Abstracts"
+    },
+    {
+        "id": 88,
+        "title": "Energy Citations Database"
+    },
+    {
+        "id": 89,
+        "title": "Engineered Materials Abstracts"
+    },
+    {
+        "id": 90,
+        "title": "Engineered Materials Abstracts, Ceramics"
+    },
+    {
+        "id": 91,
+        "title": "Engineering Sciences and Pollution Management"
+    },
+    {
+        "id": 92,
+        "title": "Entomology Abstracts"
+    },
+    {
+        "id": 93,
+        "title": "Environmental Engineering Abstracts"
+    },
+    {
+        "id": 94,
+        "title": "Environmental Sciences and Pollution Mgmt"
+    },
+    {
+        "id": 95,
+        "title": "EPA Science Inventory"
+    },
+    {
+        "id": 96,
+        "title": "E-print Network"
+    },
+    {
+        "id": 97,
+        "title": "ERIC"
+    },
+    {
+        "id": 98,
+        "title": "esp@cenet"
+    },
+    {
+        "id": 99,
+        "title": "Fermilab Technical Publications"
+    },
+    {
+        "id": 100,
+        "title": "FSTA - Food Science and Technology Abstracts"
+    },
+    {
+        "id": 101,
+        "title": "Funk &amp; Wagnalls New World Encyclopedia"
+    },
+    {
+        "id": 102,
+        "title": "Gale Virtual Reference Library"
+    },
+    {
+        "id": 103,
+        "title": "Galvin Library Public Administration Index"
+    },
+    {
+        "id": 104,
+        "title": "GenBank"
+    },
+    {
+        "id": 105,
+        "title": "Genetics Abstracts"
+    },
+    {
+        "id": 106,
+        "title": "Getty Art &amp; Architecture Thesaurus"
+    },
+    {
+        "id": 107,
+        "title": "Getty Thesaurus of Geographic Names"
+    },
+    {
+        "id": 108,
+        "title": "Glossary of Genetic Terms"
+    },
+    {
+        "id": 109,
+        "title": "Google Book Search"
+    },
+    {
+        "id": 110,
+        "title": "Google News Archive Search"
+    },
+    {
+        "id": 111,
+        "title": "Google Patent Search"
+    },
+    {
+        "id": 112,
+        "title": "Google Scholar"
+    },
+    {
+        "id": 113,
+        "title": "Government Documents Online Map Directory"
+    },
+    {
+        "id": 114,
+        "title": "Government Sites from Bernan"
+    },
+    {
+        "id": 115,
+        "title": "GPO"
+    },
+    {
+        "id": 116,
+        "title": "Grant Forward"
+    },
+    {
+        "id": 117,
+        "title": "GRC Theses List"
+    },
+    {
+        "id": 118,
+        "title": "GreenFILE"
+    },
+    {
+        "id": 119,
+        "title": "HaPI"
+    },
+    {
+        "id": 120,
+        "title": "Harper's Weekly"
+    },
+    {
+        "id": 121,
+        "title": "Health and Safety Science Abstracts"
+    },
+    {
+        "id": 122,
+        "title": "Health Source - Consumer Edition"
+    },
+    {
+        "id": 123,
+        "title": "Health Source - Nursing / Academic Edition"
+    },
+    {
+        "id": 124,
+        "title": "Historical Statistics of the United States"
+    },
+    {
+        "id": 125,
+        "title": "History of Science, Technology, and Medicine"
+    },
+    {
+        "id": 126,
+        "title": "Human Genome Abstracts"
+    },
+    {
+        "id": 127,
+        "title": "Human Population & Natural Resource Management"
+    },
+    {
+        "id": 128,
+        "title": "ICON: International Coalition on Newspapers"
+    },
+    {
+        "id": 129,
+        "title": "IEEE Standards"
+    },
+    {
+        "id": 130,
+        "title": "IEEE Xplore"
+    },
+    {
+        "id": 131,
+        "title": "IIT Digital Repository"
+    },
+    {
+        "id": 132,
+        "title": "IIT Library Catalog"
+    },
+    {
+        "id": 133,
+        "title": "Illinois Natural Resources Geospatial Data Clearinghouse"
+    },
+    {
+        "id": 134,
+        "title": "Immunology Abstracts"
+    },
+    {
+        "id": 135,
+        "title": "Industrial and Applied Microbiology Abstracts (Microbiology A)"
+    },
+    {
+        "id": 136,
+        "title": "Information Bridge"
+    },
+    {
+        "id": 137,
+        "title": "Information Please Almanac"
+    },
+    {
+        "id": 138,
+        "title": "Infotrac"
+    },
+    {
+        "id": 139,
+        "title": "Inspec"
+    },
+    {
+        "id": 140,
+        "title": "Internet Public Library Online"
+    },
+    {
+        "id": 141,
+        "title": "Investext"
+    },
+    {
+        "id": 142,
+        "title": "IOP"
+    },
+    {
+        "id": 143,
+        "title": "I-Share Catalog"
+    },
+    {
+        "id": 144,
+        "title": "JSTOR"
+    },
+    {
+        "id": 145,
+        "title": "Legal Resources"
+    },
+    {
+        "id": 146,
+        "title": "LexisNexis Academic Universe"
+    },
+    {
+        "id": 147,
+        "title": "Liebert Online"
+    },
+    {
+        "id": 148,
+        "title": "LISTA"
+    },
+    {
+        "id": 149,
+        "title": "MADCAD"
+    },
+    {
+        "id": 150,
+        "title": "Making of Modern Law: Legal Treatises 1800-1926"
+    },
+    {
+        "id": 151,
+        "title": "Mango Languages"
+    },
+    {
+        "id": 152,
+        "title": "MarketResearch.com Academic"
+    },
+    {
+        "id": 153,
+        "title": "Materials Business File"
+    },
+    {
+        "id": 154,
+        "title": "MathSciNet"
+    },
+    {
+        "id": 155,
+        "title": "Mechanical &amp; Transportation Engineering Abstracts"
+    },
+    {
+        "id": 156,
+        "title": "Medical and Pharmaceutical Biotechnology Abstracts"
+    },
+    {
+        "id": 157,
+        "title": "MEDLINE"
+    },
+    {
+        "id": 158,
+        "title": "Medline Plus"
+    },
+    {
+        "id": 159,
+        "title": "Mental Measurements Yearbook / Tests in Print"
+    },
+    {
+        "id": 160,
+        "title": "Mergent Online"
+    },
+    {
+        "id": 161,
+        "title": "Merriam-Webster OnLine"
+    },
+    {
+        "id": 162,
+        "title": "METADEX"
+    },
+    {
+        "id": 163,
+        "title": "MicroPatent Materials Patents"
+    },
+    {
+        "id": 164,
+        "title": "Military &amp; Government Collection"
+    },
+    {
+        "id": 165,
+        "title": "NanoEthicsBank"
+    },
+    {
+        "id": 166,
+        "title": "NASA Technical Reports Server"
+    },
+    {
+        "id": 167,
+        "title": "National Academies Press"
+    },
+    {
+        "id": 168,
+        "title": "National Geographic MapMachine"
+    },
+    {
+        "id": 169,
+        "title": "National Map Viewer"
+    },
+    {
+        "id": 170,
+        "title": "NBER"
+    },
+    {
+        "id": 171,
+        "title": "NewsBank - America's Newspapers"
+    },
+    {
+        "id": 172,
+        "title": "Newspaper Source"
+    },
+    {
+        "id": 173,
+        "title": "NSSN.org"
+    },
+    {
+        "id": 174,
+        "title": "NTIS"
+    },
+    {
+        "id": 175,
+        "title": "Nucleic Acids Abstracts"
+    },
+    {
+        "id": 176,
+        "title": "NYPL Digital Gallery"
+    },
+    {
+        "id": 177,
+        "title": "OAIster"
+    },
+    {
+        "id": 178,
+        "title": "Oncogenes and Growth Factors Abstracts"
+    },
+    {
+        "id": 179,
+        "title": "Open-Access Text Archive"
+    },
+    {
+        "id": 180,
+        "title": "Optics InfoBase"
+    },
+    {
+        "id": 181,
+        "title": "Oxford English Dictionary"
+    },
+    {
+        "id": 182,
+        "title": "Oxford Islamic Studies Online"
+    },
+    {
+        "id": 183,
+        "title": "Palgrave Dictionary of Economics"
+    },
+    {
+        "id": 184,
+        "title": "Papers First"
+    },
+    {
+        "id": 185,
+        "title": "PerAbs"
+    },
+    {
+        "id": 186,
+        "title": "Philosopher's Index"
+    },
+    {
+        "id": 187,
+        "title": "PILOTS Database"
+    },
+    {
+        "id": 188,
+        "title": "Plant Science"
+    },
+    {
+        "id": 189,
+        "title": "PLoS"
+    },
+    {
+        "id": 190,
+        "title": "Pollution Abstracts"
+    },
+    {
+        "id": 191,
+        "title": "PrivCo"
+    },
+    {
+        "id": 192,
+        "title": "Proceedings"
+    },
+    {
+        "id": 193,
+        "title": "Professional Development Collection"
+    },
+    {
+        "id": 194,
+        "title": "Project Gutenberg"
+    },
+    {
+        "id": 195,
+        "title": "Project Muse"
+    },
+    {
+        "id": 196,
+        "title": "PROMT"
+    },
+    {
+        "id": 197,
+        "title": "ProQuest SciTech Collection"
+    },
+    {
+        "id": 198,
+        "title": "PsycARTICLES"
+    },
+    {
+        "id": 199,
+        "title": "PsycEXTRA"
+    },
+    {
+        "id": 200,
+        "title": "PsycINFO"
+    },
+    {
+        "id": 201,
+        "title": "PubMed"
+    },
+    {
+        "id": 202,
+        "title": "Regional Business News"
+    },
+    {
+        "id": 203,
+        "title": "Risk Abstracts"
+    },
+    {
+        "id": 204,
+        "title": "RSC Journal Archives (abstracts)"
+    },
+    {
+        "id": 205,
+        "title": "Safari Books Online"
+    },
+    {
+        "id": 206,
+        "title": "SAGE eReference Encyclopedias"
+    },
+    {
+        "id": 207,
+        "title": "SAGE Journals Online"
+    },
+    {
+        "id": 208,
+        "title": "Sanborn Digital Maps 1867-1970"
+    },
+    {
+        "id": 209,
+        "title": "Saskia Art Images Collection"
+    },
+    {
+        "id": 210,
+        "title": "Science.gov"
+    },
+    {
+        "id": 211,
+        "title": "ScienceDirect"
+    },
+    {
+        "id": 212,
+        "title": "SciFinder Scholar"
+    },
+    {
+        "id": 213,
+        "title": "Scirus"
+    },
+    {
+        "id": 214,
+        "title": "Scitation"
+    },
+    {
+        "id": 215,
+        "title": "Share.iit"
+    },
+    {
+        "id": 216,
+        "title": "SIAM Journals"
+    },
+    {
+        "id": 217,
+        "title": "SIAM Locus"
+    },
+    {
+        "id": 218,
+        "title": "Simmons Choices"
+    },
+    {
+        "id": 219,
+        "title": "Smithsonian Photography Initiative"
+    },
+    {
+        "id": 220,
+        "title": "Social Services Abstracts"
+    },
+    {
+        "id": 221,
+        "title": "Sociological Abstracts"
+    },
+    {
+        "id": 222,
+        "title": "Solid State and Superconductivity Abstracts"
+    },
+    {
+        "id": 223,
+        "title": "SPIRES-HEP"
+    },
+    {
+        "id": 224,
+        "title": "Springer eBooks"
+    },
+    {
+        "id": 225,
+        "title": "SpringerLink"
+    },
+    {
+        "id": 226,
+        "title": "SpringerMaterials"
+    },
+    {
+        "id": 227,
+        "title": "SSRN - Social Science Research Network"
+    },
+    {
+        "id": 228,
+        "title": "Standard &amp; Poor's NetAdvantage"
+    },
+    {
+        "id": 229,
+        "title": "State and County QuickFacts"
+    },
+    {
+        "id": 230,
+        "title": "Stat-USA"
+    },
+    {
+        "id": 231,
+        "title": "Sustainability Science Abstracts"
+    },
+    {
+        "id": 232,
+        "title": "Synthesis Lectures on Biomedical Engineering"
+    },
+    {
+        "id": 233,
+        "title": "Teacher Reference Center"
+    },
+    {
+        "id": 234,
+        "title": "Tech News Collection"
+    },
+    {
+        "id": 235,
+        "title": "Tests in Print"
+    },
+    {
+        "id": 236,
+        "title": "The Times (London)"
+    },
+    {
+        "id": 237,
+        "title": "Thesaurus.com"
+    },
+    {
+        "id": 238,
+        "title": "Thomas Register"
+    },
+    {
+        "id": 239,
+        "title": "ThomasNet"
+    },
+    {
+        "id": 240,
+        "title": "Toxicology Abstracts"
+    },
+    {
+        "id": 241,
+        "title": "TOXLINE"
+    },
+    {
+        "id": 242,
+        "title": "TRAIL"
+    },
+    {
+        "id": 243,
+        "title": "TRIS - NTL Integrated Search"
+    },
+    {
+        "id": 244,
+        "title": "U.S. Supreme Court Records and Briefs, 1832-1978 "
+    },
+    {
+        "id": 245,
+        "title": "University of Virginia Electronic Text Center Collections"
+    },
+    {
+        "id": 246,
+        "title": "USA Trade Online"
+    },
+    {
+        "id": 247,
+        "title": "USPTO"
+    },
+    {
+        "id": 248,
+        "title": "Virology and AIDS Abstracts"
+    },
+    {
+        "id": 249,
+        "title": "Voices of the Holocaust"
+    },
+    {
+        "id": 250,
+        "title": "Wall Street Journal"
+    },
+    {
+        "id": 251,
+        "title": "Water Resources Abstracts"
+    },
+    {
+        "id": 252,
+        "title": "Web of Science"
+    },
+    {
+        "id": 253,
+        "title": "WELDASEARCH"
+    },
+    {
+        "id": 254,
+        "title": "Wiley InterScience"
+    },
+    {
+        "id": 255,
+        "title": "WilsonSelect"
+    },
+    {
+        "id": 256,
+        "title": "World Almanac"
+    },
+    {
+        "id": 257,
+        "title": "WorldCat"
+    },
+    {
+        "id": 258,
+        "title": "WorldCat Dissertations and Theses"
+    },
+    {
+        "id": 259,
+        "title": "World's Columbian Exposition of 1893"
+    }
+]
