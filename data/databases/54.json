@@ -1,0 +1,9 @@
+    {
+        "id": 54,
+        "title": "Compendex",
+        "url": "http://library.iit.edu/databases/compendex.php",
+        "isactive": "false",
+        "isrestricted": "true",
+        "description": "Compendex is the definitive bibliographic database of worldwide engineering literature trusted by engineering researchers worldwide. With over ten million records that reference more than 5,600 scholarly journals, trade magazines and conference proceedings, Compendex covers an unmatched breadth and quality of engineering publications.",
+        "formats": ["JRN"]
+    }   

@@ -1,0 +1,9 @@
+    {
+        "id": 56,
+        "title": "Computer and Information Systems Abstracts",
+        "url": "http://www.csa.com/htbin/dbrng.cgi?username=paulg&access=paulg20&db=computer-set-c",
+        "isactive": "false",
+        "isrestricted": "true",
+        "description": "Provides comprehensive indexing of academic literature related to computer and information science from 1981-present, including journals, conference proceedings, technical reports, trade journal/newsletter items, patents, and books. Major subject areas covered: artificial intelligence, applications, programming, hardware, information systems, mathematics of computing, and software engineering.",
+        "formats": ["JRN"]
+    }       

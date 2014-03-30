@@ -1,0 +1,10 @@
+
+    {
+        "id": 69,
+        "title": "CSA Neurosciences Abstracts",
+        "url": "http://www.csa.com/htbin/dbrng.cgi?username=paulg&access=paulg20&db=neurosciences-set-c",
+        "isactive": "false",
+        "isrestricted": "true",
+        "description": "This database covers all aspects of vertebrate and invertebrate neuroscience.",
+        "formats": ["JRN"]
+    }          

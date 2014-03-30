@@ -1,0 +1,11 @@
+
+    {
+        "id": 64,
+        "title": "CSA",
+        "alttitle": "Cambridge Scientific Abstracts",
+        "url": "http://www.csa.com/htbin/dbrng.cgi?username=paulg&access=paulg20&cat=default&adv=1",
+        "isactive": "false",
+        "isrestricted": "true",
+        "description": "Home page for the CSA Illumina search platform. Users can choose from over 50 research indexes to search. CSA databases cover engineering, physical and life sciences, social science, and technology.",
+        "formats": ["JRN"]
+    }          

@@ -1,0 +1,9 @@
+    {
+        "id": 59,
+        "title": "Copper Data Center Database",
+        "url": "http://www.csa.com/htbin/dbrng.cgi?username=paulg&access=paulg20&db=copper-set-c",
+        "isactive": "false",
+        "isrestricted": "true",
+        "description": "The Copper Data Center Database provides an online bibliographic database of the world's literature on copper, copper alloys and copper technology since 1965. The Copper Data Center Database covers copper technology from smelting and hydrometallurgy through the performance of copper and copper alloys in their end-use applications and service environments. It references data on the properties and performance of copper and copper alloys and on applications of the copper metals. Over 65,000 documents have been indexed into this database, including 5582 documents published between 1863 and 1964. This database provides international coverage as well as numerous non-serial publications. Sources covered include over 3,000 periodicals, conference proceedings, technical reports, trade journal/newsletter items, patents, books, and press releases.",
+        "formats": ["JRN"]
+    }      

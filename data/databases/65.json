@@ -1,0 +1,10 @@
+
+    {
+        "id": 65,
+        "title": "CSA / ASCE Civil Engineering Abstracts",
+        "url": "http://www.csa.com/htbin/dbrng.cgi?username=paulg&access=paulg20&db=civil-set-c",
+        "isactive": "false",
+        "isrestricted": "true",
+        "description": "CSA / ASCE Civil Engineering Abstracts provides citations, abstracts, and indexing of the serials literature in civil engineering and its complementary fields, including forensic engineering, management and marketing of engineering services, engineering education, theoretical mechanics and dynamics, and mathematics and computation. This database provides comprehensive international coverage as well as numerous non-serial publications. Sources covered include over 3,000 periodicals, conference proceedings, technical reports, trade journal/newsletter items, patents, books, and press releases.",
+        "formats": ["JRN"]
+    }          

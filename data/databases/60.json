@@ -1,0 +1,11 @@
+    {
+        "id": 60,
+        "title": "CoRR",
+        "alttitle": "Computing Research Repsoitory",
+        "url": "http://arxiv.org/corr/home",
+        "isactive": "true",
+        "isrestricted": "false",
+        "description": "An online repository of research papers and reports (mostly e-prints, which are generally advance copies of papers and articles that have not yet been published in academic journals) in computer science. Sponsored by the ACM, arXiv.org, and NCSTRL. Papers can be searched or browsed for based on subject area, title, author, or keywords in the full abstracts.",
+        "subjects": ["CS","ECE","ITM","IDN","IDX"],
+        "formats": ["JRN","TEC"]
+    }  
