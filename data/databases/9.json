@@ -1,0 +1,11 @@
+    {
+        "id": 9,
+        "title": "AISC freePubs",
+        "alttitle": "American Institute of Steel Construction",
+        "url": "http://www.aisc.org/content.aspx?id=2882",
+        "isactive": "true",
+        "isrestricted": "false",
+        "description": "The American Institute of Steel Construction (AISC) is a not-for-profit technical institute and trade association serving the structural steel design community and construction industry.  They are perhaps best known for their comprehensive Manual of Steel Construction.  This website provides many free publications of the AISC, including specifications and codes, seismic resources, and revisions to AISC publications.  Some sections, such as the Technical Library, are free only to members of the AISC while the rest is free to everybody.",
+        "subjects": ["CAE","EMGT","MMAE"],
+        "formats": ["JRN"]
+    }   

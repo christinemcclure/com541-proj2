@@ -1,0 +1,9 @@
+    {
+        "id": 7,
+        "title": "Advanced Polymers Abstracts",
+        "url": "http://www.csa.com/htbin/dbrng.cgi?username=paulg&access=paulg20&db=ema-polymers-set-c",
+        "isactive": "false",
+        "isrestricted": "true",
+        "description": "Advanced Polymers Abstracts captures technical information about the uses, manufacturing, and properties of thermoset and thermoplastic resins -- materials that compete heavily with metals for structural applications. This database, centralizing information on advanced plastics, is a subset of the Engineered Materials Abstracts database. Based on the former print journal of the same name, the EMA database is specifically designed for libraries that serve materials sciences researchers, engineers and scientists. Sources covered include over 3,000 periodicals, conference proceedings, technical reports, trade journal/newsletter items, patents, books, and press releases.",
+        "formats": ["JRN"]
+    }  

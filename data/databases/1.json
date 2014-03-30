@@ -1,0 +1,11 @@
+    {
+        "id": 1,
+        "title": "AAPT",
+        "alttitle": "American Association of Physics Teachers",
+        "url": "http://ojps.aip.org/vsearch/servlet/VerityServlet?KEY=ALL",
+        "isactive": "true",
+        "isrestricted": "true",
+        "description": "Access journals published by the American Association of Physics Teachers in the field of physics.",
+        "subjects": ["PHYS"],
+        "formats": ["JRN"]
+    } 

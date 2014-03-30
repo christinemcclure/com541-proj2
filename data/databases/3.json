@@ -1,0 +1,11 @@
+    {
+        "id": 3,
+        "title": "ACM Digital Library",
+        "alttitle": "Association for Computing Machinery",
+        "url": "http://portal.acm.org/dl.cfm",
+        "isactive": "true",
+        "isrestricted": "true",
+        "description": "The Association for Computing Machinery Digital Library is an online repository of papers from publications that have been published, co-published, or co-marketed by the ACM, including journals, newsletters, and conference proceedings. All computing subject areas are covered.",
+        "subjects": ["IDN","IDX"],
+        "formats": ["JRN"]
+    }      
