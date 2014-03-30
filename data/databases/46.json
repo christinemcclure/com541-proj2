@@ -3,7 +3,7 @@
         "title": "CERN Document Server",
         "url": "http://cdsweb.cern.ch/",
         "isActive": "true",
-        "isrestricted": "false",
+        "isRestricted": "false",
         "description": "Over 800,000 bibliographic records, including 360,000 full-text documents,of interest to people working in particle physics and related areas. Covers preprints, articles, books, journals, photographs, and much more.",
         "subjects": ["PHYS"],
         "formats": ["JRN","IMG"]

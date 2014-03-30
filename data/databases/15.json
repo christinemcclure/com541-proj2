@@ -4,7 +4,7 @@
         "altTitle": "Abstracts in New Technologies and Engineering",
         "url": "http://www.csa.com/htbin/dbrng.cgi?username=paulg&access=paulg20&db=ante-set-c",
         "isActive": "false",
-        "isrestricted": "true",
+        "isRestricted": "true",
         "description": "ANTE: Abstracts in New Technologies and Engineering (formerly Current Technology Database), is an abstracting and indexing service monitoring publications from the U.K. and the U.S. Coverage includes new technologies such as information technology and computing, electronics, biotechnology, medical technology, as well as engineering (including construction, electrical and chemical engineering) and allied subject areas. Abstracts are available from January 1993 to the present. Sources covered include over 350 periodicals, conference proceedings, technical reports, trade journal/newsletter items, patents, books, and press releases.",
         "formats": ["JRN"]
     }   

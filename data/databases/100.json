@@ -4,7 +4,7 @@
         "title": "FSTA - Food Science and Technology Abstracts",
         "url": "http://search.EBSCOhost.com/login.asp?profile=web&defaultdb=ffh",
         "isActive": "false",
-        "isrestricted": "true",
+        "isRestricted": "true",
         "description": "FSTA - Food Science and Technology Abstracts, produced by the International Food Information Service (IFIS), is the world's leading database of information on food science, food technology and nutrition. The database includes material from over 4,600 serial publications, covering all the major food commodities plus biotechnology, microbiology, food safety, additives, nutrition, packaging and pet foods. Coverage spans from 1969 - present. The database includes more than 740,000 records, with more than 35,000 records added annually.",
         "formats": ["JRN"]
     }          

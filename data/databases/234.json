@@ -4,7 +4,7 @@
         "title": "Tech News Collection",
         "url": "http://library.iit.edu/technews/",
         "isActive": "true",
-        "isrestricted": "false",
+        "isRestricted": "false",
         "description": "A digitized collection of IIT-published newspapers, including the current campus newspaper 'IIT Technology News' and its predecessors 'Armour News' and 'Armour Tech News,' which have been in publication since 1928. This resource provides an index to over 58,000 articles in issues between 1928-1981, plus images of 4,400 select articles.",
         "subjects": ["MMAE","CAE"],
         "formats": ["NWS"]

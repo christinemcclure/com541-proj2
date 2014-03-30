@@ -4,7 +4,7 @@
         "title": "USA Trade Online",
         "url": "http://www.usatradeonline.gov/",
         "isActive": "true",
-        "isrestricted": "false",
+        "isRestricted": "false",
         "description": "The Foreign Trade Division of the U.S. Census Bureau and STAT-USA compile accurate and timely U.S. Merchandise Trade data, providing export and import information on more than 18,000 commodities worldwide.",
         "subjects": ["BUS","SSB"],
         "formats": ["JRN"]

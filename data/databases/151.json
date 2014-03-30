@@ -4,7 +4,7 @@
         "title": "Mango Languages",
         "url": "http://libraries.mangolanguages.com/iit/start",
         "isActive": "true",
-        "isrestricted": "true",
+        "isRestricted": "true",
         "description": "Learn everyday greetings, gratitudes, goodbyes and helpful phrases in a short period of time. The courses are currently available in more than 20 foreign languages and more than 12 English as a Second Language (ESL) courses, all of which can be accessed from off-campus. ",
         "formats": ["LAN"]
     }          

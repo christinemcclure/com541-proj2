@@ -3,7 +3,7 @@
         "title": "Ceramic Abstracts/World Ceramics Abstracts",
         "url": "http://www.csa.com/htbin/dbrng.cgi?username=paulg&access=paulg20&db=wca-set-c",
         "isActive": "false",
-        "isrestricted": "true",
+        "isRestricted": "true",
         "description": "Ceramic Abstracts/World Ceramics Abstracts is produced by Cambridge Scientific Abstracts in conjunction with CERAM Research Ltd. This is a comprehensive database for the ceramics industry, providing international coverage on the manufacture, processing, applications, properties and testing of traditional and advanced ceramics. Sources covered include over 3,000 periodicals, conference proceedings, technical reports, trade journal/newsletter items, patents, books, and press releases.",
         "formats": ["JRN"]
     }  

@@ -5,7 +5,7 @@
         "altTitle": "U.S. Government Printing Office",
         "url": "http://newfirstsearch.oclc.org/dbname=GPO;FSIP",
         "isActive": "true",
-        "isrestricted": "true",
+        "isRestricted": "true",
         "description": "This database of government publications covers all types of U.S. government documents, including Congressional reports, hearings, debates, and records; judiciary materials; and documents issued by executive departments (Defense, State, Labor, Office of the President, etc.).",
         "subjects": ["PA"],
         "formats": ["GOV"]

@@ -4,7 +4,7 @@
         "title": "Safari Books Online",
         "url": "http://proquestcombo.safaribooksonline.com/?uicode=illinstt",
         "isActive": "true",
-        "isrestricted": "true",
+        "isRestricted": "true",
         "description": "Use Safari Books Online to access e-books covering all aspects of computer science and information technology, including certification, computer science, databases, desktop applications, human-computer interaction, IT management, markup languages, networking, operating systems, programming, security, and software engineering. Publishers represented include O'Reilly, Prentice Hall, Addison-Wesley, Sams, Manning, Cisco Press, and SAS Publishing.",
         "formats": ["JRN"]
     }          

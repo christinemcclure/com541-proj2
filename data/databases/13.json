@@ -3,7 +3,7 @@
         "title": "American Physical Society",
         "url": "http://publish.aps.org/",
         "isActive": "true",
-        "isrestricted": "true",
+        "isRestricted": "true",
         "description": "Journals published by the American Physical Society, including Physical Review and Physical Review Letters.",
         "subjects": ["PSYC"],
         "formats": ["JRN"]

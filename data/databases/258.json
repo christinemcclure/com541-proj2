@@ -4,7 +4,7 @@
         "title": "WorldCat Dissertations and Theses",
         "url": "http://newfirstsearch.oclc.org/dbname=WorldCatDissertations;FSIP",
         "isActive": "true",
-        "isrestricted": "true",
+        "isRestricted": "true",
         "description": "Search for dissertations and theses held in over 8,000 libraries worldwide. Covers all disciplines and subject areas.",
         "formats": ["DIS"]
     }      

@@ -3,7 +3,7 @@
         "title": "Avery Index to Architectural Periodicals",
         "url": "http://search.proquest.com.ezproxy.gl.iit.edu/avery/advanced",
         "isActive": "true",
-        "isrestricted": "true",
+        "isRestricted": "true",
         "description": "Avery Index to Architectural Periodicals, published by the Getty Research Institute, is the only comprehensive American guide to the current literature of architecture and design. Avery's editorial office is at Columbia University, New York, NY. This database surveys more than 2,500 US and foreign journals. The index covers international, scholarly and popular periodical literature, including publications of professional associations; US state and regional periodicals; and major serial publications in the architecture and design of Europe, Asia, Latin America and Australia. In addition, this database also provides nearly 13,000 citation records for architects' obituaries.",
         "subjects": ["ARCH"],
         "formats": ["JRN"]

@@ -4,7 +4,7 @@
         "title": "State and County QuickFacts",
         "url": "http://quickfacts.census.gov/qfd/",
         "isActive": "true",
-        "isrestricted": "false",
+        "isRestricted": "false",
         "description": "This site offers efficient access to facts about people, business, and geography from the U.S Census. QuickFacts tables are summary profiles showing frequently requested data items from various Census Bureau programs. Profiles are available for the nation, states, counties, and large cities. ",
         "subjects": ["HIST","PS"],
         "formats": ["REF"]

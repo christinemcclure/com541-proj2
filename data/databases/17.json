@@ -3,7 +3,7 @@
         "title": "Article First",
         "url": "http://newfirstsearch.oclc.org/dbname=ArticleFirst;FSIP",
         "isActive": "true",
-        "isrestricted": "true",
+        "isRestricted": "true",
         "description": "Coverage of over 16,000 journal titles related to business, science, humanities, social sciences, medicine, technology, and popular culture.",
         "subjects": ["BME","COM","IDN","IDX","SOC"],
         "formats": ["JRN"]

@@ -5,7 +5,7 @@
         "altTitle": "Library, Information Science &amp; Technology Abstracts",
         "url": "http://search.EBSCOhost.com/login.asp?profile=web&defaultdb=lxh",
         "isActive": "true",
-        "isrestricted": "true",
+        "isRestricted": "true",
         "description": "Library, Information Science &amp; Technology Abstracts (LISTA) indexes more than 500 core journals, more than 50 priority journals, and 125 selective journals; plus books, research reports and proceedings covering librarianship, classification, cataloging, bibliometrics, online information retrieval, information management and more. Coverage in the database extends back as far as the mid-1960s.",
         "subjects": ["BIOL","BME","SCI"],
         "formats": ["JRN"]

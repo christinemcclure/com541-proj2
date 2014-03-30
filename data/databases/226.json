@@ -4,7 +4,7 @@
         "title": "SpringerMaterials",
         "url": "http://www.springermaterials.com",
         "isActive": "true",
-        "isrestricted": "true",
+        "isRestricted": "true",
         "description": "SpringerMaterials is based on the Landolt-B&#246;rnstein New Series, the unique, fully evaluated data collection in all areas of physical sciences and engineering. SpringerMaterials also comprises the Dortmund Data Bank Software & Separation Technology, a Database on Thermophysical Properties and the Linus Pauling Files, a Database on Inorganic Solid Phases and chemical safety data.",
         "subjects": ["BME","BIOL","SCI"],
         "formats": ["JRN"]

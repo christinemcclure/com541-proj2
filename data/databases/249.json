@@ -4,7 +4,7 @@
         "title": "Voices of the Holocaust",
         "url": "http://voices.iit.edu/",
         "isActive": "true",
-        "isrestricted": "false",
+        "isRestricted": "false",
         "description": "Digital collection offering access to text and audio of first-hand interviews conducted in 1946 with victims of the Nazi holocaust by former IIT professor David P. Boder.",
         "subjects": ["HUM","LCHS","SOC","PSYC"],
         "formats": ["DIG"]

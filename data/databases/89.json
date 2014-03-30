@@ -4,7 +4,7 @@
         "title": "Engineered Materials Abstracts",
         "url": "http://www.csa.com/htbin/dbrng.cgi?username=paulg&access=paulg20&db=emaclust-set-c",
         "isActive": "false",
-        "isrestricted": "true",
+        "isRestricted": "true",
         "description": "Engineered Materials Abstracts is an electronic database containing Ceramics, Composites and Polymers subfiles. EMA is specifically designed to serve materials sciences researchers, engineers and scientists. Citations taken regard the research, manufacturing practices, properties and applications of these materials. Sources covered include over 3,000 periodicals, conference proceedings, technical reports, trade journal/newsletter items, patents, books, and press releases.",
         "formats": ["JRN"]
     }          

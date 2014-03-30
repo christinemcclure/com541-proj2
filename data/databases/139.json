@@ -4,7 +4,7 @@
         "title": "Inspec",
         "url": "http://apps.webofknowledge.com/INSPEC_GeneralSearch_input.do?product=INSPEC&search_mode=GeneralSearch",
         "isActive": "true",
-        "isrestricted": "true",
+        "isRestricted": "true",
         "description": "Inspec, created by the IEE (Institution of Electrical Engineers), is the leading bibliographic database providing abstracts and indexing to the world's scientific and technical papers in physics, electrical engineering, electronics, communications, control engineering, computing, information technology, manufacturing, production and mechanical engineering. INSPEC also provides significant coverage in related disciplines such as materials science, oceanography, nuclear engineering, geophysics, biomedical engineering and many more. This database indexes ACM, IEEE, and SIAM publications, so it's a good one-stop search interface.",
         "subjects": ["ECE","CS","COM","IDN","IDX"],
         "formats": ["JRN"]

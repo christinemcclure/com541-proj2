@@ -4,7 +4,7 @@
         "title": "SSRN - Social Science Research Network",
         "url": "http://papers.ssrn.com/sol3/",
         "isActive": "true",
-        "isrestricted": "false",
+        "isRestricted": "false",
         "description": "Social Science Research Network (SSRN) is devoted to the rapid worldwide dissemination of social science research and is composed of a number of specialized research networks in each of the social sciences. Each of SSRN's networks encourages the early distribution of research results by reviewing and distributing submitted abstracts and by soliciting abstracts of top quality research papers around the world.",
         "subjects": ["SOC"],
         "formats": ["JRN"]

@@ -5,7 +5,7 @@
         "altTitle": "NTRS",
         "url": "http://ntrs.nasa.gov/search.jsp",
         "isActive": "true",
-        "isrestricted": "false",
+        "isRestricted": "false",
         "description": "The NASA Technical Reports Server (NTRS) provides access to 500,000 citations and 90,000 full image files in PDF format.  The collection covers the complete history of NASA and its forefather, the National Advisory Committee on Aeronautics (NACA), from 1915 to forward, with full-text/image coverage increasing with time. Many of the technical reports for which there are no full image files are held by Galvin Library in our Government Documents collection in microfiche machine-readable format. To find these items, use the IIT Library Catalog. If the report you want is only available in microfiche format, you can submit a Microfiche Scanning request, and Government Documents staff will scan the item and post it to their site in PDF format for you.",
         "subjects": ["MMAE"],
         "formats": ["TEC","GOV"]

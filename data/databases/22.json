@@ -3,7 +3,7 @@
         "title": "ASFA 3: Aquatic Pollution and Environmental Quality",
         "url": "http://www.csa.com/htbin/dbrng.cgi?username=paulg&access=paulg20&db=asfa3-set-c",
         "isActive": "false",
-        "isrestricted": "true",
+        "isRestricted": "true",
         "description": "ASFA 3 is the only abstracts database devoted exclusively to research and policy on the contamination of oceans, seas, lakes, rivers, and estuaries. ASFA 3 contains information that will prove essential to specialists who deal in any capacity with aquatic environments and marine pollution problems, including biologists, oceanographers, limnologists, environmental engineers and scientists, industrial engineers, waste managers, corporate regulatory affairs managers, and government officials.",
         "formats": ["JRN"]
     }          

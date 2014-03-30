@@ -4,7 +4,7 @@
         "title": "Internet Public Library Online",
         "url": "http://www.ipl.org/div/subject/browse/hum60.60.00/",
         "isActive": "true",
-        "isrestricted": "false",
+        "isRestricted": "false",
         "description": "A comprehensive directory of web sites covering all academic subject areas. Provides links to many online reference sources, including dictionaries, encyclopedias, biographies, census data, and style/writing guides. Many e-book collections are covered as well.",
         "subjects": ["GEN"],
         "formats": ["BOK","REF"]

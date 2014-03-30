@@ -3,7 +3,7 @@
         "title": "Communication and Mass Media Complete",
         "url": "http://search.EBSCOhost.com/login.asp?profile=web&defaultdb=ufh",
         "isActive": "true",
-        "isrestricted": "true",
+        "isRestricted": "true",
         "description": "Communication & Mass Media Complete provides access to research in areas related to communication and mass media. Communication & Mass Media Complete incorporates the content of CommSearch (formerly produced by the National Communication Association) and Mass Media Articles Index (formerly produced by Penn State) along with numerous other journals in communication, technical communication, mass media, and other closely-related fields of study. Offers cover-to-cover ('core') indexing and abstracts for over 420 journals, and selected ('priority') coverage of nearly 200 more, for a combined coverage of more than 600 titles, along with full text for 301 journals. Contains a sophisticated Communication Thesaurus and comprehensive reference browsing (i.e. searchable cited references for peer-reviewed journals covered as 'core'). In addition, the database  features over 3,000 Author Profiles, providing biographical data and bibliographic information, and covering the most prolific, most cited, and most frequently searched for authors in the database.",
         "subjects": ["COM","HUM","LCHS"],
         "formats": ["JRN"]

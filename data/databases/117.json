@@ -4,7 +4,7 @@
         "title": "GRC Theses List",
         "url": "https://docs.google.com/spreadsheet/ccc?key=0AlWl9zEZsWf_dGpuVGR0eDAyODN3ZUgtVF9PQkJnckE",
         "isActive": "true",
-        "isrestricted": "false",
+        "isRestricted": "false",
         "description": "This spreadsheet includes information on the authors, titles, and dates of publication of theses written by graduates of the College of Architecture at IIT.",
         "subjects": ["ARCH"],
         "formats": ["DIS"]

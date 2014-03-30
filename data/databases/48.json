@@ -3,7 +3,7 @@
         "title": "Chicago Building Code",
         "url": "http://www.amlegal.com/library/il/chicago.shtml",
         "isActive": "true",
-        "isrestricted": "false",
+        "isRestricted": "false",
         "description": "This portal offers access to Chicago's Municipal Code, Chicago Zoning Ordinance and Land Use Ordinance, and Building Code.",
         "subjects": ["ARCH","CAE"],
         "formats": ["STN"]

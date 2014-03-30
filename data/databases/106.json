@@ -4,7 +4,7 @@
         "title": "Getty Art & Architecture Thesaurus",
         "url": "http://www.getty.edu/research/conducting_research/vocabularies/aat/",
         "isActive": "true",
-        "isrestricted": "false",
+        "isRestricted": "false",
         "description": "The AAT is a structured vocabulary relating to architecture, fine arts, and related topics. Useful in defining the best term for a search, related topics, and the history of a term's use. Should one search for Brutalist, Brutalism, or Neo-Brutalist? Find the answer in the AAT.",
         "subjects": ["ARCH","IDN","IDX"],
         "formats": ["IMG"]

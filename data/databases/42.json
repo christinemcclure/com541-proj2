@@ -3,7 +3,7 @@
         "title": "Cambridge Journals Online",
         "url": "http://journals.cambridge.org/action/advanceSearch",
         "isActive": "true",
-        "isrestricted": "true",
+        "isRestricted": "true",
         "description": "Journals published by Cambridge University Press.",
         "subjects": ["GEN"],
         "formats": ["JRN"]

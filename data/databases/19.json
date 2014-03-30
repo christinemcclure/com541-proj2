@@ -3,7 +3,7 @@
         "title": "arXiv.org",
         "url": "http://arxiv.org/",
         "isActive": "true",
-        "isrestricted": "false",
+        "isRestricted": "false",
         "description": "ArXiv is an e-print service with an extensive, searchable collection of mathematics, statistics, physics, quantitative biology, statistics, and computer science papers beginning in 1991. Started by Los Alamos Laboratories, arXiv is now owned and operated by Cornell University and partially funded by the National Science Foundation.",
         "subjects": ["BIOL","PHYS","CS"],
         "formats": ["JRN"]

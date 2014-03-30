@@ -4,7 +4,7 @@
         "title": "Nucleic Acids Abstracts",
         "url": "http://www.csa.com/htbin/dbrng.cgi?username=paulg&access=paulg20&db=nucleic-acids-set-c",
         "isActive": "false",
-        "isrestricted": "true",
+        "isRestricted": "true",
         "description": "Covers research on innovative cloning and sequencing strategies as well as gene regulatory sequences and proteins, RNA processing and transport, RNA editing DNA biosynthesis, transcription factors and oncoproteins. Other coverage includes (1) RNA: biosynthesis, virus and phage infections, effect of hormones, role as a messenger, use of antisense methodology (oligonucleotides and RNA); (2) DNA: effects of radiation, antibiotics and other agents, biosynthesis, virus and phage infections, cloning and sequencing, mutagenesis; and (3) Enzymes: Ribozymes, RNases, DNases, polymerases, phosphorylases, DNA unwinding enzymes, methylguanine-DNA methyltransferase.",
         "formats": ["JRN"]
     }          

@@ -4,7 +4,7 @@
         "title": "Google Scholar",
         "url": "http://scholar.google.com",
         "isActive": "true",
-        "isrestricted": "true",
+        "isRestricted": "true",
         "description": "Google Scholar provides a simple way to broadly search for scholarly literature. From one place, you can search across many disciplines and sources: peer-reviewed papers, theses, books, abstracts and articles, from academic publishers, professional societies, preprint repositories, universities and other scholarly organizations. Use this link to get seamless access to IIT-subscribed journal content, or go to the Scholar Preferences section to set Illinois Institute of Technology as your primary Library Link. ",
         "subjects": ["GEN"],
         "formats": ["JRN","BOK","EBK"]

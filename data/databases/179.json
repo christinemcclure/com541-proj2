@@ -4,7 +4,7 @@
         "title": "Open-Access Text Archive",
         "url": "http://www.archive.org/details/texts",
         "isActive": "true",
-        "isrestricted": "false",
+        "isRestricted": "false",
         "description": "This site features a wide selection of e-books that have been contributed from publishers, universities, and individuals. Most of the texts are in DJVU or PDF format. Free to read, download, and print.",
         "formats": ["JRN"]
     }          

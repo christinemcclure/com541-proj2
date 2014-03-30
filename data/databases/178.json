@@ -4,7 +4,7 @@
         "title": "Oncogenes and Growth Factors Abstracts",
         "url": "http://www.csa.com/htbin/dbrng.cgi?username=paulg&access=paulg20&db=oncogenes-set-c",
         "isActive": "false",
-        "isrestricted": "true",
+        "isRestricted": "true",
         "description": "Oncogenes and Growth Factors Abstracts covers experimental and clinical literature focusing on mechanisms of oncogenes and growth factors. A necessity for molecular biologists researching cell growth and oncogenesis, Oncogenes and Growth Factors Abstracts will also be valuable to researchers in immunology, virology, bacteriology, genetics, and other related fields. ",
         "formats": ["JRN"]
     }          

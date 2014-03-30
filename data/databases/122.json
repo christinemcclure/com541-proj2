@@ -4,7 +4,7 @@
         "title": "Health Source - Consumer Edition",
         "url": "http://search.EBSCOhost.com/login.asp?profile=web&defaultdb=hxh",
         "isActive": "true",
-        "isrestricted": "true",
+        "isRestricted": "true",
         "description": "Database of consumer health information, providing information on many health topics including the medical sciences, food sciences and nutrition, childcare, sports medicine and general health. Provides access to nearly 80 full text, consumer health magazines.",
         "subjects": ["BIOL","BME"],
         "formats": ["JRN"]

@@ -5,7 +5,7 @@
         "altTitle": "Public Library of Science",
         "url": "http://www.plos.org/",
         "isActive": "true",
-        "isrestricted": "false",
+        "isRestricted": "false",
         "description": "Online repository of open-access scientific journals published by Public Library of Science (PLoS), a nonprofit organization of scientists and physicians committed to making the world's scientific and medical literature a freely available public resource.",
         "subjects": ["BME","BIOL","SCI"],
         "formats": ["JRN"]

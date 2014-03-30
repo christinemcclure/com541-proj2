@@ -4,7 +4,7 @@
         "title": "Pollution Abstracts",
         "url": "http://www.csa.com/htbin/dbrng.cgi?username=paulg&access=paulg20&db=pollution-set-c&adv=1",
         "isActive": "false",
-        "isrestricted": "true",
+        "isRestricted": "true",
         "description": "This database provides fast access to the environmental information necessary to resolve day-to-day problems, ensure ongoing compliance, and handle emergency situations more effectively. Pollution Abstracts combines information on scientific research and government policies in a single resource. Topics of growing concern are extensively covered from the standpoints of atmosphere, emissions, mathematical models, effects on people and animals, and environmental action in response to global pollution issues. To ensure comprehensive coverage, material from conference proceedings and hard-to-find documents has been summarized along with information from primary journals in the field.",
         "formats": ["JRN"]
     }          

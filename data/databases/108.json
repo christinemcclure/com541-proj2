@@ -4,7 +4,7 @@
         "title": "Glossary of Genetic Terms",
         "url": "http://www.genome.gov/glossary.cfm",
         "isActive": "true",
-        "isrestricted": "false",
+        "isRestricted": "false",
         "description": "The National Human Genome Research Institute (NHGRI) created the Talking Glossary of Genetic Terms to help people without scientific backgrounds understand the terms and concepts used in genetic research. Simply click on the term of interest to open a page with a wealth of information, including the term's pronunciation, audio information, images and additional links to related terms.",
         "subjects": ["BME","BIOL","SCI"],
         "formats": ["REF"]

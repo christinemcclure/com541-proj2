@@ -4,7 +4,7 @@
         "title": "Teacher Reference Center",
         "url": "http://search.EBSCOhost.com/login.asp?profile=web&defaultdb=trh",
         "isActive": "true",
-        "isrestricted": "true",
+        "isRestricted": "true",
         "description": "Provides indexing and abstracts for more than 270 of the most popular teacher and administrator journals and magazines to assist professional educators.",
         "subjects": ["MSED"],
         "formats": ["JRN"]

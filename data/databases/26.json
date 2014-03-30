@@ -3,7 +3,7 @@
         "title": "ASM Materials Information - Handbooks",
         "url": "http://products.asminternational.org/hbk/index.jsp",
         "isActive": "false",
-        "isrestricted": "true",
+        "isRestricted": "true",
         "description": "The online edition of the ASM Handbook, 10th edition (aka Metals Handbook). This 21 volume reference collection covers the spectrum of ferrous and non-ferrous alloys, from general properties to testing, evaluation, and manufacturing techniques.",
         "formats": ["JRN"]
     }          

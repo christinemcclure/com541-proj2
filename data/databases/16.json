@@ -3,7 +3,7 @@
         "title": "ArchiveGrid",
         "url": "http://archivegrid.com",
         "isActive": "true",
-        "isrestricted": "true",
+        "isRestricted": "true",
         "description": "Index of historical documents, personal papers, and family histories held in archives around the world. Thousands of libraries, museums, and archives have contributed nearly a million collection descriptions to ArchiveGrid. Researchers searching ArchiveGrid can learn about the many items in each of these collections, contact archives to arrange a visit to examine materials, and order copies.",
         "formats": ["JRN"]
     }

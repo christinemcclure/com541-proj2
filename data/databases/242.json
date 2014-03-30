@@ -5,7 +5,7 @@
         "altTitle": "Technical Report Archive And Image Library",
         "url": "http://www.technicalreports.org",
         "isActive": "true",
-        "isrestricted": "false",
+        "isRestricted": "false",
         "description": "The Technical Report Archive & Image Library (TRAIL) is an initiative led by the University of Arizona in collaboration with CRL and other interested agencies to identify, digitize, archive, and provide access to federal technical reports issued prior to 1975",
         "formats": ["JRN"]
     }          

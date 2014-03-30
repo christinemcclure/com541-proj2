@@ -4,6 +4,6 @@
         "title": "RSC Journal Archives (abstracts)",
         "url": "http://www.rsc.org/Publishing/Journals/fjournalsearch.asp",
         "isActive": "true",
-        "isrestricted": "false",
+        "isRestricted": "false",
         "formats": ["JRN"]
     }          

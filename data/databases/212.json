@@ -4,7 +4,7 @@
         "title": "SciFinder Scholar",
         "url": "https://scifinder.cas.org/scifinder",
         "isActive": "true",
-        "isrestricted": "true",
+        "isRestricted": "true",
         "description": "SciFinder is the premier research tool for chemical, biological, biomedical, and related scientific information. ",
         "subjects": ["BIOL","CS","BME","SCI","MATH"],
         "formats": ["JRN"]

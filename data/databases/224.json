@@ -4,7 +4,7 @@
         "title": "Springer eBooks",
         "url": "http://www.springerlink.com/books",
         "isActive": "true",
-        "isrestricted": "true",
+        "isRestricted": "true",
         "description": "Springer eBooks features the full text of academic publications covering the following subjects: Architecture, Design, Business, Economics, Behavioral Science, Biomedical &amp; Life Sciences, and Medicine.",
         "subjects": ["BUS","SSB","ECON","SCI","IDN","IDX"],
         "formats": ["EBK"]

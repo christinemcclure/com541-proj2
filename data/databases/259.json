@@ -4,7 +4,7 @@
         "title": "World's Columbian Exposition of 1893",
         "url": "http://columbus.gl.iit.edu/",
         "isActive": "true",
-        "isrestricted": "false",
+        "isRestricted": "false",
         "description": "An online collection of over 12,000 illustrations and full-text images from four rare nineteenth-century volumes about the Chicago World's Fair.",
         "subjects": ["HIST"],
         "formats": ["DIG"]

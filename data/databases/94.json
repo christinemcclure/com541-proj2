@@ -4,7 +4,7 @@
         "title": "Environmental Sciences and Pollution Mgmt",
         "url": "http://www.csa.com/htbin/dbrng.cgi?username=paulg&access=paulg20&db=envclust-set-c",
         "isActive": "true",
-        "isrestricted": "true",
+        "isRestricted": "true",
         "description": "This multidisciplinary database provides excellent coverage of the environmental sciences. Abstracts and citations are drawn from over 6000 serials including scientific journals, conference proceedings, reports, monographs, books and government publications. Major areas of coverage include agricultural biotechnology; air quality; aquatic pollution; bacteriology; ecology; energy resources; environmental biotechnology; environmental engineering; environmental impact statements (U.S.) ; hazardous waste; industrial hygiene; microbiology related to industrial & environmental issues; pollution: land, air, water, noise, solid waste, radioactive; risk assessment; safety science; toxicology &amp; toxic emissions; water pollution; waste management; water resource issues.",
         "subjects": ["ENVE"],
         "formats": ["JRN"]

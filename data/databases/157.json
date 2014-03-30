@@ -4,7 +4,7 @@
         "title": "MEDLINE",
         "url": "http://newfirstsearch.oclc.org/dbname=MEDLINE;FSIP",
         "isActive": "true",
-        "isrestricted": "true",
+        "isRestricted": "true",
         "description": "Contains a broad range of medical topics relating to research, clinical practice, administration, policy issues, and health care services. Coverage is from 1993-present. Produced by the U.S. National Library of Medicine, MEDLINE contains all records published in Index Medicus and since 2002, most citations previously included in separate NLM specialty databases such as SPACELINE and HISTLINE.",
         "subjects": ["BIOL","BME","SCI"],
         "formats": ["JRN"]

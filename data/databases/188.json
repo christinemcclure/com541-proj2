@@ -4,7 +4,7 @@
         "title": "Plant Science",
         "url": "http://www.csa.com/htbin/dbrng.cgi?username=paulg&access=paulg20&db=plantsci-set-c",
         "isActive": "false",
-        "isrestricted": "true",
+        "isRestricted": "true",
         "description": "Plant Science is a bibliographic database containing citations and abstracts of scientific literature on plant science, focusing on all plant scientific aspects, especially on pathology, symbiosis, biochemistry, genetics, biotechnology, techniques and environmental biology. Over 250 primary research journals are scanned by specialized scientific editors to add approximately 23,000 titles to the database each year. From July 1996 onwards, informative abstracts have been added when available.",
         "formats": ["JRN"]
     }          

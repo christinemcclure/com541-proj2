@@ -4,7 +4,7 @@
         "title": "IIT Library Catalog",
         "url": "https://vufind.carli.illinois.edu/vf-iit/",
         "isActive": "true",
-        "isrestricted": "false",
+        "isRestricted": "false",
         "description": "Use the IIT Library Catalog to search for books, e-books, and print journals held by Paul V. Galvin Library and any of IIT's branch libraries. View your patron record at 'My Account' to see items checked out from IIT and I-Share libraries.",
         "subjects": ["GEN"],
         "formats": ["BOK","EBK"]

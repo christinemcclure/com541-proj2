@@ -4,7 +4,7 @@
         "title": "esp@cenet",
         "url": "http://ep.espacenet.com/",
         "isActive": "true",
-        "isrestricted": "false",
+        "isRestricted": "false",
         "description": "The European Patent Office online database of international patents. The EPO features a searchable database of patents issued by more than 50 countries, including the United States, United Kingdom, Germany, and Japan. Japan and Germany issue patents faster than the United States.  Search these countries' patents first for the most recent breakthroughs. The EPO also indexes U.S. patents starting from 1920, allowing you to search by author, title, or abstract words. Use EPO for finding U.S. patents issued between 1920 and 1975.",
         "subjects": ["CAE","MMAE"],
         "formats": ["JRN"]

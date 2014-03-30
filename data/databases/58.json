@@ -3,7 +3,7 @@
         "title": "Contrails",
         "url": "http://contrails.iit.edu/",
         "isActive": "true",
-        "isrestricted": "false",
+        "isRestricted": "false",
         "description": "Produced by Galvin Library's Government Documents Depository staff, the Contrails website includes over 1,000 technical reports issued by the United States Air Force that have been digitized and indexed in an online database. Covering the history of the first century of powered human flight (including the space race in the 1950s and '60s), Contrails provides the only online access available for many of these reports, which are scanned at archival quality  Coverage is mostly of the second half of the 20th century, with most reports dating from the 1950's through the 1970's.",
         "subjects": ["MMAE"],
         "formats": ["GOV"]

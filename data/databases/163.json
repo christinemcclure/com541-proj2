@@ -4,7 +4,7 @@
         "title": "MicroPatent Materials Patents",
         "url": "http://www.csa.com/htbin/dbrng.cgi?username=paulg&access=paulg20&db=micropatent-set-c",
         "isActive": "false",
-        "isrestricted": "true",
+        "isRestricted": "true",
         "description": "The MicroPatent Materials Patents database supplements CSA Illumina by providing monthly updates of US, European (EP) and Patent Cooperation Treaty (PCT) patents related to technology, engineering, materials, and the sciences. This database is automatically searched when you search CSA Technology Research Database or CSA Materials Research Database with METADEX. If the search produces any matches to your regular CSA Illumina search, you will see the choice for 'MicroPatent Materials Patents.' By clicking on this choice, you will find abstracts of patents related to your CSA Illumina search.",
         "formats": ["JRN"]
     }          

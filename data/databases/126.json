@@ -4,7 +4,7 @@
         "title": "Human Genome Abstracts",
         "url": "http://www.csa.com/htbin/dbrng.cgi?username=paulg&access=paulg20&db=human-genome-set-c",
         "isActive": "false",
-        "isrestricted": "true",
+        "isRestricted": "true",
         "description": "Human genome research is opening up a new era in which specialists will increasingly turn to molecular biology and genetics to answer long-standing scientific questions. Human Genome Abstracts offers a comprehensive source for developments and promising applications emerging from international genome research, including the massive Human Genome Project. Major areas of coverage include nucleic acid, cloning vectors, gene cloning, sequencing, gene therapy, immunogenetics, RFLP, mapping, mutagenesis, medical genetics, and genetic screening.",
         "formats": ["JRN"]
     }          

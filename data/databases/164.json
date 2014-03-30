@@ -4,7 +4,7 @@
         "title": "Military & Government Collection",
         "url": "http://search.EBSCOhost.com/login.asp?profile=web&defaultdb=mth",
         "isActive": "true",
-        "isrestricted": "true",
+        "isRestricted": "true",
         "description": "Designed to offer current news pertaining to all branches of the military, this database offers a thorough collection of periodicals, academic journals and other content pertinent to the increasing needs of those sites. The Military & Government Collection provides cover-to-cover full text for nearly 300 journals and periodicals. The database also offers indexing and abstracts for nearly 400 titles.",
         "subjects": ["MMAE","AS"],
         "formats": ["JRN"]

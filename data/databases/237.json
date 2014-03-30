@@ -4,7 +4,7 @@
         "title": "Thesaurus.com",
         "url": "http://thesaurus.reference.com/",
         "isActive": "true",
-        "isrestricted": "false",
+        "isRestricted": "false",
         "description": "Thesaurus.com is produced by Lexico Publishing Group, LLC, a provider of language reference products and services on the Internet. The thesaurus that appears on this site is Roget's II: The New Thesaurus.",
         "formats": ["REF"]
     }          

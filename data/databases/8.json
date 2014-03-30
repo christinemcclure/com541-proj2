@@ -3,7 +3,7 @@
         "title": "Aerospace & High Technology Database",
         "url": "http://www.csa.com/htbin/dbrng.cgi?username=paulg&access=paulg20&db=aerospace-set-c",
         "isActive": "false",
-        "isrestricted": "true",
+        "isRestricted": "true",
         "description": "The CSA Aerospace and High Technology Database provides bibliographic coverage of basic and applied research in aeronautics, astronautics and space sciences.  The database also covers technology development and applications in complementary and supporting fields such as chemistry, geosciences, physics, communications, and electronics.  In addition to periodic literature, the database also includes coverage of technical reports issued by NASA, other U.S. government agencies, international institutions, universities and private firms. This database provides comprehensive international coverage as well as numerous non-serial publications.",
         "formats": ["JRN"]
     }    

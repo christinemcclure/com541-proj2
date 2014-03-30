@@ -4,7 +4,7 @@
         "title": "Fermilab Technical Publications",
         "url": "http://bss.fnal.gov/techpubs/fermilab_spires.html",
         "isActive": "true",
-        "isrestricted": "false",
+        "isRestricted": "false",
         "description": "Search Fermilab pre-prints and other publications from the Fermi National Accelerator Laboratory. Fermilab maintains a searchable archive of preprints since 1972. Full-text of the preprints is currently available from 1995 to present.  They cover such topics as particle physics, the Tevatron, discovery of the top quark, etc.",
         "subjects": ["PHYS"],
         "formats": ["JRN"]

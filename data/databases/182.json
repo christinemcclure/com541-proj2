@@ -4,7 +4,7 @@
         "title": "Oxford Islamic Studies Online",
         "url": "http://www.oxfordislamicstudies.com/",
         "isActive": "false",
-        "isrestricted": "false",
+        "isRestricted": "false",
         "description": "Features reference content and commentary by renowned scholars in areas such as global Islamic history, concepts, people, practices, politics, and culture.Encompassing over 5,000 A to Z reference entries, chapters from scholarly and introductory works, Qur'anic materials, primary sources, images, maps, and timelines, Oxford Islamic Studies Online offers a multi-layered reference experience designed to provide a first stop for anyone needing information and context on Islam. The current core content titles include the following:",
         "formats": ["JRN"]
     }          

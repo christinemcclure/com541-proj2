@@ -4,7 +4,7 @@
         "title": "Tests in Print",
         "url": "http://search.EBSCOhost.com/login.asp?profile=web&defaultdb=lph",
         "isActive": "false",
-        "isrestricted": "true",
+        "isRestricted": "true",
         "description": "Produced by the Buros Institute of Mental Measurements at the University of Nebraska, Tests in Print (TIP) serves as a comprehensive bibliography to all known commercially available tests that are currently in print in the English language. TIP provides vital information to users including test purpose, test publisher, in-print status, price, test acronym, intended test population, administration times, publication date(s), and test author(s).",
         "formats": ["JRN"]
     }          

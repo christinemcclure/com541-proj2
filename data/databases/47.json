@@ -3,7 +3,7 @@
         "title": "Chemoreception Abstracts",
         "url": "http://www.csa.com/htbin/dbrng.cgi?username=paulg&access=paulg20&db=chemoreception-set-c",
         "isActive": "false",
-        "isrestricted": "true",
+        "isRestricted": "true",
         "description": "This database brings together studies from many diverse disciplines relating to the biochemistry, neurobiology, molecular biology, and physiology of smell, taste, internal chemoreception, chemotaxis, and infochemicals such as pheromones. Other coverage includes such practical areas as food chemistry, odor pollution and control, and perfumery.",
         "formats": ["JRN"]
     } 

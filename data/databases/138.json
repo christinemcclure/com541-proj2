@@ -4,6 +4,6 @@
         "title": "Infotrac",
         "url": "http://infotrac.galegroup.com/itweb/chic40381",
         "isActive": "false",
-        "isrestricted": "true",
+        "isRestricted": "true",
         "formats": ["JRN"]
     }          

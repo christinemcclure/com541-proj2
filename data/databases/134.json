@@ -4,7 +4,7 @@
         "title": "Immunology Abstracts",
         "url": "http://www.csa.com/htbin/dbrng.cgi?username=paulg&access=paulg20&db=immunology-set-c",
         "isActive": "false",
-        "isrestricted": "true",
+        "isRestricted": "true",
         "description": "Immunology Abstracts covers a wide range of topics in biomedical science, from cancer and vaccine research to immune deficiencies and autoimmunity. Studies relating to all aspects of immune systems in man and animals, in normal functions and disorders, are summarized.",
         "formats": ["JRN"]
     }          

@@ -3,7 +3,7 @@
         "title": "Biological Sciences",
         "url": "http://www.csa.com/htbin/dbrng.cgi?username=paulg&access=paulg20&db=biolclust-set-c",
         "isActive": "true",
-        "isrestricted": "true",
+        "isRestricted": "true",
         "description": "This interdisciplinary database offers abstracts and citations to a wide range of research in biomedicine, biotechnology, zoology and ecology, and some aspects of agriculture and veterinary science. Supporting over two dozen areas of expertise, this CSA database provides access to literature from over 6000 serials, as well as conference proceedings, technical reports, monographs and selected books and patents.",
         "subjects": ["BIOL"],
         "formats": ["JRN"]

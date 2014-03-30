@@ -4,7 +4,7 @@
         "title": "SAGE eReference Encyclopedias",
         "url": "http://sage-ereference.com/",
         "isActive": "true",
-        "isrestricted": "true",
+        "isRestricted": "true",
         "description": "The SAGE eReference Encyclopedias database allows users to simultaneously search the contents of over 60 online encyclopedias. Users may also browse titles and entries alphabetically or by subject. Topics covered include African American Studies, Aging &amp; Gerontology, Anthropology, Business &amp; Management, Communication &amp; Media Studies, Counseling &amp; Psychotherapy, Criminology &amp; Criminal Justice, Economics, Education, Environment, Family Studies, Gender &amp; Sexuality Studies, Geography, Health &amp; Social Welfare, History, Politics, Psychology, Research Methods &amp; Evaluation, Social Issues, Social Work &amp; Social Policy, and Sociology.",
         "subjects": ["HUM","LCHS","PS","SOC"],
         "formats": ["REF"]

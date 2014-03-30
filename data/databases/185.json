@@ -5,7 +5,7 @@
         "altTitle": "Periodical Abstracts",
         "url": "http://newfirstsearch.oclc.org/dbname=PerAbs;FSIP",
         "isActive": "false",
-        "isrestricted": "true",
+        "isRestricted": "true",
         "description": "Periodical abstracts from general and academic journals. Subject covered include business, economics, literature, psychology, religion, and women's studies.",
         "formats": ["JRN"]
     }          

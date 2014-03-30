@@ -4,6 +4,6 @@
         "title": "Government Sites from Bernan",
         "url": "http://gii.bernan.com/",
         "isActive": "false",
-        "isrestricted": "true",
+        "isRestricted": "true",
         "formats": ["GOV"]
     }          

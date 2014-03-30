@@ -4,7 +4,7 @@
         "title": "PsycINFO",
         "url": "http://search.ebscohost.com/login.asp?profile=web&amp;defaultdb=psyh",
         "isActive": "true",
-        "isrestricted": "true",
+        "isRestricted": "true",
         "description": "This database is the authoritative source for scholarly literature in the behavioral sciences and mental health. Produced by the American Psychological Association, PsycINFO covers all aspects of psychology and includes material of relevance to psychologists and professionals in related fields such as psychiatry, management, business, education, social science, neuroscience, law, medicine, and social work. Major subject areas covered include Addiction, Adolescence, AIDS, Alcoholism, Anthropology, Clinical Psychiatry, Criminal Justice, Family Therapy, Geriatrics, Hypnotherapy, Learning Disabilities, Physiology, Psychiatry, Psychoanalysis, Public Health, Sex Research, and Speech.",
         "subjects": ["PSYC"],
         "formats": ["JRN"]

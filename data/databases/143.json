@@ -4,7 +4,7 @@
         "title": "I-Share Catalog",
         "url": "http://vufind.carli.illinois.edu/vf/",
         "isActive": "true",
-        "isrestricted": "false",
+        "isRestricted": "false",
         "description": "The I-Share catalog allows access to the collections of dozens of academic libraries that are part of CARLI (Consortium of Academic and Research Libraries in Illinois). You can search for, request and renew items without the assistance of library staff. Before submitting a book request, make sure the item is not available in the IIT Library Catalog.",
         "subjects": ["GEN"],
         "formats": ["BOK"]

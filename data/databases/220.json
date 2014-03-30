@@ -4,7 +4,7 @@
         "title": "Social Services Abstracts",
         "url": "http://www.csa.com/htbin/dbrng.cgi?username=paulg&access=paulg20&db=ssa-set-c",
         "isActive": "false",
-        "isrestricted": "true",
+        "isRestricted": "true",
         "description": "Social Services Abstracts contains abstracts of current research focused on social work, human services, and related areas, including social welfare, social policy, and community development. A good database for research in the application of vocational rehabilitation and clinical psychology.",
         "formats": ["JRN"]
     }          

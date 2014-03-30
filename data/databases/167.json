@@ -4,7 +4,7 @@
         "title": "National Academies Press",
         "url": "http://www.nap.edu/",
         "isActive": "true",
-        "isrestricted": "false",
+        "isRestricted": "false",
         "description": "The National Academies Press (NAP) was created by the National Academies to publish the reports issued by the National Academy of Sciences, the National Academy of Engineering, the Institute of Medicine, and the National Research Council, all operating under a charter granted by the Congress of the United States",
         "subjects": ["BIOL","BME","SCI"],
         "formats": ["JRN"]

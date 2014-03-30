@@ -4,7 +4,7 @@
         "title": "Medline Plus",
         "url": "http://medlineplus.gov/",
         "isActive": "true",
-        "isrestricted": "false",
+        "isRestricted": "false",
         "description": "MedlinePlus brings together authoritative health information from NLM, the National Institutes of Health (NIH), and other government agencies and health-related organizations. Pre-formulated MEDLINE searches are included in MedlinePlus and give easy access to medical journal articles. MedlinePlus also has extensive information about drugs, an illustrated medical encyclopedia, interactive patient tutorials, and latest health news.",
         "subjects": ["BIOL","BME","SCI"],
         "formats": ["JRN"]

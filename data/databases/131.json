@@ -5,7 +5,7 @@
         "altTitle": "share.iit.edu",
         "url": " http://repository.iit.edu",
         "isActive": "true",
-        "isrestricted": "true",
+        "isRestricted": "true",
         "description": "IIT's Digital Repository is a digital archive for the research and creative output of the Illinois Institute of Technology community. Among other IIT-specific research materials, you can access digital copies of IIT master's theses by authors who have given their permission. ",
         "subjects": ["GEN"],
         "formats": ["JRN"," DIS"," TEC"]

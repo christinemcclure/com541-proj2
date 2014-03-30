@@ -4,7 +4,7 @@
         "title": "CSA Materials Research Database with METADEX",
         "url": "http://www.csa.com/htbin/dbrng.cgi?username=paulg&access=paulg20&db=materials-set-c",
         "isActive": "false",
-        "isrestricted": "true",
+        "isRestricted": "true",
         "description": "CSA Materials Research Database with METADEX brings together in one place the majority of the leading materials science databases, with specialist content on materials science, metallurgy, ceramics, polymers, and composites used in engineering application. Everything from raw materials and refining through processing, welding and fabrication to end uses, corrosion, performance and recycling is covered in depth for all metals, alloys, polymers, ceramics, and composites. Sources covered include over 3,000 periodicals, conference proceedings, technical reports, trade journal/newsletter items, patents, books, and press releases.",
         "formats": ["JRN"]
     }          

@@ -4,7 +4,7 @@
         "title": "ScienceDirect",
         "url": "http://www.sciencedirect.com/science?_ob=JournalListURL&_update=y&_auth=y&_acct=C000038758&md5=53ed6a00967cec5320d541a476b9d31e&subjColl=all&stype=title&type=subscribed",
         "isActive": "true",
-        "isrestricted": "true",
+        "isRestricted": "true",
         "description": "Online access to journals published by Elsevier, mainly in the fields of science, technology, and medicine. Use the Browse links to search for journals by subject area or title.",
         "subjects": ["BIOL","CS","BME","SCI","MATH"],
         "formats": ["JRN"]

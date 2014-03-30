@@ -4,7 +4,7 @@
         "title": "Project Gutenberg",
         "url": "http://gutenberg.cc/",
         "isActive": "true",
-        "isrestricted": "false",
+        "isRestricted": "false",
         "description": "Project Gutenberg Consortia Center's provides access to over 75,000 e-books.  You won't find the latest best sellers or modern computer books at Project Gutenberg, but it does contain works that are in the public domain including classics of literature from authors such as Shakespeare, Poe, Dante, and many more.",
         "subjects": ["HUM","LCHS","LIT"],
         "formats": ["JRN"]

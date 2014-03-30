@@ -4,7 +4,7 @@
         "title": "WilsonSelect",
         "url": "http://newfirstsearch.oclc.org/dbname=WilsonSelectPlus;FSIP",
         "isActive": "false",
-        "isrestricted": "true",
+        "isRestricted": "true",
         "description": "This database is comprised of records from the following H.W. Wilson databases: Readers' Guide Abstracts, Social Sciences Abstracts, Humanities Abstracts, General Science Abstracts and Wilson Business Abstracts.",
         "formats": ["JRN"]
     }          

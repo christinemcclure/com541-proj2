@@ -4,7 +4,7 @@
         "title": "Newspaper Source",
         "url": "http://search.EBSCOhost.com/login.asp?profile=web&defaultdb=nfh",
         "isActive": "true",
-        "isrestricted": "true",
+        "isRestricted": "true",
         "description": "Newspaper Source provides cover-to-cover full text for 35 national (U.S.) & international newspapers, including The Christian Science Monitor, USA Today, The Washington Post, The Washington Times, The Times (London), Toronto Star, etc. The database also contains selective full text for more than 375 regional (U.S.) newspapers, including The Chicago Tribune, The Detroit Free Press, The San Jose Mercury News, etc. In addition, full text television & radio news transcripts are provided from CBS News, CNN, CNN International, FOX News, NPR, etc.",
         "subjects": ["HIST","HUM","LCHS"],
         "formats": ["NWS"]

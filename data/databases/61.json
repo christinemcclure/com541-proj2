@@ -3,7 +3,7 @@
         "title": "Corrosion Abstracts",
         "url": "http://www.csa.com/htbin/dbrng.cgi?username=paulg&access=paulg20&db=corrosion-set-c",
         "isActive": "false",
-        "isrestricted": "true",
+        "isRestricted": "true",
         "description": "Corrosion Abstracts provides the world's most complete source of bibliographic information in the area of corrosion science and engineering. International sources of literature are scanned and abstracted in the areas of general corrosion, testing, corrosion characteristics, preventive measures, materials construction and performance, and equipment for many industries. Sources covered include over 3,000 periodicals, conference proceedings, technical reports, trade journal/newsletter items, patents, books, and press releases.",
         "formats": ["JRN"]
     }   

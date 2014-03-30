@@ -4,7 +4,7 @@
         "title": "CumInCAD",
         "url": "http://cumincad.scix.net",
         "isActive": "true",
-        "isrestricted": "true",
+        "isRestricted": "true",
         "description": "CumInCAD is a cumulative index of publications about computer-aided architectural design. It includes bibliographic information about over 8,700 records from journals and conferences such as ACADIA, CAADRIA, eCAADe, SiGraDi, CAAD futures, DDSS and others. All papers include full abstracts. Full texts, in PDF, of some 6,000 papers are also available.",
         "subjects": ["ARCH"],
         "formats": ["JRN"]

@@ -3,7 +3,7 @@
         "title": "Conference Papers Index",
         "url": "http://www.csa.com/htbin/dbrng.cgi?username=paulg&access=paulg20&db=cpi-set-c",
         "isActive": "true",
-        "isrestricted": "true",
+        "isRestricted": "true",
         "description": "Conference Papers provides citations to papers and poster sessions presented at major scientific meetings around the world. Subject emphasis since 1995 has been in the life sciences, environmental sciences and the aquatic sciences, while older material also covers physics, engineering and materials science. Information is derived from final programs, abstracts booklets and published proceedings, as well as from questionnaire responses. Records include complete ordering information to obtain preprints, abstracts, proceedings and other publications derived from the conference, together with title and author information needed to track the specific papers.",
         "subjects": ["COM","HUM","LCHS","IDN","IDX"],
         "formats": ["JRN"]

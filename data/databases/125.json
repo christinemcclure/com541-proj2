@@ -4,7 +4,7 @@
         "title": "History of Science, Technology, and Medicine",
         "url": "http://search.EBSCOhost.com/login.asp?profile=web&defaultdb=htm",
         "isActive": "true",
-        "isrestricted": "true",
+        "isRestricted": "true",
         "description": "This database indexes journal articles, conference proceedings, books, book reviews, and dissertations in the history of science, technology, and medicine and allied historical fields.",
         "subjects": ["HIST","BIOL","BME","CS","ITM"],
         "formats": ["JRN"]

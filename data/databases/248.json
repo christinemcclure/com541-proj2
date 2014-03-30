@@ -4,7 +4,7 @@
         "title": "Virology and AIDS Abstracts",
         "url": "http://www.csa.com/htbin/dbrng.cgi?username=paulg&access=paulg20&db=virology-set-c",
         "isActive": "false",
-        "isrestricted": "true",
+        "isRestricted": "true",
         "description": "Virology and AIDS Abstracts provides a month-by-month summary of literature related to virology and AIDS research. Comprehensive coverage of the world literature on every aspect of virology in humans, animals, and plants is featured, with topics ranging from replication cycles to oncology. The same comprehensive treatment is devoted to such topics as hepatitis B virus vaccination, viral genetics, interferon, and more.",
         "formats": ["JRN"]
     }          

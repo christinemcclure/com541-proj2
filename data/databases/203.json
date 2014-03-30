@@ -4,7 +4,7 @@
         "title": "Risk Abstracts",
         "url": "http://www.csa.com/htbin/dbrng.cgi?username=paulg&access=paulg20&db=risk-set-c",
         "isActive": "false",
-        "isrestricted": "true",
+        "isRestricted": "true",
         "description": "Published in association with the Institute for Risk Research at the University of Waterloo, Risk Abstracts encompasses risk arising from industrial, technological, environmental, and other sources, with an emphasis on assessment and management of risk. The database includes occasional articles on topics of significant interest. The broad, multidisciplinary coverage of risk-related concerns ranges from public and environmental health to social issues and psychological aspects. Professionals involved in risk research studies, environmental science, engineering and design, or any type of industry will find in Risk Abstracts essential information that can help them identify, measure, evaluate, and manage risks of all kinds.",
         "formats": ["JRN"]
     }          

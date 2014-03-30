@@ -4,7 +4,7 @@
         "title": "Earthquake Engineering Abstracts",
         "url": "http://www.csa.com/htbin/dbrng.cgi?username=paulg&access=paulg20&db=earthquake-set-c",
         "isActive": "false",
-        "isrestricted": "true",
+        "isRestricted": "true",
         "description": "Earthquake Engineering Abstracts provides comprehensive, authoritative coverage of earthquake engineering and earthquake hazard mitigation. EEA currently comprises over 114,000 records (full citations and abstracts) from 1971 forward, plus several hundred earlier classic papers and reports. EEA includes approximately 52,000 journal articles -- indexes and abstracts of all major journals that publish significant earthquake engineering research; approximately 40,000 meeting abstracts -- proceedings of conferences and major meetings in earthquake engineering research, and approximately 22,000 research reports' abstracts -- abstracts of research monographs and technical reports including Earthquake Engineering Research Center Reports and Pacific Earthquake Engineering Research Center Reports. Sources covered include over 3,000 periodicals, conference proceedings, technical reports, trade journal/newsletter items, patents, books, and press releases.",
         "formats": ["JRN"]
     }          

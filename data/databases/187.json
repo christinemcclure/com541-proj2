@@ -5,7 +5,7 @@
         "altTitle": "Published International Literature On Traumatic Stress",
         "url": "http://www.csa.com/htbin/dbrng.cgi?username=paulg&access=paulg20&db=pilots-set-c",
         "isActive": "false",
-        "isrestricted": "true",
+        "isRestricted": "true",
         "description": "The PILOTS bibliographic database, covering the Published International Literature On Traumatic Stress, is produced at the headquarters of the National Center for Post-Traumatic Stress Disorder in White River Junction, Vermont. The PILOTS database is sponsored by the U.S. Department of Veterans Affairs. Its goal is to include citations to all literature on post-traumatic stress disorder (PTSD) and other mental-health or psychology sequelae of traumatic events, without disciplinary, linguistic, or geographical limitations, and to offer both current and retrospective coverage.",
         "formats": ["JRN"]
     }          

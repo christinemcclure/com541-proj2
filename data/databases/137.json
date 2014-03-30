@@ -4,7 +4,7 @@
         "title": "Information Please Almanac",
         "url": "http://www.infoplease.com/",
         "isActive": "true",
-        "isrestricted": "false",
+        "isRestricted": "false",
         "description": "Online version of the popular almanac. Information Please has been providing authoritative answers to all kinds of factual questions since 1938 -- first as a popular radio quiz show, then starting in 1947 as an annual almanac, and since 1998 on the Internet.",
         "subjects": ["GEN","HIST"],
         "formats": ["JRN"]

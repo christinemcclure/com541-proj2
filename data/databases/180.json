@@ -4,7 +4,7 @@
         "title": "Optics InfoBase",
         "url": "http://www.opticsinfobase.org/default.cfm",
         "isActive": "true",
-        "isrestricted": "true",
+        "isRestricted": "true",
         "description": "InfoBase is the Optical Society of America's online repository of both current and past volumes of all its journals (citations only, no full-text). It also contains recent proceedings from OSA conferences. ",
         "subjects": ["BME"],
         "formats": ["JRN"]

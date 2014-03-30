@@ -4,7 +4,7 @@
         "title": "Dissertations and Theses",
         "url": "http://search.proquest.com/pqdtft",
         "isActive": "true",
-        "isrestricted": "true",
+        "isRestricted": "true",
         "description": "Online database of doctoral dissertations and master's theses. Full-text is available for many items, and ordering/purchasing information is included for those items with no full-text.",
         "subjects": ["GEN","ANTH","BME","CAE","COM","ECE","FPE","FST","HIST","HUM","IDN","IDX","LCSH","LIT","PS","PSYC","SOC","SSB"],
         "formats": ["DIS"]

@@ -4,7 +4,7 @@
         "title": "Web of Science",
         "url": "http://apps.webofknowledge.com/WOS_GeneralSearch_input.do?product=WOS&search_mode=GeneralSearch",
         "isActive": "true",
-        "isrestricted": "true",
+        "isRestricted": "true",
         "description": "Web of Science provides access to current and retrospective multidisciplinary information from approximately 8,700 of the most prestigious, high-impact research journals in the world. Web of Science also provides a unique search method, cited reference searching. With it, you can navigate forward, backward, and through the literature, searching all disciplines and time spans to uncover all the information relevant to your research. The citation index allows you to see (a) all the references cited by the article, and (b) what other articles have cited the article. This is a good database to use if you have an article of interest and want to expand your search to related documents. Links to related articles are provided.",
         "subjects": ["BIOL","BME","SCI"],
         "formats": ["JRN"]

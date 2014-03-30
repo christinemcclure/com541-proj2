@@ -4,7 +4,7 @@
         "title": "Funk & Wagnalls New World Encyclopedia",
         "url": "http://search.EBSCOhost.com/login.asp?profile=web&defaultdb=funk",
         "isActive": "true",
-        "isrestricted": "true",
+        "isRestricted": "true",
         "description": "Online version of the popular encyclopedia, featuring over 25,000 entries, covering a broad array of topics.",
         "subjects": ["GEN"],
         "formats": ["REF"]

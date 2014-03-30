@@ -4,7 +4,7 @@
         "title": "Smithsonian Photography Initiative",
         "url": "http://photography.si.edu/",
         "isActive": "true",
-        "isrestricted": "false",
+        "isRestricted": "false",
         "description": "Image database featuring more than 13 million images in some seven hundred collections throughout Smithsonian museums and research centers. Subject areas include aerospace engineering, history, manufacturing, and the humanities. ",
         "subjects": ["HIST","LCHS"],
         "formats": ["JRN"]

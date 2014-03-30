@@ -3,7 +3,7 @@
         "title": "Blackwell Synergy",
         "url": "http://www.blackwell-synergy.com",
         "isActive": "false",
-        "isrestricted": "true",
+        "isRestricted": "true",
         "description": "Journals published by Blackwell Synergy.",
         "formats": ["JRN"]
     }        

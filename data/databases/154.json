@@ -4,7 +4,7 @@
         "title": "MathSciNet",
         "url": "http://www.ams.org/mathscinet/search",
         "isActive": "true",
-        "isrestricted": "true",
+        "isRestricted": "true",
         "description": "Provided by the American Mathematical Society, MathSciNet is a searchable database of the world's scholarly mathematical literature since 1940, including reviews, abstracts and bibliographic information.",
         "subjects": ["MATH"],
         "formats": ["JRN"]

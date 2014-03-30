@@ -4,7 +4,7 @@
         "title": "Endocrinology Abstracts",
         "url": "http://www.csa.com/htbin/dbrng.cgi?username=paulg&access=paulg20&db=endocrinology-archival-set-c",
         "isActive": "false",
-        "isrestricted": "true",
+        "isRestricted": "true",
         "description": "Database of scientific literature on endocrinology. Major areas of coverage include general endocrinology, hormones, immunoendocrinology, neuroendocrinology, and physiology of birds, humans, invertebrates, and mammals. **This database is no longer actively updated. For current literature, use the Biological Sciences database.**",
         "formats": ["JRN"]
     }          

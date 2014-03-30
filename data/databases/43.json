@@ -4,7 +4,7 @@
         "altTitle": "Catalog of Art Museum Images Online",
         "url": "http://camio.oclc.org/",
         "isActive": "true",
-        "isrestricted": "true",
+        "isRestricted": "true",
         "description": "OCLC's Catalog of Art Museum Images Online is an international collection of works of art, representing the holdings of prominent museums. CAMIO covers art objects from prehistoric to contemporary times, and covering the complete range of expressive forms, including photographs, prints, sculpture, paintings, decorative arts and utilitarian objects, drawings and watercolors, costume and jewelry, textiles, and architecture.",
         "subjects": ["ARCH","IDN","IDX","HIST","LIT"],
         "formats": ["IMG"]

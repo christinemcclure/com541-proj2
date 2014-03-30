@@ -4,7 +4,7 @@
         "title": "Illinois Natural Resources Geospatial Data Clearinghouse",
         "url": "http://www.isgs.uiuc.edu/nsdihome/",
         "isActive": "true",
-        "isrestricted": "false",
+        "isRestricted": "false",
         "description": "Access Illinois GIS data sets and documentation (metadata) for ArcIMS Interactive Map Services, USGS digital topographic maps, aerial photography, orthoimagery, orthophotography, geology, land use, natural resources, and infrastructure. Illinois data sets and map data layers are available for download free of charge.",
         "subjects": ["ARCH"],
         "formats": ["JRN"]

@@ -3,7 +3,7 @@
         "title": "ClasePeriodica",
         "url": "http://firstsearch.oclc.org/fsip?dbname=ClasePeriodica",
         "isActive": "true",
-        "isrestricted": "true",
+        "isRestricted": "true",
         "description": "Index of Latin American journals in the sciences and humanities.",
         "subjects": ["HUM","LCHS","SOC"],
         "formats": ["JRN"]

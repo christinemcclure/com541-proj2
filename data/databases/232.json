@@ -4,7 +4,7 @@
         "title": "Synthesis Lectures on Biomedical Engineering",
         "url": "http://www.morganclaypool.com/page/bec",
         "isActive": "true",
-        "isrestricted": "true",
+        "isRestricted": "true",
         "description": "Synthesis Lectures in Biomedical Engineering is comprised of 75- to 150-page publications on advanced and state-of-the-art topics that span the field of biomedical engineering, from the atom and molecule to large diagnostic equipment. Each lecture covers, for that topic, the fundamental principles in a unified manner, develops underlying concepts needed for sequential material, and progresses to more advanced topics. Computer software and multimedia, when appropriate and available, is included for simulation, computation, visualization and design. The authors selected to write the lectures are leading experts on the subject who have extensive background in theory, application and design.",
         "subjects": ["BME"],
         "formats": ["JRN"]

@@ -3,7 +3,7 @@
         "title": "Books 24x7",
         "url": "http://library.books24x7.com/library.asp?^B",
         "isActive": "true",
-        "isrestricted": "true",
+        "isRestricted": "true",
         "description": "Books 24x7 is a database of over 4,500 E-books covering computer science and information technology from more than 80 publishers, including MIT Press, Que, Microsoft Press, and many more. This resource is great for finding programming how-to books and technical manuals for network administration, operating systems, database management, and other IT topics. Use the My Bookshelf feature to save a list of books or book chapters you have been using, so you can easily pick up where you left off during your previous sessions.",
         "subjects": ["GEN","CS","BUS","ECE","ITM"],
         "formats": ["EBK"]

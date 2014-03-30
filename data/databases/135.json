@@ -4,7 +4,7 @@
         "title": "Industrial and Applied Microbiology Abstracts (Microbiology A)",
         "url": "http://www.csa.com/htbin/dbrng.cgi?username=paulg&access=paulg20&db=microbiology-a-set-c",
         "isActive": "false",
-        "isrestricted": "true",
+        "isRestricted": "true",
         "description": "Significant findings and practical applications in agricultural, food and beverage, chemical, and pharmaceutical industries are indexed by this database. Major areas of coverage include fermentation, microbial degradation, food microbiology, microbial toxins, plant diseases, forestry, soil microorganisms, mineral microbiology, hydrocarbons, microbial resistance, and antimicrobial agents.",
         "formats": ["JRN"]
     }          

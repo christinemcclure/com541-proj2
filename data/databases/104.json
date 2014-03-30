@@ -4,7 +4,7 @@
         "title": "GenBank",
         "url": "http://www.ncbi.nlm.nih.gov/Genbank/",
         "isActive": "true",
-        "isrestricted": "false",
+        "isRestricted": "false",
         "description": "GenBank is the National Institute of Health (NIH) genetic sequence database, an annotated collection of all publicly available DNA sequences.",
         "subjects": ["BME"],
         "formats": ["JRN"]
