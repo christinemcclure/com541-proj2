@@ -1,0 +1,10 @@
+    {
+        "id": 118,
+        "title": "GreenFILE",
+        "url": "http://search.EBSCOhost.com/login.asp?profile=web&defaultdb=8gh",
+        "isactive": "true",
+        "isrestricted": "true",
+        "description": "GreenFILE offers information covering all aspects of human impact to the environment. Its collection of scholarly, government and general-interest titles includes content on global warming, green building, pollution, sustainable agriculture, renewable energy, recycling, and more. The database provides indexing and abstracts for more than 384,000 records, as well as Open Access full text for more than 4,700 records.",
+        "subjects": ["ENVE","CAE"],
+        "formats": ["JRN"]
+    }          

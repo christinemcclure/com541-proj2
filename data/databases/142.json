@@ -1,0 +1,12 @@
+
+    {
+        "id": 142,
+        "title": "IOP",
+        "alttitle": "Institute of Physics Journals",
+        "url": "http://iopscience.iop.org",
+        "isactive": "true",
+        "isrestricted": "true",
+        "description": "IOP Publishing is an integral part of the Institute of Physics and is a leading scientific publisher specializing in physics and physics related subjects. Institute of Physics (IoP) provides full-text searching of their electronic journals database of over 50 research journals. Full-text access to subscribed journals includes the current volume plus a 10 year back file (where available).",
+        "subjects": ["PHYS"],
+        "formats": ["JRN"]
+    }          

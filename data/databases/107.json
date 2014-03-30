@@ -1,0 +1,12 @@
+
+    {
+        "id": 107,
+        "title": "Getty Thesaurus of Geographic Names",
+        "alttitle": "NULL",
+        "url": "http://www.getty.edu/research/conducting_research/vocabularies/tgn/index.html",
+        "isactive": "true",
+        "isrestricted": "false",
+        "description": "Hierarchical thesaurus of nearly 900,000 places. The TGN provides vernacular and English names of places, variant names in other languages, and whenever possible, historical names. The record for a place may also contain geographical coordinates, dates, and notes.",
+        "subjects": ["ARCH","IDN","IDX"],
+        "formats": ["REF"]
+    }          

@@ -1,0 +1,11 @@
+   
+    {
+        "id": 123,
+        "title": "Health Source - Nursing / Academic Edition",
+        "url": "http://search.EBSCOhost.com/login.asp?profile=web&defaultdb=hch",
+        "isactive": "true",
+        "isrestricted": "true",
+        "description": "Provides nearly 550 scholarly full text journals focusing on many medical disciplines. Also featured are abstracts and indexing for nearly 850 journals. Coverage of nursing and allied health is particularly strong. In addition, this database includes Lexi-PAL Drug Guide, which covers 1,300 generic drug patient education sheets with more than 4,700 brand names.",
+        "subjects": ["BIOL","BME"],
+        "formats": ["JRN"]
+    }          

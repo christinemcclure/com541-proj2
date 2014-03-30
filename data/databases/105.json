@@ -1,0 +1,10 @@
+
+    {
+        "id": 105,
+        "title": "Genetics Abstracts",
+        "url": "http://www.csa.com/htbin/dbrng.cgi?username=paulg&access=paulg20&db=genetics-set-c",
+        "isactive": "false",
+        "isrestricted": "true",
+        "description": "Genetics Abstracts is a database of worldwide literature covering topics such as molecular genetics, DNA, differentiation and development, RNA, protein synthesis, ribosomes, nuclear proteins and chromatin, enzymes, gene regulation, and recombinant DNA technology.",
+        "formats": ["JRN"]
+    }       

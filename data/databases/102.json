@@ -1,0 +1,12 @@
+
+    {
+        "id": 102,
+        "title": "Gale Virtual Reference Library",
+        "alttitle": "NULL",
+        "url": "http://infotrac.galegroup.com/itweb/chic7029?db=GVRL",
+        "isactive": "true",
+        "isrestricted": "true",
+        "description": "A collection of electronic reference books on a variety of topics. Includes encyclopedia entries for arts, business, environment, history, religion, science and technology, as well as general reference topics. A good place to get a basic overview of a topic. ",
+        "subjects": ["GEN"],
+        "formats": ["REF"]
+    }          

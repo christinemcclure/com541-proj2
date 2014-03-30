@@ -1,0 +1,11 @@
+
+    {
+        "id": 147,
+        "title": "Liebert Online",
+        "url": "http://www.liebertonline.com/",
+        "isactive": "true",
+        "isrestricted": "true",
+        "description": "Liebert Online provides electronic access to peer-reviewed journals published by Mary Ann Liebert, Inc. Includes over 30,000 papers from more than 60 journals, all full-text searchable and linked to external bibliographic databases up to 2009.",
+        "subjects": ["GEN"],
+        "formats": ["JRN"]
+    }          

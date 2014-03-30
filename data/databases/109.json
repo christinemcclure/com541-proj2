@@ -1,0 +1,12 @@
+    
+    {
+        "id": 109,
+        "title": "Google Book Search",
+        "alttitle": "NULL",
+        "url": "http://books.google.com",
+        "isactive": "true",
+        "isrestricted": "false",
+        "description": "Google Book Search allows you to search the full text of books that have been scanned and digitized by Google or the publisher. If the book is out of copyright, or the publisher has given permission, a preview of the book, and in some cases the entire text, is viewable. If the book is in the public domain, a PDF copy may be downloaded. This is also a good tool for viewing tables-of-contents and references/citations from books",
+        "subjects": ["GEN"],
+        "formats": ["BOK"]
+    }         

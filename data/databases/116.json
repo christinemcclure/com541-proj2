@@ -1,0 +1,12 @@
+
+    {
+        "id": 116,
+        "title": "Grant Forward",
+        "alttitle": "Illinois Researcher Information Service",
+        "url": "http://www.grantforward.com",
+        "isactive": "true",
+        "isrestricted": "false",
+        "description": "The Illinois Researcher Information Service (formerly IRIS) Database currently contains over 9,000 active federal and private funding opportunities in the sciences, social sciences, arts, and humanities. In addition to funding opportunities for faculty, the IRIS Database also contains fellowships and scholarships for grad students and undergrads. Users can search by sponsor, deadline date, keyword, and other criteria. Most records contain live links to sponsor Web sites, electronic forms, or Electronic Research Administration (eRA) portals. The database is updated daily.",
+        "subjects": ["GEN"],
+        "formats": ["REF"]
+    }          
