@@ -1,5 +1,5 @@
 ___
-[project info](README.md) |  [current-db-fields](current-db-fields.md) | [subjects](subjects.md) | [example](example.md)
+[project info](README.md) |  [current-db-fields](current-db-fields.md) | [subjects](subjects.md) | [example](example.md) | [project summary](Project-2-Summary.pdf)
 ___
 
 #formats.md
