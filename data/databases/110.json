@@ -2,7 +2,6 @@
     {
         "id": 110,
         "title": "Google News Archive Search",
-        "alttitle": "NULL",
         "url": "http://news.google.com/archivesearch",
         "isactive": "true",
         "isrestricted": "false",

@@ -1,7 +1,6 @@
     {
         "id": 30,
         "title": "Barron's",
-        "alttitle": "NULL",
         "url": "http://online.barrons.com/",
         "isactive": "true",
         "isrestricted": "false",

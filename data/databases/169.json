@@ -2,7 +2,6 @@
     {
         "id": 169,
         "title": "National Map Viewer",
-        "alttitle": "NULL",
         "url": "http://nmviewogc.cr.usgs.gov/",
         "isactive": "true",
         "isrestricted": "false",
