@@ -1,0 +1,10 @@
+
+    {
+        "id": 155,
+        "title": "Mechanical &amp; Transportation Engineering Abstracts",
+        "url": "http://www.csa.com/htbin/dbrng.cgi?username=paulg&access=paulg20&db=mechtrans-set-c",
+        "isactive": "false",
+        "isrestricted": "true",
+        "description": "CSA Mechanical & Transportation Engineering Abstracts provides citations, abstracts, and indexing of the serials literature in mechanical and transportation engineering and their complementary fields, including forensic engineering, management and marketing of engineering services, engineering education, theoretical mechanics and dynamics, and mathematics and computation. This database provides in depth, comprehensive coverage of the international engineering literature as well as numerous non-serial publications. Sources covered include over 3,000 periodicals, conference proceedings, technical reports, trade journal/newsletter items, patents, books, and press releases.",
+        "formats": ["JRN"]
+    }         

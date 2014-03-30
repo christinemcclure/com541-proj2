@@ -1,0 +1,11 @@
+
+    {
+        "id": 165,
+        "title": "NanoEthicsBank",
+        "url": "http://ethics.iit.edu/NanoEthicsBank/",
+        "isactive": "true",
+        "isrestricted": "false",
+        "description": "Interdisciplinary database of documents related to the social and ethical implications of nanotechnology. Maintained by IIT's Center for the Study of Ethics in the Professions Library, NanoEthicsBank is a resource for researchers, scholars, students, and the general public who are interested in the interchange of public discourse, regulation, and economics in the development of nanotechnology. Records contained in the database include all relevant citation information, an abstract, and links to materials available on the World Wide Web. The full text of publicly available documents, such as government reports, is included in the NEB, and more will become available as authors and publishers grant copyright permission.",
+        "subjects": ["ECE","CS","COM","IDN","IDX"],
+        "formats": ["JRN"]
+    }          

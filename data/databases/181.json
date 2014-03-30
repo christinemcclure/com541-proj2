@@ -1,0 +1,10 @@
+
+    {
+        "id": 181,
+        "title": "Oxford English Dictionary",
+        "url": "http://www.oed.com/",
+        "isactive": "true",
+        "isrestricted": "true",
+        "description": "Online edition of the definitive dictionary of the English language. Find word definitions, etymology, date charts, and more. ",
+        "formats": ["REF"]
+    }          

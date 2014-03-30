@@ -1,0 +1,10 @@
+
+    {
+        "id": 184,
+        "title": "Papers First",
+        "url": "http://newfirstsearch.oclc.org/dbname=PapersFirst;FSIP",
+        "isactive": "true",
+        "isrestricted": "true",
+        "description": "An index of papers presented at conferences. Includes every congress, conference, exposition, workshop, symposium, and meeting received at the British Library.",
+        "formats": ["JRN"]
+    }          

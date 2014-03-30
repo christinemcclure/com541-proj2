@@ -1,0 +1,10 @@
+
+    {
+        "id": 171,
+        "title": "NewsBank - America's Newspapers",
+        "url": "http://infoweb.newsbank.com",
+        "isactive": "false",
+        "isrestricted": "true",
+        "description": "Electronic editions of over 700 valuable local, regional, and national U.S. newspapers and magazines. Each paper provides unique coverage of local and regional news, including companies, politics, sports, industries, cultural activities, and people in the community. Paid ads are excluded.",
+        "formats": ["NWS"]
+    }          

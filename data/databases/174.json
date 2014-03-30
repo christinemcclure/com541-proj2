@@ -1,0 +1,12 @@
+
+    {
+        "id": 174,
+        "title": "NTIS",
+        "alttitle": "National Technical Information Service",
+        "url": "http://www.ntis.gov/search/index.aspx",
+        "isactive": "true",
+        "isrestricted": "false",
+        "description": "The National Technical Information Service is an agency of the Department of Commerce whose role is to distribute government-produced technical information to the public. NTIS operates in a revenue neutral manner, similar to that of the Post Office, and therefore charges for access to their documents. Some NTIS documents are also distributed in paper or microfiche format to the Galvin Library due to its status as a depository library. NTIS materials held by Galvin may be searched via the IIT Library Catalog.",
+        "subjects": ["PA"],
+        "formats": ["JRN"]
+    }          

@@ -1,0 +1,12 @@
+
+    {
+        "id": 191,
+        "title": "PrivCo",
+        "alttitle": "NULL",
+        "url": "http://www.privco.com",
+        "isactive": "true",
+        "isrestricted": "true",
+        "description": "PrivCo is a source for business and financial research on major privately-held companies (MPCs). It combines financial analysis, editorials, market research, and PrivCo's data technology for over 150,000 private companies in the United States.",
+        "subjects": ["BUS","SSB"],
+        "formats": ["JRN"]
+    }          

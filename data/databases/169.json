@@ -1,0 +1,12 @@
+
+    {
+        "id": 169,
+        "title": "National Map Viewer",
+        "alttitle": "NULL",
+        "url": "http://nmviewogc.cr.usgs.gov/",
+        "isactive": "true",
+        "isrestricted": "false",
+        "description": "The National Map is a collaborative effort among the USGS and other Federal, State, and local partners to improve and deliver topographic information for the Nation. Combines high-quality geospatial data and information from the eight National Data sets.",
+        "subjects": ["ARCH"],
+        "formats": ["MAP"]
+    }          

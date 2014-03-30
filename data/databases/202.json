@@ -1,0 +1,11 @@
+
+    {
+        "id": 202,
+        "title": "Regional Business News",
+        "url": "http://search.EBSCOhost.com/login.asp?profile=web&defaultdb=bwh",
+        "isactive": "true",
+        "isrestricted": "true",
+        "description": "Regional Business News covers 75 business journals, newspapers and newswires covering all metropolitan and rural areas within the United States. Full-text is available for many publications.",
+        "subjects": ["BUS","SSB"],
+        "formats": ["JRN"]
+    }    

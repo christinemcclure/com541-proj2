@@ -1,0 +1,12 @@
+
+    {
+        "id": 173,
+        "title": "NSSN.org",
+        "alttitle": "National Resource for Global Standards",
+        "url": "http://www.nssn.org",
+        "isactive": "true",
+        "isrestricted": "false",
+        "description": "This site can be used as a search engine to get more information about a particular standard. However, it does not offer the full text of the standards, and in many cases will prompt you for payment to access the standards themselves. From the site: The NSSN: A National Resource for Global Standards is a search engine that provides users with standards-related information from a wide range of developers, including organizations accredited by the American National Standards Institute (ANSI), other U.S. private sector standards bodies, government agencies and international organizations.",
+        "subjects": ["CAE","MMAE"],
+        "formats": ["STN"]
+    }          

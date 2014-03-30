@@ -1,0 +1,11 @@
+
+    {
+        "id": 197,
+        "title": "ProQuest SciTech Collection",
+        "url": "http://search.proquest.com/technologycollection",
+        "isactive": "true",
+        "isrestricted": "true",
+        "description": "A comprehensive natural and applied science research collection. Includes databases collections for the following subject areas: Agriculture, Aquatic, Atmospheric, Biology, Earth,, Environmental Science, Materials,  Aerospace, Engineering, Computer Science. ",
+        "subjects": ["BIOL","CS","BME","SCI","MATH"],
+        "formats": ["JRN"]
+    }          

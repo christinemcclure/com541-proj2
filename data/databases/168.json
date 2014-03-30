@@ -1,0 +1,12 @@
+
+    {
+        "id": 168,
+        "title": "National Geographic MapMachine",
+        "alttitle": "NULL",
+        "url": "http://plasma.nationalgeographic.com/mapmachine/index.html",
+        "isactive": "true",
+        "isrestricted": "false",
+        "description": "Satellite photos, street maps, and more are available in this online atlas.",
+        "subjects": ["ARCH"],
+        "formats": ["JRN"]
+    }          

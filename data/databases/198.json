@@ -1,0 +1,11 @@
+
+    {
+        "id": 198,
+        "title": "PsycARTICLES",
+        "url": "http://search.ebscohost.com/login.asp?profile=web&defaultdb=pdh",
+        "isactive": "true",
+        "isrestricted": "true",
+        "description": "PsycARTICLES is a small database of full-text scholarly articles from over 56 journals published by the American Psychological Association, the APA Educational Publishing Foundation, the Canadian Psychological Association, and Hogrefe Publishing Group. The database covers a range of subjects such as general psychology and specialized basic, applied, clinical, and theoretical research areas within psychology. Major subject areas include Addiction, Aging, Behavioral Science, Comparative Psychology, Consulting and Clinical Psychology, Development, Educational Psychology, Ethnic and Minority Population Psychology, Experimental Psychology, Family Psychology, Occupational Health, Personality and Social Psychology, Rehabilitation Psychology, Psychopharmacology, and Stress Management. ",
+        "subjects": ["PSYC"],
+        "formats": ["JRN"]
+    }          

@@ -1,0 +1,10 @@
+
+    {
+        "id": 192,
+        "title": "Proceedings",
+        "url": "http://newfirstsearch.oclc.org/dbname=Proceedings;FSIP",
+        "isactive": "true",
+        "isrestricted": "true",
+        "description": "Index of worldwide conference proceedings. Covers every published congress, symposium, conference, exposition, workshop and meeting received by The British Library Document Supply Centre.",
+        "formats": ["JRN"]
+    }          

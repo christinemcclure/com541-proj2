@@ -1,0 +1,12 @@
+
+    {
+        "id": 170,
+        "title": "NBER",
+        "alttitle": "National Bureau of Economic Research Working Papers",
+        "url": "http://papers.nber.org/",
+        "isactive": "true",
+        "isrestricted": "true",
+        "description": "Database of reports, papers, and other publications produced by the National Bureau of Economic Research -- a private, nonprofit, nonpartisan research organization.",
+        "subjects": ["ECON"],
+        "formats": ["JRN"]
+    }          

@@ -1,0 +1,11 @@
+
+    {
+        "id": 160,
+        "title": "Mergent Online",
+        "alttitle": "NULL",
+        "url": "http://www.mergentonline.com/compsearch.asp",
+        "isactive": "false",
+        "isrestricted": "true",
+        "description": "Mergent Online provides company information for more than 12,000 U.S companies and 22,000 non-U.S. companies (covering 95% of the non-U.S. global market), including mergers and acquisitions information. Annual reports, real-time SEC filings, industry reports and executive biographies are available as well. Users can customize reports and set up e-mail alerts for company filings. An enhanced search interface to the U.S. government's SEC database (EDGAR) is available.",
+        "formats": ["JRN"]
+    }          
