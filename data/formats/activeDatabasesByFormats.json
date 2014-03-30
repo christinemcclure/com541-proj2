@@ -1,0 +1,14 @@
+[
+    {
+        "formatid": "REF",
+        "databases": [4,49,62,102,107,108,116]
+    },
+    {
+        "formatid": "IMG",
+        "databases": [43,46,106,177,209]
+    },
+    {
+        "formatid": "EBK",
+        "databases": [37,62,79,112,132,224,245]
+    }
+]
