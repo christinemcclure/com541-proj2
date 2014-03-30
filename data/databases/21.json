@@ -2,7 +2,7 @@
         "id": 21,
         "title": "ASFA 1: Biological Sciences and Living Resources",
         "url": "http://www.csa.com/htbin/dbrng.cgi?username=paulg&access=paulg20&db=asfa1-set-c",
-        "isactive": "false",
+        "isActive": "false",
         "isrestricted": "true",
         "description": "For scientists involved in the cooperative management of the world's living aquatic resources, ASFA 1 provides extensive coverage of basic and applied research on aquatic organisms. All aspects of marine, freshwater, and brackish water organisms and environments are examined, including information on biology and ecology of aquatic organisms, exploitation of living resources, and related legal, policy, and socioeconomic issues. Since natural resources are an important feature of ASFA 1, fisheries receive particular attention, with comprehensive sections that put scientists and managers in touch with the latest fishing methods, statistics, aquaculture, food technology, productivity, conservation, and marketing. Abstracts cover laboratory studies of aquatic organisms as well as research in the field. All types of source documents dealing with aquatic organisms and issues that affect their environment are surveyed.",
         "formats": ["JRN"]

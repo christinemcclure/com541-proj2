@@ -3,7 +3,7 @@
         "id": 81,
         "title": "Ecology Abstracts",
         "url": "http://www.csa.com/htbin/dbrng.cgi?username=paulg&access=paulg20&db=ecology-set-c",
-        "isactive": "false",
+        "isActive": "false",
         "isrestricted": "true",
         "description": "Database of current ecology research across a wide range of disciplines. Included are relevant papers on evolutionary biology, economics, and systems analysis as they relate to ecosystems or the environment. Coverage ranges from habitats to food chains, from erosion to land reclamation, providing an important cross-section of current findings in target research areas. Detailed information on resource and ecosystems management and modeling is also available, as is material on the impact of climate, water resources, soil, and man or growing environmental problems such as depletion, erosion, and pollution.",
         "formats": ["JRN"]

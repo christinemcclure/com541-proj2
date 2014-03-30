@@ -2,7 +2,7 @@
         "id": 49,
         "title": "CIA World Factbook",
         "url": "https://www.cia.gov/library/publications/the-world-factbook/index.html",
-        "isactive": "true",
+        "isActive": "true",
         "isrestricted": "false",
         "description": "Online reference source containing basic country information, including maps, history, economics, and social studies.",
         "subjects": ["GEN","HIST","COM","PS","SOC"],

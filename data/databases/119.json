@@ -4,7 +4,7 @@
         "title": "HaPI",
         "altTitle": "Health &amp; Psychosocial Instruments",
         "url": "http://search.ebscohost.com/login.asp?profile=web&defaultdb=hpi",
-        "isactive": "true",
+        "isActive": "true",
         "isrestricted": "true",
         "description": "Health &amp; Psychosocial Instruments (HaPI), produced by Behavioral Measurement Database Services, is a comprehensive bibliographic database providing information about behavioral measurement instruments. Information in the database is abstracted from hundreds of leading journals covering health sciences, psychology, and psychosocial sciences.",
         "subjects": ["PSYC"],

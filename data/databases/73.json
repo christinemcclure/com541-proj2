@@ -3,7 +3,7 @@
         "id": 73,
         "title": "David Rumsey Historical Map Collection",
         "url": "http://www.davidrumsey.com/",
-        "isactive": "true",
+        "isActive": "true",
         "isrestricted": "false",
         "description": "The David Rumsey Historical Map Collection has over 18,460 maps online. The collection focuses on rare 18th and 19th century North American and South American maps and other cartographic materials. Historic maps of the World, Europe, Asia, and Africa are also represented. Collection categories include antique atlas, globe, school geography, maritime chart, state, county, city, pocket, wall, childrens, and manuscript maps.",
         "subjects": ["ARCH"],

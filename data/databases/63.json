@@ -3,7 +3,7 @@
         "id": 63,
         "title": "Country Studies",
         "url": "http://memory.loc.gov/frd/cs/cshome.html",
-        "isactive": "true",
+        "isActive": "true",
         "isrestricted": "false",
         "description": "This Web site contains the online versions of books previously published (1988-98) in hard copy by the Federal Research Division of the Library of Congress under the Country Studies/Area Handbook Program sponsored by the U.S. Department of the Army. Because the original intent of the series' sponsor was to focus primarily on lesser-known areas of the world or regions in which U.S. forces might be deployed, the series is not all-inclusive. At present, 101 countries and regions are covered. The date of information for each country appears on the title page of each country and at the end of each section of text.",
         "subjects": ["GEN","HIST"],

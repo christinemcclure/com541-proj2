@@ -2,7 +2,7 @@
         "id": 221,
         "title": "Sociological Abstracts",
         "url": "http://www.csa.com/htbin/dbrng.cgi?username=paulg&access=paulg20&db=socioabs-set-c",
-        "isactive": "false",
+        "isActive": "false",
         "isrestricted": "true",
         "description": "Sociological Abstracts contains abstracts and indexes from over 1,800 social and behavioral sciences serials publications. The database covers materials dating from 1952 to the present in a wide variety of disciplines including environmental interactions, history of sociology, management and complex organizations, policy and planning, and culture and society.",
         "formats": ["JRN"]

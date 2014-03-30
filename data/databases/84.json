@@ -4,7 +4,7 @@
         "title": "EIS",
         "altTitle": "Digests of Environmental Impact Statements",
         "url": "http://www.csa.com/htbin/dbrng.cgi?username=paulg&access=paulg20&db=eis-set-c",
-        "isactive": "false",
+        "isActive": "false",
         "isrestricted": "true",
         "description": "This database provides detailed abstracts of environmental impact statements issued by the federal government. EIS extracts the key issues from complex government-released environmental impact statements, converting massive documents into concise, readable abstracts. Each entry includes a clear description of the project, sections on positive impact and negative consequences, and legal mandates.",
         "formats": ["JRN"]

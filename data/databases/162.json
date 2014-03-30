@@ -3,7 +3,7 @@
         "id": 162,
         "title": "METADEX",
         "url": "http://www.csa.com/htbin/dbrng.cgi?username=paulg&access=paulg20&db=metadex-set-c",
-        "isactive": "false",
+        "isActive": "false",
         "isrestricted": "true",
         "description": "METADEX is a comprehensive source for information on metals and alloys: their properties, manufacturing, applications, and development. Begun in 1966, METADEX contains over 1,425,000 references and is the database equivalent of Metals Abstracts, Metals Abstracts Index, and Alloys Index. Major areas of coverage include: steel; microstructure; refining; casting; coatings; heat treatment; metal matrix composites; nonferrous metals; corrosion; extracting and smelting; blast furnaces; machining; welding; testing and analysis; environmental and safety issues.",
         "formats": ["JRN"]

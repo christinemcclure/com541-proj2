@@ -3,7 +3,7 @@
         "title": "ADAMS",
         "altTitle": "Agencywide Documents Access and Management System",
         "url": "http://www.nrc.gov/reading-rm/adams/web-based.html",
-        "isactive": "true",
+        "isActive": "true",
         "isrestricted": "false",
         "description": "Reports and documents from the U.S. Nuclear Regulatory Commission (NRC). ADAMS documents are provided in either Adobe Portable Document Format (PDF) or Tagged Image File Format (TIFF).",
         "subjects": ["MMAE"],

@@ -3,7 +3,7 @@
         "id": 159,
         "title": "Mental Measurements Yearbook / Tests in Print",
         "url": "http://search.EBSCOhost.com/login.asp?profile=ehost&defaultdb=mmt",
-        "isactive": "true",
+        "isActive": "true",
         "isrestricted": "true",
         "description": "Mental Measurements Yearbook contains full text information and reviews of all English-language standardized tests covering educational skills, personality, vocational aptitude, psychology, and related areas.",
         "subjects": ["PSYC"],

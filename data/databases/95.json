@@ -3,7 +3,7 @@
         "id": 95,
         "title": "EPA Science Inventory",
         "url": "http://cfpub.epa.gov/si",
-        "isactive": "true",
+        "isActive": "true",
         "isrestricted": "false",
         "description": "The Science Inventory (SI) is a searchable database of EPA science activities and scientific/technical work products. The Science Inventory provides information about current or recently completed activities, providing a snapshot of EPA science being conducted in its research laboratories and centers, program and regional offices, and through grants and other assistance agreements to universities and other institutions.",
         "subjects": ["ENVE"],

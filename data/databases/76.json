@@ -3,7 +3,7 @@
         "id": 76,
         "title": "DTIC Online: Public Technical Reports",
         "url": "http://www.dtic.mil/dtic/search/tr/",
-        "isactive": "true",
+        "isActive": "true",
         "isrestricted": "false",
         "description": "DTIC Online provides access to technical reports from all three branches of the military. DTIC Online is particularly strong in regards to aerospace technical reports issued by the United States Air Force. DTIC Online provides citation and some PDF full-image access to unclassified reports only. Access to DTIC Online is provided by the Defense Technical Information Center, which distributes technical information to the military and their contractors in a similar fashion to that employed by the National Technical Information Service to distribute technical information to the public. Full image access is scattered prior to the rise of the Internet in the mid 1990's. Some reports which are unavailable for download via DTIC Online may be available via IIT'S own Contrails website.",
         "subjects": ["MMAE"],

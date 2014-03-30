@@ -4,7 +4,7 @@
         "title": "DARTS",
         "altTitle": "Depository Access to Reports, Technical and Scientific",
         "url": "http://www.gl.iit.edu/govdocs/internet/darts.htm",
-        "isactive": "true",
+        "isActive": "true",
         "isrestricted": "true",
         "description": "Depository Access to Reports, Technical and Scientific (DARTS) provides access to government-produced technical information. DARTS features full-text files that have been posted by the National Technical Information Service (NTIS) as a result of a purchase request.  This database covers the period 1964-present.  Because the DARTS database only provides access to digitized materials, the collection is a tiny fraction of the full NTIS collection.  DARTS is provided by the Department of Commerce only to participating Depository libraries and requires a Reference Librarian for a moderated login.",
         "subjects": ["CAE","MMAE"],

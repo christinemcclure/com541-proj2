@@ -3,7 +3,7 @@
         "id": 177,
         "title": "OAIster",
         "url": "http://www.oaister.worldcat.org/",
-        "isactive": "true",
+        "isActive": "true",
         "isrestricted": "false",
         "description": "OAIster is a searchable online catalog of digital resources, including digitized (i.e., scanned) books and articles, born-digital texts, audio files (e.g., wav, mp3), images (e.g., tiff, gif), movies (e.g., mp4, quicktime), and datasets (e.g., downloadable statistics files).",
         "subjects": ["HUM","LCHS","SOC"],

@@ -2,7 +2,7 @@
         "id": 31,
         "title": "Biological Abstracts",
         "url": "http://apps.webofknowledge.com/BIOABS_GeneralSearch_input.do?product=BIOABS&search_mode=GeneralSearch",
-        "isactive": "true",
+        "isActive": "true",
         "isrestricted": "true",
         "description": "Biological Abstracts is a complete collection of bibliographic references covering life science and biomedical research literature published from more than 4,000 journals internationally. This database provides users with easy access to the latest information in virtually every life science discipline and contains nearly 7.7 million archival records from as far back as 1969, with more than 370,000 citations added each year. Most of the records include informative abstracts written by the author. It is produced by Thomson Scientific.",
         "subjects": ["BIOL"],

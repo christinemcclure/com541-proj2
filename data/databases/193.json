@@ -3,7 +3,7 @@
         "id": 193,
         "title": "Professional Development Collection",
         "url": "http://search.EBSCOhost.com/login.asp?profile=web&defaultdb=tfh",
-        "isactive": "true",
+        "isActive": "true",
         "isrestricted": "true",
         "description": "Professional Development Collection, designed for professional educators, provides a highly specialized collection of nearly 520 high quality education journals, including nearly 350 peer-reviewed titles. This database also contains more than 200 educational reports. This database is one of the most comprehensive collections of full text education journals available. In addition to full text, indexing and abstracts are provided for more than 700 journals.",
         "formats": ["JRN"]

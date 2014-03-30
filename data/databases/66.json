@@ -3,7 +3,7 @@
         "id": 66,
         "title": "CSA Engineering Research Database",
         "url": "http://www.csa.com/htbin/dbrng.cgi?username=paulg&access=paulg20&db=engineering-set-c",
-        "isactive": "false",
+        "isActive": "false",
         "isrestricted": "true",
         "description": "The CSA Engineering Research Database covers the international serial and non-serial literature pertaining to civil, earthquake, environmental, mechanical, and transportation engineering including their complementary fields of forensic engineering, management and marketing of engineering services, engineering education, theoretical mechanics and dynamics, and mathematics/computation. Content includes basic and applied research, design, construction, technological and engineering aspects of air and water quality, environmental safety, energy production and developments in new technologies. Sources covered include over 3,500 periodicals, conference proceedings, technical reports, trade journal/newsletter items, patents, books, and press releases. Subfiles that make up the CSA Engineering Research Database can be searched separately.",
         "formats": ["JRN"]

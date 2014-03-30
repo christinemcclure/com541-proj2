@@ -3,7 +3,7 @@
         "id": 127,
         "title": "Human Population & Natural Resource Management",
         "url": "http://www.csa.com/htbin/dbrng.cgi?username=paulg&access=paulg20&db=humanpop-set-c",
-        "isactive": "false",
+        "isActive": "false",
         "isrestricted": "true",
         "description": "Human Population & Natural Resource Management explores human population and demography topics, as well as societal issues involving natural resource management. Coverage includes relevant papers, reports, books and reviews from standard peer-reviewed scientific journals. To ensure comprehensive coverage, material from conference proceedings and hard-to-find gray literature has also been summarized. Major areas of coverage include human population dynamics, population policy, ecotourism, sustainability, and environmental ewareness &amp; education.",
         "formats": ["JRN"]

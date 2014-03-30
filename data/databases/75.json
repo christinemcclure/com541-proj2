@@ -3,7 +3,7 @@
         "id": 75,
         "title": "Dissertations and Theses at IIT",
         "url": "http://search.proquest.com/pqdtlocal",
-        "isactive": "true",
+        "isActive": "true",
         "isrestricted": "true",
         "description": "Subset of Dissertations and Theses, an online database of doctoral dissertations, featuring work by IIT students. Full-text is available for many items, and ordering/purchasing information is included for those items with no full-text.",
         "subjects": ["GEN","ANTH","BME","CAE","COM","ECE","FPE","FST","HIST","HUM","IDN","IDX","LCSH","LIT","PS","PSYC","SOC","SSB"],

@@ -3,7 +3,7 @@
         "id": 257,
         "title": "WorldCat",
         "url": "http://newfirstsearch.oclc.org/dbname=WorldCat;FSIP",
-        "isactive": "true",
+        "isActive": "true",
         "isrestricted": "true",
         "description": "WorldCat is an online catalog that contains the holdings of more than 8,000 libraries worldwide. You can place requests in WorldCat for materials not owned by IIT or I-Share Libraries.",
         "formats": ["BOK"]

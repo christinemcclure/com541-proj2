@@ -4,7 +4,7 @@
         "title": "Earthquake Engineering Online Archive",
         "altTitle": "EEOA",
         "url": "http://nisee.berkeley.edu/elibrary/",
-        "isactive": "true",
+        "isActive": "true",
         "isrestricted": "false",
         "description": "The Earthquake Engineering Online Archive is a database of significant, publicly-funded research and development literature, photographs, data, and software in earthquake, structural, and geotechnical engineering. It includes full text for EERC, SEMM, and PEER reports published at UC Berkeley, the NISEE software library, and images from EQIIS, including the Steinbrugge, Godden, and Kozak collections.License restrictions dictate that only IIT librarians can log into the database. Contact a librarian for login assistance or to request a particular paper.",
         "subjects": ["ARCH","CAE"],

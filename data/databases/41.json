@@ -2,7 +2,7 @@
         "id": 41,
         "title": "Calcium and Calcified Tissue Abstracts",
         "url": "http://www.csa.com/htbin/dbrng.cgi?username=paulg&access=paulg20&db=calcified-tissue-set-c",
-        "isactive": "false",
+        "isActive": "false",
         "isrestricted": "true",
         "description": "This database assembles pertinent information from wide-ranging sources, reflecting the multi-disciplinary nature of calcium research. Major areas of coverage include cellular calcium, channels, and currents, bone growth and remodeling, bone grafts, implants, and biomaterials, physical exercise and biomechanics, weightlessness and immobilization, bone pharmacology and toxicology, osteoporosis and other bone diseases, cartilage and cartilage diseases, radiology, nutrition and metabolism, kidney function and pathology, muscles, teeth.",
         "formats": ["JRN"]

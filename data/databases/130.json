@@ -4,7 +4,7 @@
         "title": "IEEE Xplore",
         "altTitle": "Institute of Electrical and Electronics Engineers",
         "url": "http://ieeexplore.ieee.org/",
-        "isactive": "true",
+        "isActive": "true",
         "isrestricted": "true",
         "description": "IEEE Xplore contains the full text of publications from the Institute of Electrical and Electronic Engineers, and the Institution of Electrical Engineers. Sources include full text journal articles, conference reports, conference proceedings, standards, and society papers.  The database contains more than 450,000 articles in over 12,000 individual publications. In addition, IEEE adds about 25,000 new pages per month, which builds upon a back file of content published since 1988.",
         "subjects": ["CAE","MMAE"],

@@ -3,7 +3,7 @@
         "id": 103,
         "title": "Galvin Library Public Administration Index",
         "url": "http://guides.library.iit.edu/content.php?pid=27903&sid=205275",
-        "isactive": "true",
+        "isActive": "true",
         "isrestricted": "false",
         "description": "Prepared by the Government Documents Depository staff at the Paul V. Galvin Library, this index provides access to the most widely used publicly available policy analysis and legislative websites.",
         "subjects": ["MMAE","PA"],

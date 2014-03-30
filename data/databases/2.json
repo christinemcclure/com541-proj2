@@ -2,7 +2,7 @@
         "id": 2,
         "title": "Academic Search Premier",
         "url": "http://search.EBSCOhost.com/login.asp?profile=web&defaultdb=aph",
-        "isactive": "true",
+        "isActive": "true",
         "isrestricted": "true",
         "description": "Considered the world's largest multi-discipline full-text database of scholarly knowledge, this database is a good place to start searching for information on almost any topic. Covering all areas of academic study, this database contains indexing and abstracting for more than 8,200 magazines and journals, of which more than 3,600 are full-text peer-reviewed publications.",
         "subjects": ["GEN","ANTH","BME","CAE","COM","ECE","FPE","FST","HIST","HUM","IDN","IDX","LCSH","LIT","PS","PSYC","SOC","SSB"],

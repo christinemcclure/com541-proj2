@@ -3,7 +3,7 @@
         "id": 79,
         "title": "eBook Collection (EBSCOhost)",
         "url": "http://search.EBSCOhost.com/login.asp?profile=web&defaultdb=nlebk",
-        "isactive": "true",
+        "isActive": "true",
         "isrestricted": "true",
         "description": "This database contains almost 3,400 electronic books made available through the Illinois Digital Academic Library (IDAL).",
         "subjects": ["GEN","ANTH","BME","CAE","COM","ECE","FPE","FST","HIST","HUM","IDN","IDX","LCSH","LIT","PS","PSYC","SOC","SSB"],

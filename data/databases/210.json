@@ -3,7 +3,7 @@
         "id": 210,
         "title": "Science.gov",
         "url": "http://www.science.gov/",
-        "isactive": "true",
+        "isActive": "true",
         "isrestricted": "false",
         "description": "Science.gov is a gateway to over 50 million pages of authoritative selected science information provided by U.S. government agencies, including research and development results.",
         "subjects": ["BIOL","BME","SCI"],

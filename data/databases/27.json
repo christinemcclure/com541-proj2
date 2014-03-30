@@ -3,7 +3,7 @@
         "title": "ASME",
         "altTitle": "American Society of Mechanical Engineers",
         "url": "http://asmedigitalcollection.asme.org/",
-        "isactive": "true",
+        "isActive": "true",
         "isrestricted": "true",
         "description": "Journals published by the American Society of Mechanical Engineers.",
         "subjects": ["CAE","MMAE"],

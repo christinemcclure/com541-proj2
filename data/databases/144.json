@@ -3,7 +3,7 @@
         "id": 144,
         "title": "JSTOR",
         "url": "http://www.jstor.org",
-        "isactive": "true",
+        "isActive": "true",
         "isrestricted": "true",
         "description": "JSTOR (Journal STORage) is an archive of important scholarly journals in a variety of subject related to the humanities, physical sciences, and social sciences. Articles are scanned and viewable as exact duplicates from the original copy of the journal. JSTOR is not the place to search for the most current research, but overall is an excellent multidisciplinary database containing articles from many essential peer-reviewed sources. Subjects covered include Anthropology, Architecture, Biology, Business, Economics, Education, History, Language &amp; Literature, Law, Mathematics, Performing Arts, Philosophy, Political Science, Psychology, Public Policy &amp; Administration, Religion, Sociology, and Statistics.",
         "subjects": ["HUM","LCHS","SOC"],

@@ -3,7 +3,7 @@
         "id": 146,
         "title": "LexisNexis Academic Universe",
         "url": "http://www.lexisnexis.com/us/lnacademic",
-        "isactive": "true",
+        "isActive": "true",
         "isrestricted": "true",
         "description": "LexisNexis provides full-text documents from over 5,900 news, business, legal, medical, and reference publications including national and regional newspapers, wire services, broadcast transcripts, international news, and non-English language sources; U.S. Federal and state case law, codes, regulations, legal news, law reviews, and international legal information; Shepard's Citations for all U.S. Supreme Court cases back to 1789; Business news journals, company financial information, SEC filings and reports, and industry and market news. Price information on chemicals and other materials can be found in the Industry and Market News section.",
         "subjects": ["BUS","SSB"],

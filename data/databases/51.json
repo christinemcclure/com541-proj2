@@ -2,7 +2,7 @@
         "id": 51,
         "title": "CiteSeer",
         "url": "http://citeseer.ist.psu.edu",
-        "isactive": "true",
+        "isActive": "true",
         "isrestricted": "false",
         "description": "CiteSeer is a scientific literature digital library focusing on computer and information science. CiteSeer provides citation indexing for each article, which allows you to see (a) all the references cited by the article, and (b) what other articles have cited the article.",
         "subjects": ["CS","ITM","ECE"],

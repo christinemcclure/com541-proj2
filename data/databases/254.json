@@ -3,7 +3,7 @@
         "id": 254,
         "title": "Wiley InterScience",
         "url": "http://www3.interscience.wiley.com/browse/?type=JOURNAL&titles=1",
-        "isactive": "true",
+        "isActive": "true",
         "isrestricted": "true",
         "description": "Electronic access to over 300 leading scientific, technical, medical, and professional journals, plus major reference works, the acclaimed Current Protocols laboratory manuals, and the full text of select Wiley print books online.",
         "subjects": ["BIOL","BME","SCI"],

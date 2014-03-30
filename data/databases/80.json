@@ -4,7 +4,7 @@
         "title": "ECO",
         "altTitle": "Electronic Collections Online",
         "url": "http://newfirstsearch.oclc.org/dbname=ECO;FSIP",
-        "isactive": "true",
+        "isActive": "true",
         "isrestricted": "true",
         "description": "An OCLC collection of scholarly journals.",
         "subjects": ["GEN"],

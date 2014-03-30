@@ -2,7 +2,7 @@
         "id": 33,
         "title": "Biology Digest",
         "url": "http://www.csa.com/htbin/dbrng.cgi?username=paulg&access=paulg20&db=biodig-set-c",
-        "isactive": "false",
+        "isActive": "false",
         "isrestricted": "true",
         "description": "Biology Digest is a compilation of abstracts and indexes of domestic and international literature in the area of life sciences. It is primarily intended for an audience at the high school or undergraduate college level. Its purpose is to aid in keeping students and instructors current on the latest developments in biological research. Each of over 20,000 records contains an original abstract averaging about 325 words. Key information such as methods involved and conclusions drawn from the respective research is retained.",
         "formats": ["JRN"]

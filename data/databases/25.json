@@ -2,7 +2,7 @@
         "id": 25,
         "title": "ASM Materials Information - Alloy Center",
         "url": "http://products.asminternational.org/alloycenter/index.jsp",
-        "isactive": "false",
+        "isActive": "false",
         "isrestricted": "true",
         "description": "The ASM Alloy Center enables you to search in one easy step across ASM property data, performance charts, diagrams, and processing guidelines for specific metals and alloys.",
         "formats": ["JRN"]

@@ -3,7 +3,7 @@
         "id": 111,
         "title": "Google Patent Search",
         "url": "http://www.google.com/patents",
-        "isactive": "true",
+        "isActive": "true",
         "isrestricted": "false",
         "description": "Google Patent Search offers full-text searching of the entire U.S. patent corpus.",
         "subjects": ["CAE","MMAE"],

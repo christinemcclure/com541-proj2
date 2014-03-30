@@ -3,7 +3,7 @@
         "id": 183,
         "title": "Palgrave Dictionary of Economics",
         "url": "http://www.dictionaryofeconomics.com/dictionary",
-        "isactive": "false",
+        "isActive": "false",
         "isrestricted": "true",
         "description": "British Economist R. H. Inglis Palgrave was the original author of this dictionary, as well as an early editor of The Economist. This updated version of his dictionary remains true to the original: using articles written by noted economists from different schools methodologies to discuss classic and evolving economic theories.  ",
         "formats": ["JRN"]

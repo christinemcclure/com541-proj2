@@ -3,7 +3,7 @@
         "id": 218,
         "title": "Simmons Choices",
         "url": "#",
-        "isactive": "false",
+        "isActive": "false",
         "isrestricted": "true",
         "description": "Choices is a powerful tool for market research that allows you to profile the demographics and psychographics of product users, as well as track their media consumption habits.",
         "formats": ["JRN"]

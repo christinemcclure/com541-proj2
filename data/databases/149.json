@@ -3,7 +3,7 @@
         "id": 149,
         "title": "MADCAD",
         "url": "http://www.madcad.com/madcad/login.php",
-        "isactive": "true",
+        "isActive": "true",
         "isrestricted": "true",
         "description": "MADCAD is a state-of-the-art subscription based reference database online, containing building codes, knowledge-based design solutions and, guidelines to meet the codes. MADCAD will provide you access to cross-referenced collections of building, electrical, mechanical, plumbing, fire, and maintenance codes from BOCA, SBCCI, ICBO, ICC, and NFPA. MADCAD goes beyond compiling national standards, and gives you immediate access to comprehensive state and local codes to meet your unique architectural, engineering and educational solutions. Its ease of use lies in the implementation of a search engine and organizational tools.",
         "subjects": ["ARCH","CAE"],

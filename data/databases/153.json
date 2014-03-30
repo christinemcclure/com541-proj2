@@ -3,7 +3,7 @@
         "id": 153,
         "title": "Materials Business File",
         "url": "http://www.csa.com/htbin/dbrng.cgi?username=paulg&access=paulg20&db=mbf-set-c",
-        "isactive": "false",
+        "isActive": "false",
         "isrestricted": "true",
         "description": "Materials Business File covers industry news, product and process developments, plant development and construction, international trade data, government regulations, and management issues related to industries covered by other CSA Technology Research Database (TRD) subfiles. As of 2004, its coverage has been expanded to include business and industry information across the full scope of CSA's TRD and is no longer limited to the materials processing industries. Sources covered include over 3,000 periodicals, conference proceedings, technical reports, trade journal/newsletter items, patents, books, and press releases.",
         "formats": ["JRN"]

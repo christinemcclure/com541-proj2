@@ -2,7 +2,7 @@
         "id": 36,
         "title": "Blackwell Synergy",
         "url": "http://www.blackwell-synergy.com",
-        "isactive": "false",
+        "isActive": "false",
         "isrestricted": "true",
         "description": "Journals published by Blackwell Synergy.",
         "formats": ["JRN"]

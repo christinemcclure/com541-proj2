@@ -3,7 +3,7 @@
         "id": 86,
         "title": "Emporis",
         "url": "http://research.emporis.com/",
-        "isactive": "false",
+        "isActive": "false",
         "isrestricted": "true",
         "description": "Dedicated to documenting tall buildings, Emporis is the world's largest publicly available database on architectural and building data. News, photographs, renderings, and firm data are collected by over 700 editors for more than 50,000 cities worldwide. These experienced authors and correspondents report 24 hours a day on new projects and developments in architecture, engineering, construction, and real estate with a high regard for accurate and reliable information. Emporis's goal is to list every structure in the world which is of public or commercial interest; from a hut to a skyscraper. This resource will be particularly useful to Architecture and Civil Engineering researchers.",
         "formats": ["JRN"]

@@ -3,7 +3,7 @@
         "id": 152,
         "title": "MarketResearch.com Academic",
         "url": "http://academic.marketresearch.com/index.asp?prid=920953817",
-        "isactive": "true",
+        "isActive": "true",
         "isrestricted": "true",
         "description": "Provides market intelligence on consumer demographics, market size and growth trends, industry forces and structure, product trends, competitive environment analysis, and company profiles.",
         "subjects": ["BUS","SSB"],

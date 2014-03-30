@@ -2,7 +2,7 @@
         "id": 29,
         "title": "Bacteriology Abstracts (Microbiology B)",
         "url": "http://www.csa.com/htbin/dbrng.cgi?username=paulg&access=paulg20&db=bacteriology-set-c",
-        "isactive": "false",
+        "isActive": "false",
         "isrestricted": "true",
         "description": "Covers topics ranging from bacterial immunology and vaccinations to diseases of man and animals, the journal provides access to far-reaching clinical findings as well as all aspects of pure bacteriology, biochemistry, and genetics. Of interest to general microbiologists and bacteriologists, environmentalists, medical and veterinary laboratory staff, agricultural researchers, cell biologists, geneticists, toxicologists, and many others.",
         "formats": ["JRN"]

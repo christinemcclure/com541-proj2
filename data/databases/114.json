@@ -3,7 +3,7 @@
         "id": 114,
         "title": "Government Sites from Bernan",
         "url": "http://gii.bernan.com/",
-        "isactive": "false",
+        "isActive": "false",
         "isrestricted": "true",
         "formats": ["GOV"]
     }          

@@ -3,7 +3,7 @@
         "id": 195,
         "title": "Project Muse",
         "url": "http://muse.jhu.edu/search/search.pl",
-        "isactive": "true",
+        "isActive": "true",
         "isrestricted": "true",
         "description": "This database offers a comprehensive selection of prestigious humanities, arts, and social sciences journals. Every journal is indexed and peer-reviewed. Project MUSE contains articles scanned as exact replicas in pdf format.",
         "subjects": ["HUM","LCHS","LIT"],

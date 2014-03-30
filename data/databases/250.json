@@ -3,7 +3,7 @@
         "id": 250,
         "title": "Wall Street Journal",
         "url": "http://online.wsj.com/",
-        "isactive": "true",
+        "isActive": "true",
         "isrestricted": "false",
         "description": "Access all WSJ content online from the Dow Jones website in the original online layout.Online coverage of the popular business newspaper, including analysis tools and news from the past four years. ",
         "subjects": ["BUS","SSB"],

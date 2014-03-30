@@ -4,7 +4,7 @@
         "title": "IEEE Standards",
         "altTitle": "Institute of Electrical and Electronics Engineers",
         "url": "http://ieeexplore.ieee.org/xpl/standards.jsp",
-        "isactive": "true",
+        "isActive": "true",
         "isrestricted": "true",
         "description": "Online access to standards published by the Institute of Electrical and Electronics Engineers. Search by standard number, keyword, or industry.",
         "subjects": ["CAE","MMAE"],

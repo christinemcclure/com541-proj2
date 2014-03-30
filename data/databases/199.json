@@ -3,7 +3,7 @@
         "id": 199,
         "title": "PsycEXTRA",
         "url": "http://search.ebscohost.com/login.asp?profile=web&defaultdb=pxh",
-        "isactive": "true",
+        "isActive": "true",
         "isrestricted": "true",
         "description": "PsycEXTRA is a gray literature database, meaning most of the content was written for professionals and disseminated outside of peer-reviewed journals. Documents include newsletters, magazines, newspapers, technical and annual reports, government reports, consumer brochures, and more.",
         "subjects": ["PSYC"],

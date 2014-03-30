@@ -2,7 +2,7 @@
         "id": 35,
         "title": "Bizminer",
         "url": "http://www.bizminer.com/",
-        "isactive": "true",
+        "isActive": "true",
         "isrestricted": "true",
         "description": "BizMiner produces granular industry statistical reports for over 5,000 lines of business and industry market trends. Used for establishing fair prices for business sales, creating business plans, and finding new markets.",
         "subjects": ["BUS","IDN","IDX","SSB"],

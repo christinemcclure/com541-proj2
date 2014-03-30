@@ -3,7 +3,7 @@
         "id": 251,
         "title": "Water Resources Abstracts",
         "url": "http://www.csa.com/htbin/dbrng.cgi?username=paulg&access=paulg20&db=water-resources-set-c",
-        "isactive": "false",
+        "isActive": "false",
         "isrestricted": "true",
         "description": "Water Resources Abstracts provides summaries of the world's technical and scientific literature on water-related topics covering the characteristics, conservation, control, pollution, treatment, use and management of water resources. Abstracts are drawn from journals, books, conference proceedings, and technical reports in the physical and life sciences, as well as from engineering, legal and government publications. Until 1994, the database was produced by the United States Geological Survey, when it was generally known as Selected Water Resources Abstracts. Since that time, Water Resources Abstracts has been produced by Cambridge Scientific Abstracts, which broadened the scope by including more material published outside the U.S.A. This database, which concentrates on water supply and water treatment, complements the Aquatic Sciences & Fisheries Abstracts database, ASFA.",
         "formats": ["JRN"]

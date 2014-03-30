@@ -3,7 +3,7 @@
         "id": 120,
         "title": "Harper's Weekly",
         "url": "http://app.harpweek.com/",
-        "isactive": "true",
+        "isActive": "true",
         "isrestricted": "true",
         "description": "Online archive of issues of Harper's Weekly, one of America's leading 19th-century illustrated newspapers. Access is available from 1857-1912.",
         "subjects": ["GEN","HIST"],

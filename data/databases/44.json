@@ -2,7 +2,7 @@
         "id": 44,
         "title": "CARLI Digital Collections",
         "url": "http://collections.carli.illinois.edu/",
-        "isactive": "true",
+        "isActive": "true",
         "isrestricted": "false",
         "description": "Digital collections created by member libraries of the Consortium of Academic and Research libraries of Illinois (CARLI). Subjects mostly include art, photography, and Illinois history.",
         "subjects": ["ARCH","IDN","IDX"],

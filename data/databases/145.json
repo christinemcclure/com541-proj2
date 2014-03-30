@@ -3,7 +3,7 @@
         "id": 145,
         "title": "Legal Resources",
         "url": "http://kentlaw.iit.edu/library",
-        "isactive": "true",
+        "isActive": "true",
         "isrestricted": "false",
         "description": "IIT's Kent College of Law provides access to Westlaw, HeinOnline, and other legal resources through the Downtown Campus Library. Law students should access these resources there. ",
         "subjects": ["LAW"]

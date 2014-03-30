@@ -3,7 +3,7 @@
         "id": 62,
         "title": "COS Funding Opportunities",
         "url": "http://search.proquest.com/fundingops",
-        "isactive": "false",
+        "isActive": "false",
         "isrestricted": "true",
         "description": "A database of funding opportunities for grants, fellowships, prizes, etc.  Discover who's doing what -- current research activity, funding received, publications, patents, new positions and more.",
         "formats": ["REF","EBK"]

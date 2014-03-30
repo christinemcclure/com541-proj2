@@ -3,7 +3,7 @@
         "id": 128,
         "title": "ICON: International Coalition on Newspapers",
         "url": "http://icon.crl.edu/digitization.htm",
-        "isactive": "true",
+        "isActive": "true",
         "isrestricted": "false",
         "description": "International directory of digital newspaper collections. From the site: The ICON Database of International Newspapers is a freely accessible electronic resource intended to provide reliable information on newspapers published outside of the United States. It includes bibliographic descriptions of titles as well as specific information on institutions' holdings of the same. The database serves as a central locus for information on international newspaper collections available in North American libraries and in selected libraries outside North America, providing a tool for resource discovery, access, and collection management.",
         "subjects": ["HIST","LIT"],

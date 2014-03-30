@@ -3,7 +3,7 @@
         "id": 82,
         "title": "EconLit",
         "url": "http://search.EBSCOhost.com/login.asp?profile=web&defaultdb=ecn",
-        "isactive": "true",
+        "isActive": "true",
         "isrestricted": "true",
         "description": "Maintained by the American Economic Association, EconLit is one of the most substantial online resources for economic literature. Covering all fields of economics, including capital markets, country studies, econometrics, economic forecasting, environmental economics, government regulations, labor economics, monetary theory, and urban economics, the database contains over 785,000 citations and abstracts dating back to 1969. ",
         "subjects": ["BUS","SSB"],

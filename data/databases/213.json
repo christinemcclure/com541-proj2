@@ -3,7 +3,7 @@
         "id": 213,
         "title": "Scirus",
         "url": "http://scirus.com/",
-        "isactive": "true",
+        "isActive": "true",
         "isrestricted": "false",
         "description": "This site searches scientific literature and information in selected journals and the Web. Use the 'Advanced Search' feature to limit the results to computer science. Also, by enabling IIT in the Library Partner links under Search Preferences, you can connect directly to the library's online full-text journals.",
         "subjects": ["BIOL","CS","BME","SCI","MATH"],

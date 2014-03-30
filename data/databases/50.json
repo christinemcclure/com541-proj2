@@ -3,7 +3,7 @@
         "title": "CIAO",
         "altTitle": "Columbia International Affairs Online",
         "url": "http://www.ciaonet.org/",
-        "isactive": "true",
+        "isActive": "true",
         "isrestricted": "true",
         "description": "Columbia International Affairs Online (CIAO) is the most comprehensive source for theory and research in international affairs. It publishes a wide range of scholarship from 1991 onward that includes working papers from university research institutes, occasional papers series from NGOs, foundation-funded research projects, proceedings from conferences, books, journals and policy briefs. CIAO is also widely-recognized source for teaching materials including original case studies written by leading international affairs experts, course packs of background readings for history and political science classes, and special features like the analysis of a bin Laden recruitment tape with video.",
         "subjects": ["PS","HIST","SOC"],

@@ -3,7 +3,7 @@
         "id": 207,
         "title": "SAGE Journals Online",
         "url": "http://online.sagepub.com",
-        "isactive": "true",
+        "isActive": "true",
         "isrestricted": "true",
         "description": "A collection of over 450 online, peer-reviewed journals and other scholarly content in many disciplines including Management &amp; Organization Studies, Communication Studies, Psychology and Sociology. Full-text available from 1999-present.",
         "subjects": ["HUM","LCHS","PS","SOC"],

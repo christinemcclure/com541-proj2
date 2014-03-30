@@ -3,7 +3,7 @@
         "id": 186,
         "title": "Philosopher's Index",
         "url": "http://search.ebscohost.com/login.aspx?authtype=ip,uid&profile=ehost&defaultdb=phl",
-        "isactive": "true",
+        "isActive": "true",
         "isrestricted": "true",
         "description": "Philosopher's Index covers all major fields of philosophy. This resource contains citation information and author-written abstracts for journal articles, books, contributions to anthologies, and book reviews.",
         "subjects": ["PHIL"],

@@ -4,7 +4,7 @@
         "title": "Thomas Register",
         "altTitle": "ThomasNet",
         "url": "http://www.thomasnet.com/",
-        "isactive": "true",
+        "isActive": "true",
         "isrestricted": "false",
         "description": "An online directory of industrial product information covering 650,000 distributors, manufacturers and service companies within more than 67,000 industrial categories.",
         "subjects": ["BUS","SSB","IDN","IDX"],

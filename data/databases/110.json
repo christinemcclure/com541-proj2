@@ -3,7 +3,7 @@
         "id": 110,
         "title": "Google News Archive Search",
         "url": "http://news.google.com/archivesearch",
-        "isactive": "true",
+        "isActive": "true",
         "isrestricted": "false",
         "description": "Google's News Archive Search offers access to historical archives of newspapers and other news sources. Search results include content from a number of sources, including both partner content digitized through Google's News Archive Partner Program and online archival materials. Search results can include content that is freely accessible as well as content that requires a fee.",
         "subjects": ["GEN","PS.HIST"],

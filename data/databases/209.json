@@ -3,7 +3,7 @@
         "id": 209,
         "title": "Saskia Art Images Collection",
         "url": "http://collections.carli.illinois.edu/cdm4/index_saskia.php?CISOROOT=/saskia",
-        "isactive": "true",
+        "isActive": "true",
         "isrestricted": "true",
         "description": "Saskia Art Images Collection contains 30,000 digital images of paintings, sculpture and architecture, including images from many important collections: the Prado, the Kunsthistorisches Museum, the Uffizi, and the Louvre as well as archaeological sites in Greece, Italy, Turkey and Egypt. The images can be displayed and downloaded in high-resolution format. Additionally, the descriptive data about the images includes references to the occurrences of these images in 19 major art history texts, including Gardner's Art Through the Ages, 12th edition; Understanding Art, 7th edition; Art and Ideas, 10th edition; Discovering Art History, 4th edition. ",
         "subjects": ["IDN","IDX"],

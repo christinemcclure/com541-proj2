@@ -3,7 +3,7 @@
         "id": 201,
         "title": "PubMed",
         "url": "http://www.ncbi.nlm.nih.gov/sites/entrez?otool=ilinstclib",
-        "isactive": "true",
+        "isActive": "true",
         "isrestricted": "false",
         "description": "PubMed is the U.S. National Institutes of Health (NIH) free digital archive of biomedical and life sciences journal literature. PubMed is a service of the U.S. National Library of Medicine that includes over 18 million citations from MEDLINE and other life science journals for biomedical articles back to the 1950s. PubMed includes links to full text articles and other related resources.",
         "subjects": ["BIOL","BME","SCI"],

@@ -3,7 +3,7 @@
         "id": 70,
         "title": "CSA Technology Research Database",
         "url": "http://www.csa.com/htbin/dbrng.cgi?username=paulg&amp;access=paulg20&amp;db=techresearch-set-c",
-        "isactive": "true",
+        "isActive": "true",
         "isrestricted": "true",
         "description": "This comprehensive database provides a single mega-file of all the unique records available through its 3 components: the CSA Materials Research Database with METADEX, CSA High Technology Research Database with Aerospace, and the CSA Engineering Research Database. The database content represents the most comprehensive and current coverage of the relevant serial and non-serial literature available. Sources covered include over 4,000 periodicals, conference proceedings, technical reports, trade journal/newsletter items, patents, books, and press releases.",
         "subjects": ["CAE","MMAE"],

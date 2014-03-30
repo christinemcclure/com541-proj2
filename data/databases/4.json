@@ -2,7 +2,7 @@
         "id": 4,
         "title": "Acronym Finder",
         "url": "http://www.acronymfinder.com/",
-        "isactive": "true",
+        "isActive": "true",
         "isrestricted": "false",
         "description": "With more than 600,000 human-edited definitions, Acronym Finder is the world's largest and most comprehensive dictionary of acronyms, abbreviations, and initialisms.",
         "formats": ["REF"]

@@ -3,7 +3,7 @@
         "id": 208,
         "title": "Sanborn Digital Maps 1867-1970",
         "url": "http://collections.carli.illinois.edu/cdm4/browse.php?CISOROOT=/sanborn",
-        "isactive": "true",
+        "isActive": "true",
         "isrestricted": "true",
         "description": "Digital Sanborn Maps, 1867-1970 provides digital access to more than 660,000 large-scale maps of more than 12,000 American towns and cities. Users have the ability to easily manipulate the maps, magnify and zoom in on specific sections, and layer maps from different years. Sanborn fire insurance maps are valuable historical tools for urban specialists, social historians, architects, geographers, genealogists, local historians, planners, environmentalists and anyone who wants to learn about the history, growth, and development of American cities, towns, and neighborhoods. They are large-scale plans containing data that can be used to estimate the potential risk for urban structures. This includes information such as the outline of each building, the size, shape and construction materials, heights, and function of structures, location of windows and doors. The maps also give street names, street and sidewalk widths, property boundaries, building use, and house and block numbers. Seven or eight different editions represent some areas.",
         "subjects": ["ARCH"],

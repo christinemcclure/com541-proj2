@@ -3,7 +3,7 @@
         "id": 124,
         "title": "Historical Statistics of the United States",
         "url": "http://hsus.cambridge.org/",
-        "isactive": "true",
+        "isActive": "true",
         "isrestricted": "true",
         "description": "Historical Statistics of the United States: Millennial Edition is an online database of statistics, tables, charts, and other quantitative data covering the history of the United States. Census data from 1790 to 2000 is the source for the data. The resource is divided into 5 major sections: Population, Work and Welfare, Economic Structure and Performance, Economic Sectors, and Governance and International Relations. The online edition is fully searchable and downloadable, and allows users to graph individual tables and create customized tables and spreadsheets reflecting their own particular areas of interest.",
         "subjects": ["HIST","PS"],

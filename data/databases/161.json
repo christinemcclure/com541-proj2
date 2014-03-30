@@ -3,7 +3,7 @@
         "id": 161,
         "title": "Merriam-Webster OnLine",
         "url": "http://www.m-w.com/",
-        "isactive": "true",
+        "isActive": "true",
         "isrestricted": "false",
         "description": "Online version of this essential dictionary.",
         "formats": ["REF"]
