@@ -1,0 +1,12 @@
+
+    {
+        "id": 247,
+        "title": "USPTO",
+        "alttitle": "U.S. Patent and Trademark Office",
+        "url": "http://www.uspto.gov/",
+        "isactive": "true",
+        "isrestricted": "false",
+        "description": "The USPTO's database includes the full text of all patents issued since 1790. All patents are searchable by patent number and classification number. Patents issued since 1976 are searchable by keyword in the full text of the patent. Images are in TIFF format, which requires a special plug-in for your browser, such as 'alternatiff' (alternatiff.com). If you can't install a TIFF reader, US patents can be converted to Adobe PDF format and downloaded at pat2pdf.org.",
+        "subjects": ["CAE"],
+        "formats": ["PAT"]
+    }     

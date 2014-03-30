@@ -1,0 +1,10 @@
+
+    {
+        "id": 215,
+        "title": "Share.iit",
+        "url": "http://share.iit.edu",
+        "isactive": "true",
+        "isrestricted": "false",
+        "description": "Share.iit supports cross-disciplinary collaboration by collecting, preserving, disseminating, and providing persistent and reliable access to all IIT faculty, staff, and student digital research and scholarship. Supported and maintained by the Paul V. Galvin Library, share.iit also preserves library and archival collections, and serves as a living archive for other materials representing the many diverse aspects of the IIT community.",
+        "formats": ["JRN","DIS"]
+    }          

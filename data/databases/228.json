@@ -1,0 +1,11 @@
+
+    {
+        "id": 228,
+        "title": "Standard &amp; Poor's NetAdvantage",
+        "alttitle": "NULL",
+        "url": "http://www.netadvantage.standardandpoors.com",
+        "isactive": "false",
+        "isrestricted": "true",
+        "description": "NetAdvantage features comprehensive company information including industry surveys, company stock and financial reports, company descriptions, private company information, security dealers directories, investment news, and resources for mutual fund research. Includes data for domestic and international companies. Download and analyze company financial data with Compustat Excel Analytics.",
+        "formats": ["JRN"]
+    }          

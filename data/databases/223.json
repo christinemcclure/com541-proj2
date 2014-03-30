@@ -1,0 +1,12 @@
+  
+    {
+        "id": 223,
+        "title": "SPIRES-HEP",
+        "alttitle": "High-Energy Physics Literature Database",
+        "url": "http://www.slac.stanford.edu/spires/hep/",
+        "isactive": "true",
+        "isrestricted": "false",
+        "description": "More than 500,000 high-energy physics related articles, including journal papers, preprints, e-prints, technical reports, conference papers and theses, comprehensively indexed by the SLAC and DESY libraries since 1974.",
+        "subjects": ["PHYS"],
+        "formats": ["JRN"]
+    }          

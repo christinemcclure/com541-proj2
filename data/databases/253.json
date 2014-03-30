@@ -1,0 +1,10 @@
+
+    {
+        "id": 253,
+        "title": "WELDASEARCH",
+        "url": "http://www.csa.com/htbin/dbrng.cgi?username=paulg&access=paulg20&db=weldasearch-set-c",
+        "isactive": "false",
+        "isrestricted": "true",
+        "description": "Weldasearch is a comprehensive database containing abstracts to journal articles, research reports, books, standards, patents, theses and special publications in the areas of joining metals, plastics and ceramics, metal and ceramic spraying, thermal cutting, brazing, soldering and related topics. Every aspect of welding and allied processes is covered including design, metallurgy, fatigue and fracture mechanics, equipment for joining and cutting processes, corrosion, surfacing, micro joining, quality control, nondestructive testing, safety, commercial applications, market statistics and news of the industry. Sources covered include numerous periodicals, conference proceedings, technical reports, trade journal/newsletter items, patents (to 2002), books, and press releases.",
+        "formats": ["JRN"]
+    }          

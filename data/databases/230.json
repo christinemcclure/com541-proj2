@@ -1,0 +1,10 @@
+
+    {
+        "id": 230,
+        "title": "Stat-USA",
+        "url": "http://www.stat-usa.gov/",
+        "isactive": "false",
+        "isrestricted": "false",
+        "description": "Access federal business, trade and economic information made available through the U.S. Department of Commerce. One of several features includes access to a repository of economic indicators on topics such as employment, wholesale and retail prices, monetary and housing trends, gross domestic product, etc.",
+        "formats": ["REF"]
+    }          

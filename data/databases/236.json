@@ -1,0 +1,12 @@
+
+    {
+        "id": 236,
+        "title": "The Times (London)",
+        "alttitle": "NULL",
+        "url": "http://find.galegroup.com/ttda/start.do?userGroupName=chic7029",
+        "isactive": "true",
+        "isrestricted": "true",
+        "description": "Complete issues of The Times (London) from 1785 to 2006. Includes headlines, articles, images, editorials, advertisements and from the United Kingdom's paper of record. ",
+        "subjects": ["HIST","PS","LCHS","SOC"],
+        "formats": ["NWS"]
+    }          

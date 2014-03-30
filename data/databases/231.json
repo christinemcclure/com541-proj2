@@ -1,0 +1,10 @@
+
+    {
+        "id": 231,
+        "title": "Sustainability Science Abstracts",
+        "url": "http://www.csa.com/htbin/dbrng.cgi?username=paulg&access=paulg20&db=sustain-set-c.php",
+        "isactive": "false",
+        "isrestricted": "true",
+        "description": "This database indexes literature on the management of human use and conservation of the natural resource base, focusing on the attainment and continued satisfaction of human needs in the present as well as maintaining the potential to meet the needs and aspirations of future generations. Coverage includes relevant papers, reports, books and reviews from standard peer-reviewed scientific journals. To ensure comprehensive coverage, material from conference proceedings and hard-to-find gray literature has also been summarized.",
+        "formats": ["JRN"]
+    }          

@@ -1,0 +1,11 @@
+
+    {
+        "id": 225,
+        "title": "SpringerLink",
+        "url": "http://www.springerlink.com/home/main.mpx",
+        "isactive": "true",
+        "isrestricted": "true",
+        "description": "Provides electronic access to the complete contents of a growing collection of SpringerLink journals in subjects including Mathematics and Computer Science (formerly Kluwer Journals).",
+        "subjects": ["MATH","CS"],
+        "formats": ["JRN"]
+    }          

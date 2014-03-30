@@ -1,0 +1,11 @@
+ 
+    {
+        "id": 258,
+        "title": "WorldCat Dissertations and Theses",
+        "alttitle": "NULL",
+        "url": "http://newfirstsearch.oclc.org/dbname=WorldCatDissertations;FSIP",
+        "isactive": "true",
+        "isrestricted": "true",
+        "description": "Search for dissertations and theses held in over 8,000 libraries worldwide. Covers all disciplines and subject areas.",
+        "formats": ["DIS"]
+    }      

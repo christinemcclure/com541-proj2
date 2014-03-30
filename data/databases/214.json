@@ -1,0 +1,11 @@
+
+    {
+        "id": 214,
+        "title": "Scitation",
+        "url": "http://scitation.aip.org/",
+        "isactive": "true",
+        "isrestricted": "true",
+        "description": "Created by the American Institute of Physics (AIP), this resource provides citations and abstracts for approximately 300 journals and proceedings published by various science and engineering societies. Use AIP/Scitation to find articles from American Institute of Physics, American Physical Society, American Society of Mechanical Engineers, American Society of Civil Engineers, and the International Society for Optical Engineering and related societies. Full-text may be available for selected journals.",
+        "subjects": ["BIOL","CS","BME","SCI","MATH"],
+        "formats": ["JRN"]
+    }          

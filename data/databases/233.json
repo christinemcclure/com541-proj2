@@ -1,0 +1,11 @@
+
+    {
+        "id": 233,
+        "title": "Teacher Reference Center",
+        "url": "http://search.EBSCOhost.com/login.asp?profile=web&defaultdb=trh",
+        "isactive": "true",
+        "isrestricted": "true",
+        "description": "Provides indexing and abstracts for more than 270 of the most popular teacher and administrator journals and magazines to assist professional educators.",
+        "subjects": ["MSED"],
+        "formats": ["JRN"]
+    }          

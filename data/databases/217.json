@@ -1,0 +1,12 @@
+
+    {
+        "id": 217,
+        "title": "SIAM Locus",
+        "alttitle": "Society for Industrial and Applied Mathematics",
+        "url": "http://locus.siam.org/",
+        "isactive": "true",
+        "isrestricted": "true",
+        "description": "Online digital library of publications of the Society for Industrial and Applied Mathematics from 1952-1996. Browse by journal title or use the Advanced Search feature to search multiple titles simultaneously. ",
+        "subjects": ["MATH"],
+        "formats": ["JRN"]
+    }          

@@ -1,0 +1,11 @@
+
+    {
+        "id": 239,
+        "title": "ThomasNet",
+        "url": "http://www.thomasnet.com/",
+        "isactive": "true",
+        "isrestricted": "false",
+        "description": "Online version of the Thomas Register of American Manufacturers, a buying guide offering sourcing information on industrial products and services, along with comprehensive specifications and detailed product information from thousands of manufacturers. ",
+        "subjects": ["BUS","SSB","IDN","IDX"],
+        "formats": ["JRN"]
+    }          

@@ -1,0 +1,10 @@
+
+    {
+        "id": 241,
+        "title": "TOXLINE",
+        "url": "http://www.csa.com/htbin/dbrng.cgi?username=paulg&access=paulg20&db=toxline-set-c",
+        "isactive": "false",
+        "isrestricted": "true",
+        "description": "TOXLINE offers rapid access to information in all areas of toxicology, including chemicals and pharmaceuticals, pesticides, environmental pollutants, and mutagens and teratogens. This database, produced by the U.S. National Library of Medicine, provides bibliographic citations and abstracts from the core journal literature in toxicology. This version of TOXLINE does not contain information from Chemical Abstracts Service, BIOSIS, or International Pharmaceutical Abstracts; furthermore, it is a 'rolling 5-year' database, consisting of records from the last 5 years plus the current year.",
+        "formats": ["JRN"]
+    }          

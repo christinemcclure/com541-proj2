@@ -1,0 +1,10 @@
+
+    {
+        "id": 256,
+        "title": "World Almanac",
+        "url": "http://newfirstsearch.oclc.org/dbname=WorldAlmanac;FSIP",
+        "isactive": "true",
+        "isrestricted": "true",
+        "description": "Online reference source featuring content from Funk &amp; Wagnalls New Encyclopedia and four almanacs.",
+        "formats": ["JRN"]
+    }          
